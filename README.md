@@ -1,4 +1,4 @@
 NSLS-II.github.io
 =================
 
-Webpage reposotory
+Webpage repository
