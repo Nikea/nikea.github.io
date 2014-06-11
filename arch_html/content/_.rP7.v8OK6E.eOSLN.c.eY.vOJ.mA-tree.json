@@ -23,7 +23,6 @@
                 {_reference: '_WL.d.b.kPD.nE.eOTAK2HB2.e.f.nA' },
                 {_reference: '_D.h.kH0OK7E.eOSLN.c.eY.vOJ.mA' },
                 {_reference: '_2.xHVUPF6E.eO.a.b9.bVA.s1L.tQ' },
-                {_reference: '_VH.iS.cPGBE.eO7V.b.dN.g.f.fXRQ' },
                 {_reference: '_BP.q.fM.fF4E.eO.a.b9.bVA.s1L.tQ' },
                 {_reference: '_.w9D.m0OL.mE.eO3.zNO.u.s.dT.lYA' },
                 {_reference: '_.x7U.l4.eL.mE.eO3.zNO.u.s.dT.lYA' },
@@ -125,13 +124,6 @@
             title: 'nsls2_data::External Interactions',
             id: '_2.xHVUPF6E.eO.a.b9.bVA.s1L.tQ',
             object: '_2.xHVUPF6E.eO.a.b9.bVA.s1L.tQ-content.html',
-            icon: 'icon419767411'
-        },
-	
-        {
-            title: 'nsls2_data::All Beamlines',
-            id: '_VH.iS.cPGBE.eO7V.b.dN.g.f.fXRQ',
-            object: '_VH.iS.cPGBE.eO7V.b.dN.g.f.fXRQ-content.html',
             icon: 'icon419767411'
         },
 	
@@ -241,21 +233,11 @@
                 {_reference: '_.i9VBAPD.mE.eOTAK2HB2.e.f.nA' },
                 {_reference: '_.n.g.x-EPD.mE.eOTAK2HB2.e.f.nA' },
                 {_reference: '_.mP-.oEPD.nE.eOTAK2HB2.e.f.nA' },
-                {_reference: '_.x.c.j.w.oPF.oE.eO.j6Y49.v.s.b.qIA' },
-                {_reference: '_.zM.bL.wPF.oE.eO.j6Y49.v.s.b.qIA' },
-                {_reference: '_1H.oUMPF.oE.eO.j6Y49.v.s.b.qIA' },
                 {_reference: '_.u.uF.aYPF3E.eO.a.b9.bVA.s1L.tQ' },
                 {_reference: '_.y.qZ.e8PF3E.eO.a.b9.bVA.s1L.tQ' },
                 {_reference: '_.fN.rLEPF4E.eO.a.b9.bVA.s1L.tQ' },
                 {_reference: '_G6.pP.kPF5E.eO.a.b9.bVA.s1L.tQ' },
-                {_reference: '_0O.fD.sPF-E.eO.a.b9.bVA.s1L.tQ' },
-                {_reference: '_.eXG10PGAE.eO7V.b.dN.g.f.fXRQ' },
                 {_reference: '_6.n.gJUPGAE.eO7V.b.dN.g.f.fXRQ' },
-                {_reference: '_-.r-.rYPGAE.eO7V.b.dN.g.f.fXRQ' },
-                {_reference: '__O.hX.wPGAE.eO7V.b.dN.g.f.fXRQ' },
-                {_reference: '_CD3NMPGBE.eO7V.b.dN.g.f.fXRQ' },
-                {_reference: '_C2CRAPGBE.eO7V.b.dN.g.f.fXRQ' },
-                {_reference: '_DXM.dUPGBE.eO7V.b.dN.g.f.fXRQ' },
                 {_reference: '_.l8.oAQPGBE.eO7V.b.dN.g.f.fXRQ' },
                 {_reference: '_.mY8.v4PGBE.eO7V.b.dN.g.f.fXRQ' },
                 {_reference: '_.nA.f4EPGBE.eO7V.b.dN.g.f.fXRQ' },
@@ -677,6 +659,7 @@
             object: '_QE.a84OL.mE.eO3.zNO.u.s.dT.lYA-content.html',
             icon: 'icon1929716497',
             children: [
+                {_reference: '_.eXG10PGAE.eO7V.b.dN.g.f.fXRQ' },
                 {_reference: '_2.p.p.z.sPGAE.eO7V.b.dN.g.f.fXRQ' },
                 {_reference: '_.bU.bV8PD.mE.eOTAK2HB2.e.f.nA' },
                 {_reference: '_.lBA.l.cPD.lE.eOTAK2HB2.e.f.nA' },
@@ -695,6 +678,13 @@
                 {_reference: '_5NIR.gOL.kE.eO3.zNO.u.s.dT.lYA' },
                 {_reference: '_.wB.uM.gPF3E.eO.a.b9.bVA.s1L.tQ' }
             ]
+        }
+		,
+        {
+            title: 'CALC: Phase Contrast',
+            id: '_.eXG10PGAE.eO7V.b.dN.g.f.fXRQ',
+            object: '_.eXG10PGAE.eO7V.b.dN.g.f.fXRQ-content.html',
+            icon: 'icon1963268413'
         }
 		,
         {
@@ -1184,27 +1174,6 @@
         }
 		,
         {
-            title: 'Meet with Gabe',
-            id: '_.x.c.j.w.oPF.oE.eO.j6Y49.v.s.b.qIA',
-            object: '_.x.c.j.w.oPF.oE.eO.j6Y49.v.s.b.qIA-content.html',
-            icon: 'icon1963268413'
-        }
-		,
-        {
-            title: 'HXN Representative',
-            id: '_.zM.bL.wPF.oE.eO.j6Y49.v.s.b.qIA',
-            object: '_.zM.bL.wPF.oE.eO.j6Y49.v.s.b.qIA-content.html',
-            icon: 'icon906306671'
-        }
-		,
-        {
-            title: 'waiting on meeting to discuss use cases',
-            id: '_1H.oUMPF.oE.eO.j6Y49.v.s.b.qIA',
-            object: '_1H.oUMPF.oE.eO.j6Y49.v.s.b.qIA-content.html',
-            icon: 'icon1426399543'
-        }
-		,
-        {
             title: '',
             id: '_.u.uF.aYPF3E.eO.a.b9.bVA.s1L.tQ',
             object: '_.u.uF.aYPF3E.eO.a.b9.bVA.s1L.tQ-content.html',
@@ -1496,57 +1465,8 @@
 		,
         {
             title: '',
-            id: '_0O.fD.sPF-E.eO.a.b9.bVA.s1L.tQ',
-            object: '_0O.fD.sPF-E.eO.a.b9.bVA.s1L.tQ-content.html',
-            icon: 'icon1426399543'
-        }
-		,
-        {
-            title: 'CALC: Phase Contrast',
-            id: '_.eXG10PGAE.eO7V.b.dN.g.f.fXRQ',
-            object: '_.eXG10PGAE.eO7V.b.dN.g.f.fXRQ-content.html',
-            icon: 'icon1963268413'
-        }
-		,
-        {
-            title: '',
             id: '_6.n.gJUPGAE.eO7V.b.dN.g.f.fXRQ',
             object: '_6.n.gJUPGAE.eO7V.b.dN.g.f.fXRQ-content.html',
-            icon: 'icon1426399543'
-        }
-		,
-        {
-            title: '',
-            id: '_-.r-.rYPGAE.eO7V.b.dN.g.f.fXRQ',
-            object: '_-.r-.rYPGAE.eO7V.b.dN.g.f.fXRQ-content.html',
-            icon: 'icon1426399543'
-        }
-		,
-        {
-            title: '',
-            id: '__O.hX.wPGAE.eO7V.b.dN.g.f.fXRQ',
-            object: '__O.hX.wPGAE.eO7V.b.dN.g.f.fXRQ-content.html',
-            icon: 'icon1426399543'
-        }
-		,
-        {
-            title: '',
-            id: '_CD3NMPGBE.eO7V.b.dN.g.f.fXRQ',
-            object: '_CD3NMPGBE.eO7V.b.dN.g.f.fXRQ-content.html',
-            icon: 'icon1426399543'
-        }
-		,
-        {
-            title: '',
-            id: '_C2CRAPGBE.eO7V.b.dN.g.f.fXRQ',
-            object: '_C2CRAPGBE.eO7V.b.dN.g.f.fXRQ-content.html',
-            icon: 'icon1426399543'
-        }
-		,
-        {
-            title: '',
-            id: '_DXM.dUPGBE.eO7V.b.dN.g.f.fXRQ',
-            object: '_DXM.dUPGBE.eO7V.b.dN.g.f.fXRQ-content.html',
             icon: 'icon1426399543'
         }
 		,
