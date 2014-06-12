@@ -21,7 +21,7 @@ do
     # loop through the user names
     for idx in "${!user_names[@]}"
     do
-		url=https://github.com/"${user_names[idx]}""/""$repo""$suffix"
+        url=https://github.com/"${user_names[idx]}""/""$repo""$suffix"
 ##        echo remote url: $url
         git remote add "${alias[idx]}" $url
 	done
