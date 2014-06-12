@@ -1,4 +1,4 @@
-
+#! /bin/bash
 rm -rf vistools
 sitories to clone
 declare -a repo_names=("NSLS2" "vistools" "KitchenSink" "NSLS-II.github.io")
@@ -12,19 +12,19 @@ suffix=".git"
 for repo in "${repo_names[@]}"
 do
     echo removing "$repo" repository
-        rm -rf "$repo"
-            url="$prefix""$repo""$suffix"
-                echo echoing repo_names: $url
-                    git clone $url
-                        cd "$repo"
-                            git remote rename origin nsls2
-                                # loop through the user names
-                                    for idx in "${!user_names[@]}"
-                                        do
-                                                url=https://github.com/"${user_names[idx]}""/""$repo""$suffix"
-                                                        echo remote url: $url
-                                                                git remote add "${alias[idx]}" $url
-                                                                    done
-                                                                        git remote update
-                                                                            cd ..
-                                                                            done
+    rm -rf "$repo"
+    url="$prefix""$repo""$suffix"
+##    echo echoing repo_names: $url
+    git clone $url
+    cd "$repo"
+    git remote rename origin nsls2
+    # loop through the user names
+    for idx in "${!user_names[@]}"
+    do
+		url=https://github.com/"${user_names[idx]}""/""$repo""$suffix"
+##        echo remote url: $url
+        git remote add "${alias[idx]}" $url
+	done
+	git remote update
+	cd ..
+done
