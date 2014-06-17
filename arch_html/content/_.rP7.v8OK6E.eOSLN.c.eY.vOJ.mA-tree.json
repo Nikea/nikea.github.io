@@ -1,0 +1,3372 @@
+
+{ 
+    identifier: 'id',
+    label: 'title',
+    items: [
+        {
+            title: 'Diagrams',
+            top: true,
+            id: '_DIAGRAMS_ROOT_NODE_',
+            icon: 'icon1560619196',
+            children: [
+                {_reference: '__.x0SUPD.hE.eOTAK2HB2.e.f.nA' },
+                {_reference: '_5H6UMPD.jE.eOTAK2HB2.e.f.nA' },
+                {_reference: '_C.tSTAPD.kE.eOTAK2HB2.e.f.nA' },
+                {_reference: '_.u-RVQPD.kE.eOTAK2HB2.e.f.nA' },
+                {_reference: '_Y.w.uDEPD.mE.eOTAK2HB2.e.f.nA' },
+                {_reference: '_WL.d.b.kPD.nE.eOTAK2HB2.e.f.nA' },
+                {_reference: '_D.h.kH0OK7E.eOSLN.c.eY.vOJ.mA' },
+                {_reference: '_2.xHVUPF6E.eO.a.b9.bVA.s1L.tQ' },
+                {_reference: '_7QA.p4.fF3E.eO.a.b9.bVA.s1L.tQ' },
+                {_reference: '_.t-A.b.wOL.mE.eO3.zNO.u.s.dT.lYA' },
+                {_reference: '_SA.f5.k.fY.iE.eOV.nI.rG-.v.q7.gQ' },
+                {_reference: '_BP.q.fM.fF4E.eO.a.b9.bVA.s1L.tQ' },
+                {_reference: '_.w9D.m0OL.mE.eO3.zNO.u.s.dT.lYA' },
+                {_reference: '_.x7U.l4.eL.mE.eO3.zNO.u.s.dT.lYA' },
+                {_reference: '_.fN.r.yI.fF4E.eO.a.b9.bVA.s1L.tQ' },
+                {_reference: '__313I.fJ.oE.eO.fB.a.l87FZL.v.g' },
+                {_reference: '_G.h2VUPD.aE.eO2.f.tSKF.b4W.oQ' },
+                {_reference: '_QE.c.yEOL.mE.eO3.zNO.u.s.dT.lYA' },
+                {_reference: '_V8.v.bI.eL.mE.eO3.zNO.u.s.dT.lYA' },
+                {_reference: '____.nE.fF3E.eO.a.b9.bVA.s1L.tQ' }
+            ]
+        },
+        {
+            title: 'nsls2_data::SRX Use Cases',
+            id: '__.x0SUPD.hE.eOTAK2HB2.e.f.nA',
+            object: '__.x0SUPD.hE.eOTAK2HB2.e.f.nA-content.html',
+            icon: 'icon2013599173'
+        },
+	
+        {
+            title: 'nsls2_data::Coherent Scattering Use Cases',
+            id: '_5H6UMPD.jE.eOTAK2HB2.e.f.nA',
+            object: '_5H6UMPD.jE.eOTAK2HB2.e.f.nA-content.html',
+            icon: 'icon2013599173'
+        },
+	
+        {
+            title: 'nsls2_data::HXN Use Cases',
+            id: '_C.tSTAPD.kE.eOTAK2HB2.e.f.nA',
+            object: '_C.tSTAPD.kE.eOTAK2HB2.e.f.nA-content.html',
+            icon: 'icon2013599173'
+        },
+	
+        {
+            title: 'nsls2_data::IXS Use Cases',
+            id: '_.u-RVQPD.kE.eOTAK2HB2.e.f.nA',
+            object: '_.u-RVQPD.kE.eOTAK2HB2.e.f.nA-content.html',
+            icon: 'icon2013599173'
+        },
+	
+        {
+            title: 'nsls2_data::XPD Use Cases',
+            id: '_Y.w.uDEPD.mE.eOTAK2HB2.e.f.nA',
+            object: '_Y.w.uDEPD.mE.eOTAK2HB2.e.f.nA-content.html',
+            icon: 'icon2013599173'
+        },
+	
+        {
+            title: 'nsls2_data::All Beamlines Use Cases',
+            id: '_WL.d.b.kPD.nE.eOTAK2HB2.e.f.nA',
+            object: '_WL.d.b.kPD.nE.eOTAK2HB2.e.f.nA-content.html',
+            icon: 'icon2013599173'
+        },
+	
+        {
+            title: 'nsls2_data::NSLS2Widgets',
+            id: '_D.h.kH0OK7E.eOSLN.c.eY.vOJ.mA',
+            object: '_D.h.kH0OK7E.eOSLN.c.eY.vOJ.mA-content.html',
+            icon: 'icon1392842462'
+        },
+	
+        {
+            title: 'nsls2_data::External Interactions',
+            id: '_2.xHVUPF6E.eO.a.b9.bVA.s1L.tQ',
+            object: '_2.xHVUPF6E.eO.a.b9.bVA.s1L.tQ-content.html',
+            icon: 'icon2013599173'
+        },
+	
+        {
+            title: 'nsls2_data::NSLS2_Personnel::DevTeam::Main',
+            id: '_7QA.p4.fF3E.eO.a.b9.bVA.s1L.tQ',
+            object: '_7QA.p4.fF3E.eO.a.b9.bVA.s1L.tQ-content.html',
+            icon: 'icon352657780'
+        },
+	
+        {
+            title: 'nsls2_data::numpy::Main',
+            id: '_.t-A.b.wOL.mE.eO3.zNO.u.s.dT.lYA',
+            object: '_.t-A.b.wOL.mE.eO3.zNO.u.s.dT.lYA-content.html',
+            icon: 'icon352657780'
+        },
+	
+        {
+            title: 'nsls2_data::QtGui::QtCore::Main',
+            id: '_SA.f5.k.fY.iE.eOV.nI.rG-.v.q7.gQ',
+            object: '_SA.f5.k.fY.iE.eOV.nI.rG-.v.q7.gQ-content.html',
+            icon: 'icon352657780'
+        },
+	
+        {
+            title: 'nsls2_data::NSLS2_Personnel::DevTeam::Summer Students::Main',
+            id: '_BP.q.fM.fF4E.eO.a.b9.bVA.s1L.tQ',
+            object: '_BP.q.fM.fF4E.eO.a.b9.bVA.s1L.tQ-content.html',
+            icon: 'icon352657780'
+        },
+	
+        {
+            title: 'nsls2_data::python::Main',
+            id: '_.w9D.m0OL.mE.eO3.zNO.u.s.dT.lYA',
+            object: '_.w9D.m0OL.mE.eO3.zNO.u.s.dT.lYA-content.html',
+            icon: 'icon352657780'
+        },
+	
+        {
+            title: 'nsls2_data::scipy::Main',
+            id: '_.x7U.l4.eL.mE.eO3.zNO.u.s.dT.lYA',
+            object: '_.x7U.l4.eL.mE.eO3.zNO.u.s.dT.lYA-content.html',
+            icon: 'icon352657780'
+        },
+	
+        {
+            title: 'nsls2_data::NSLS2_Personnel::Main',
+            id: '_.fN.r.yI.fF4E.eO.a.b9.bVA.s1L.tQ',
+            object: '_.fN.r.yI.fF4E.eO.a.b9.bVA.s1L.tQ-content.html',
+            icon: 'icon352657780'
+        },
+	
+        {
+            title: 'nsls2_data::Matplotlib::Main',
+            id: '__313I.fJ.oE.eO.fB.a.l87FZL.v.g',
+            object: '__313I.fJ.oE.eO.fB.a.l87FZL.v.g-content.html',
+            icon: 'icon352657780'
+        },
+	
+        {
+            title: 'nsls2_data::QtGui::Main',
+            id: '_G.h2VUPD.aE.eO2.f.tSKF.b4W.oQ',
+            object: '_G.h2VUPD.aE.eO2.f.tSKF.b4W.oQ-content.html',
+            icon: 'icon352657780'
+        },
+	
+        {
+            title: 'nsls2_data::nsls2_core::Main',
+            id: '_QE.c.yEOL.mE.eO3.zNO.u.s.dT.lYA',
+            object: '_QE.c.yEOL.mE.eO3.zNO.u.s.dT.lYA-content.html',
+            icon: 'icon352657780'
+        },
+	
+        {
+            title: 'nsls2_data::NSLS2_Personnel::DevTeam::Postdocs::Main',
+            id: '_V8.v.bI.eL.mE.eO3.zNO.u.s.dT.lYA',
+            object: '_V8.v.bI.eL.mE.eO3.zNO.u.s.dT.lYA-content.html',
+            icon: 'icon352657780'
+        },
+	
+        {
+            title: 'nsls2_data::NSLS2_Personnel::DevTeam::Graduate Students::Main',
+            id: '____.nE.fF3E.eO.a.b9.bVA.s1L.tQ',
+            object: '____.nE.fF3E.eO.a.b9.bVA.s1L.tQ-content.html',
+            icon: 'icon352657780'
+        },
+	
+        {
+            title: 'Models',
+            top: true,
+            id: '_MODELS_ROOT_NODE_',
+            icon: 'icon1560619196',
+            children: [
+                {_reference: '_.rP7.v8OK6E.eOSLN.c.eY.vOJ.mA' }
+            ]
+
+        },
+        {
+            title: 'nsls2_data',
+            id: '_.rP7.v8OK6E.eOSLN.c.eY.vOJ.mA',
+            object: '_.rP7.v8OK6E.eOSLN.c.eY.vOJ.mA-top-summary.html',
+            icon: 'icon1560619196',
+            children: [
+                {_reference: '_.wI0SQPD.jE.eOTAK2HB2.e.f.nA' },
+                {_reference: '_.l.k.c3MOL.jE.eO3.zNO.u.s.dT.lYA' },
+                {_reference: '_F.j.y.sMOL.lE.eO3.zNO.u.s.dT.lYA' },
+                {_reference: '_F.j0.hYOL.lE.eO3.zNO.u.s.dT.lYA' },
+                {_reference: '_VF.i.i0OL.lE.eO3.zNO.u.s.dT.lYA' },
+                {_reference: '_VF.i.i0.eL.lE.eO3.zNO.u.s.dT.lYA' },
+                {_reference: '_.j.q.rAMOL.lE.eO3.zNO.u.s.dT.lYA' },
+                {_reference: '_.j.q.rAM.eL.lE.eO3.zNO.u.s.dT.lYA' },
+                {_reference: '_.z.zG.cUOL.lE.eO3.zNO.u.s.dT.lYA' },
+                {_reference: '_.z.zHDYOL.lE.eO3.zNO.u.s.dT.lYA' },
+                {_reference: '_91.h.j.gOL.lE.eO3.zNO.u.s.dT.lYA' },
+                {_reference: '_91.h.j.g.eL.lE.eO3.zNO.u.s.dT.lYA' },
+                {_reference: '_JI.v.kMOL.mE.eO3.zNO.u.s.dT.lYA' },
+                {_reference: '_JI.wLQOL.mE.eO3.zNO.u.s.dT.lYA' },
+                {_reference: '_QE.a84OL.mE.eO3.zNO.u.s.dT.lYA' },
+                {_reference: '_.t9_N.oOL.mE.eO3.zNO.u.s.dT.lYA' },
+                {_reference: '_.w9B.x.oOL.mE.eO3.zNO.u.s.dT.lYA' },
+                {_reference: '_.x7TX.wOL.mE.eO3.zNO.u.s.dT.lYA' },
+                {_reference: '_.xTY.m.sOL.nE.eO3.zNO.u.s.dT.lYA' },
+                {_reference: '_.xTZN.wOL.nE.eO3.zNO.u.s.dT.lYA' },
+                {_reference: '_7.oFJ.oOL.nE.eO3.zNO.u.s.dT.lYA' },
+                {_reference: '_7.oF.w.sOL.nE.eO3.zNO.u.s.dT.lYA' },
+                {_reference: '_8.pK.zMOL.nE.eO3.zNO.u.s.dT.lYA' },
+                {_reference: '_8.pK.zM.eL.nE.eO3.zNO.u.s.dT.lYA' },
+                {_reference: '_9O.l0.cOL.nE.eO3.zNO.u.s.dT.lYA' },
+                {_reference: '_9O.l0.c.eL.nE.eO3.zNO.u.s.dT.lYA' },
+                {_reference: '_.w.u_D.sOL.oE.eO3.zNO.u.s.dT.lYA' },
+                {_reference: '_.w.u_.q.wOL.oE.eO3.zNO.u.s.dT.lYA' },
+                {_reference: '_G.h.yD4PD.aE.eO2.f.tSKF.b4W.oQ' },
+                {_reference: '_G.l.oI.cPD.iE.eOTAK2HB2.e.f.nA' },
+                {_reference: '_P.oA5.gPD.jE.eOTAK2HB2.e.f.nA' },
+                {_reference: '_R6.c2MPD.jE.eOTAK2HB2.e.f.nA' },
+                {_reference: '_X.gS.dUPD.jE.eOTAK2HB2.e.f.nA' },
+                {_reference: '_Y.gN.pQPD.jE.eOTAK2HB2.e.f.nA' },
+                {_reference: '_.a.e0D8PD.jE.eOTAK2HB2.e.f.nA' },
+                {_reference: '_.bL3-QPD.jE.eOTAK2HB2.e.f.nA' },
+                {_reference: '_.b_OG.wPD.jE.eOTAK2HB2.e.f.nA' },
+                {_reference: '_.c5.nS.cPD.jE.eOTAK2HB2.e.f.nA' },
+                {_reference: '_.eX.eX.kPD.jE.eOTAK2HB2.e.f.nA' },
+                {_reference: '_.f3.j.qQPD.jE.eOTAK2HB2.e.f.nA' },
+                {_reference: '_.w9URUPD.jE.eOTAK2HB2.e.f.nA' },
+                {_reference: '_2.lW34PD.jE.eOTAK2HB2.e.f.nA' },
+                {_reference: '_3.p.tQ0PD.jE.eOTAK2HB2.e.f.nA' },
+                {_reference: '_.aIIM0PD.kE.eOTAK2HB2.e.f.nA' },
+                {_reference: '_.cQM.s.kPD.kE.eOTAK2HB2.e.f.nA' },
+                {_reference: '_.c2M8.oPD.kE.eOTAK2HB2.e.f.nA' },
+                {_reference: '_.d.j6XMPD.kE.eOTAK2HB2.e.f.nA' },
+                {_reference: '_.eF30.wPD.kE.eOTAK2HB2.e.f.nA' },
+                {_reference: '_.fNW.aMPD.kE.eOTAK2HB2.e.f.nA' },
+                {_reference: '_.gUF.jUPD.lE.eOTAK2HB2.e.f.nA' },
+                {_reference: '_.iB.eSMPD.lE.eOTAK2HB2.e.f.nA' },
+                {_reference: '_BA.uY.oPD.mE.eOTAK2HB2.e.f.nA' },
+                {_reference: '_B.h06.kPD.mE.eOTAK2HB2.e.f.nA' },
+                {_reference: '_B81.b.kPD.mE.eOTAK2HB2.e.f.nA' },
+                {_reference: '_KNC-QPD.mE.eOTAK2HB2.e.f.nA' },
+                {_reference: '_OBI68PD.mE.eOTAK2HB2.e.f.nA' },
+                {_reference: '_.f.s.o.sUPD.mE.eOTAK2HB2.e.f.nA' },
+                {_reference: '_.g.n.rYQPD.mE.eOTAK2HB2.e.f.nA' },
+                {_reference: '_.h7A.oYPD.mE.eOTAK2HB2.e.f.nA' },
+                {_reference: '_.i9VBAPD.mE.eOTAK2HB2.e.f.nA' },
+                {_reference: '_.n.g.x-EPD.mE.eOTAK2HB2.e.f.nA' },
+                {_reference: '_.mP-.oEPD.nE.eOTAK2HB2.e.f.nA' },
+                {_reference: '_.u.uF.aYPF3E.eO.a.b9.bVA.s1L.tQ' },
+                {_reference: '_.y.qZ.e8PF3E.eO.a.b9.bVA.s1L.tQ' },
+                {_reference: '_.fN.rLEPF4E.eO.a.b9.bVA.s1L.tQ' },
+                {_reference: '_G6.pP.kPF5E.eO.a.b9.bVA.s1L.tQ' },
+                {_reference: '_6.n.gJUPGAE.eO7V.b.dN.g.f.fXRQ' },
+                {_reference: '_.l8.oAQPGBE.eO7V.b.dN.g.f.fXRQ' },
+                {_reference: '_.mY8.v4PGBE.eO7V.b.dN.g.f.fXRQ' },
+                {_reference: '_.nA.f4EPGBE.eO7V.b.dN.g.f.fXRQ' },
+                {_reference: '_.oF.tM.oPGBE.eO7V.b.dN.g.f.fXRQ' },
+                {_reference: '_.o0QU.sPGBE.eO7V.b.dN.g.f.fXRQ' },
+                {_reference: '_.pS9.p8PGBE.eO7V.b.dN.g.f.fXRQ' },
+                {_reference: '__3.b.n.cPJ.oE.eO.fB.a.l87FZL.v.g' }
+            ]
+        }
+		,
+        {
+            title: 'IXS User',
+            id: '_.wI0SQPD.jE.eOTAK2HB2.e.f.nA',
+            object: '_.wI0SQPD.jE.eOTAK2HB2.e.f.nA-content.html',
+            icon: 'icon788862398'
+        }
+		,
+        {
+            title: 'vistools',
+            id: '_.l.k.c3MOL.jE.eO3.zNO.u.s.dT.lYA',
+            object: '_.l.k.c3MOL.jE.eO3.zNO.u.s.dT.lYA-content.html',
+            icon: 'icon1560619196',
+            children: [
+                {_reference: '_D.c57QPWIE.eO7.k.oQK.zK.fA_.w' },
+                {_reference: '_.eEP.mQPWIE.eO7.k.oQK.zK.fA_.w' },
+                {_reference: '_.o.n.dGUPWIE.eO7.k.oQK.zK.fA_.w' },
+                {_reference: '_.t.hG84PWIE.eO7.k.oQK.zK.fA_.w' },
+                {_reference: '_4.lLHQPWIE.eO7.k.oQK.zK.fA_.w' },
+                {_reference: '_L2TZ.sPWJE.eO7.k.oQK.zK.fA_.w' },
+                {_reference: '_.i.u0C.gPWJE.eO7.k.oQK.zK.fA_.w' },
+                {_reference: '_.gN.hYMPWOE.eO7.k.oQK.zK.fA_.w' },
+                {_reference: '_AC.h3YPWOE.eO7.k.oQK.zK.fA_.w' },
+                {_reference: '_.p.t6JUPWOE.eO7.k.oQK.zK.fA_.w' },
+                {_reference: '_NM_B.gPD.jE.eOTAK2HB2.e.f.nA' },
+                {_reference: '_K.h.v_.wPD.iE.eOTAK2HB2.e.f.nA' },
+                {_reference: '_I.q.f.jMPD.iE.eOTAK2HB2.e.f.nA' },
+                {_reference: '_R.f4RQOLFE.eODPYE.z606T.b.w' },
+                {_reference: '_.s.o.s.j.kOLDE.eODPYE.z606T.b.w' },
+                {_reference: '_AL_.kEOLEE.eODPYE.z606T.b.w' },
+                {_reference: '_-.u43.cOLEE.eODPYE.z606T.b.w' },
+                {_reference: '_.s.y.cV.cOLDE.eODPYE.z606T.b.w' },
+                {_reference: '_.z70E.gOLGE.eODPYE.z606T.b.w' },
+                {_reference: '_.hR.m.oIOLGE.eODPYE.z606T.b.w' },
+                {_reference: '_.x.f.tD4OLFE.eODPYE.z606T.b.w' },
+                {_reference: '_N.wWE.cOLFE.eODPYE.z606T.b.w' },
+                {_reference: '_1F.g.s8OLFE.eODPYE.z606T.b.w' },
+                {_reference: '_38EDUOLFE.eODPYE.z606T.b.w' },
+                {_reference: '_I.z.rL.kOLEE.eODPYE.z606T.b.w' },
+                {_reference: '_L.e.zVEOLEE.eODPYE.z606T.b.w' },
+                {_reference: '_.m.dCLMOLGE.eODPYE.z606T.b.w' },
+                {_reference: '_.n.q.i0.gPD.aE.eO2.f.tSKF.b4W.oQ' },
+                {_reference: '_L.x2Z4PD.bE.eO2.f.tSKF.b4W.oQ' },
+                {_reference: '_N.sBA.gPD.bE.eO2.f.tSKF.b4W.oQ' },
+                {_reference: '_.d.n.v.dYPD.bE.eO2.f.tSKF.b4W.oQ' },
+                {_reference: '_.e.x.q54PD.bE.eO2.f.tSKF.b4W.oQ' },
+                {_reference: '_.sBZRQPD.gE.eOTAK2HB2.e.f.nA' },
+                {_reference: '_.n.sFWYPJ.rE.eO.fB.a.l87FZL.v.g' },
+                {_reference: '_.l.rB.i.sPWOE.eO7.k.oQK.zK.fA_.w' },
+                {_reference: '_.k5.h3.gPWSE.eO7.k.oQK.zK.fA_.w' },
+                {_reference: '_.rG.z18PWOE.eO7.k.oQK.zK.fA_.w' },
+                {_reference: '_NB8UIPWOE.eO7.k.oQK.zK.fA_.w' },
+                {_reference: '_.h1.i.e4PWOE.eO7.k.oQK.zK.fA_.w' },
+                {_reference: '_Q.z.kL.oPWOE.eO7.k.oQK.zK.fA_.w' },
+                {_reference: '_.d.c.cJ8PWJE.eO7.k.oQK.zK.fA_.w' }
+            ]
+        }
+		,
+        {
+            title: 'AbstractCanvas',
+            id: '_D.c57QPWIE.eO7.k.oQK.zK.fA_.w',
+            object: '_D.c57QPWIE.eO7.k.oQK.zK.fA_.w-content.html',
+            icon: 'icon335881245',
+            children: [
+                {_reference: '_.d.c.dYEPWJE.eO7.k.oQK.zK.fA_.w' },
+                {_reference: '_E_1G.kPWIE.eO7.k.oQK.zK.fA_.w' },
+                {_reference: '_F.cUOQPWIE.eO7.k.oQK.zK.fA_.w' },
+                {_reference: '_F.hM.uQPWIE.eO7.k.oQK.zK.fA_.w' },
+                {_reference: '_F.kQ.pUPWIE.eO7.k.oQK.zK.fA_.w' }
+            ]
+        }
+		,
+        {
+            title: 'abstractDataView',
+            id: '_.d.c.dYEPWJE.eO7.k.oQK.zK.fA_.w',
+            object: '_D.c57QPWIE.eO7.k.oQK.zK.fA_.w-content.html#_.d.c.dYEPWJE.eO7.k.oQK.zK.fA_.w',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: '__init__',
+            id: '_E_1G.kPWIE.eO7.k.oQK.zK.fA_.w',
+            object: '_D.c57QPWIE.eO7.k.oQK.zK.fA_.w-content.html#_E_1G.kPWIE.eO7.k.oQK.zK.fA_.w',
+            icon: 'icon772089150',
+            children: [
+                {_reference: '_I9.g.dEPWIE.eO7.k.oQK.zK.fA_.w' },
+                {_reference: '_I9.hEI.fWIE.eO7.k.oQK.zK.fA_.w' },
+                {_reference: '_I9.h.rMPWIE.eO7.k.oQK.zK.fA_.w' }
+            ]
+        }
+		,
+        {
+            title: '',
+            id: '_I9.g.dEPWIE.eO7.k.oQK.zK.fA_.w',
+            object: '_I9.g.dEPWIE.eO7.k.oQK.zK.fA_.w-content.html',
+            icon: 'icon-2046486949'
+        }
+		,
+        {
+            title: '',
+            id: '_I9.hEI.fWIE.eO7.k.oQK.zK.fA_.w',
+            object: '_I9.hEI.fWIE.eO7.k.oQK.zK.fA_.w-content.html',
+            icon: 'icon-2046486949'
+        }
+		,
+        {
+            title: '',
+            id: '_I9.h.rMPWIE.eO7.k.oQK.zK.fA_.w',
+            object: '_I9.h.rMPWIE.eO7.k.oQK.zK.fA_.w-content.html',
+            icon: 'icon-2046486949'
+        }
+		,
+        {
+            title: 'sl_update_color_map',
+            id: '_F.cUOQPWIE.eO7.k.oQK.zK.fA_.w',
+            object: '_D.c57QPWIE.eO7.k.oQK.zK.fA_.w-content.html#_F.cUOQPWIE.eO7.k.oQK.zK.fA_.w',
+            icon: 'icon772089150'
+        }
+		,
+        {
+            title: 'sl_clear_data',
+            id: '_F.hM.uQPWIE.eO7.k.oQK.zK.fA_.w',
+            object: '_D.c57QPWIE.eO7.k.oQK.zK.fA_.w-content.html#_F.hM.uQPWIE.eO7.k.oQK.zK.fA_.w',
+            icon: 'icon772089150'
+        }
+		,
+        {
+            title: 'sl_remove_dataset',
+            id: '_F.kQ.pUPWIE.eO7.k.oQK.zK.fA_.w',
+            object: '_D.c57QPWIE.eO7.k.oQK.zK.fA_.w-content.html#_F.kQ.pUPWIE.eO7.k.oQK.zK.fA_.w',
+            icon: 'icon772089150'
+        }
+		,
+        {
+            title: 'AbstractCanvas1D',
+            id: '_.eEP.mQPWIE.eO7.k.oQK.zK.fA_.w',
+            object: '_.eEP.mQPWIE.eO7.k.oQK.zK.fA_.w-content.html',
+            icon: 'icon335881245',
+            children: [
+                {_reference: '_.g.wSV.wPWIE.eO7.k.oQK.zK.fA_.w' },
+                {_reference: '_.g0.s7.sPWIE.eO7.k.oQK.zK.fA_.w' },
+                {_reference: '_.g4.cMMPWIE.eO7.k.oQK.zK.fA_.w' }
+            ]
+        }
+		,
+        {
+            title: '__init__',
+            id: '_.g.wSV.wPWIE.eO7.k.oQK.zK.fA_.w',
+            object: '_.eEP.mQPWIE.eO7.k.oQK.zK.fA_.w-content.html#_.g.wSV.wPWIE.eO7.k.oQK.zK.fA_.w',
+            icon: 'icon772089150',
+            children: [
+                {_reference: '_.i8XL.w.fWIE.eO7.k.oQK.zK.fA_.w' },
+                {_reference: '_.i8X.y0.fWIE.eO7.k.oQK.zK.fA_.w' },
+                {_reference: '_.i8YZ4PWIE.eO7.k.oQK.zK.fA_.w' }
+            ]
+        }
+		,
+        {
+            title: '',
+            id: '_.i8XL.w.fWIE.eO7.k.oQK.zK.fA_.w',
+            object: '_.i8XL.w.fWIE.eO7.k.oQK.zK.fA_.w-content.html',
+            icon: 'icon-2046486949'
+        }
+		,
+        {
+            title: '',
+            id: '_.i8X.y0.fWIE.eO7.k.oQK.zK.fA_.w',
+            object: '_.i8X.y0.fWIE.eO7.k.oQK.zK.fA_.w-content.html',
+            icon: 'icon-2046486949'
+        }
+		,
+        {
+            title: '',
+            id: '_.i8YZ4PWIE.eO7.k.oQK.zK.fA_.w',
+            object: '_.i8YZ4PWIE.eO7.k.oQK.zK.fA_.w-content.html',
+            icon: 'icon-2046486949'
+        }
+		,
+        {
+            title: 'sl_add_data',
+            id: '_.g0.s7.sPWIE.eO7.k.oQK.zK.fA_.w',
+            object: '_.eEP.mQPWIE.eO7.k.oQK.zK.fA_.w-content.html#_.g0.s7.sPWIE.eO7.k.oQK.zK.fA_.w',
+            icon: 'icon772089150'
+        }
+		,
+        {
+            title: 'sl_append_data',
+            id: '_.g4.cMMPWIE.eO7.k.oQK.zK.fA_.w',
+            object: '_.eEP.mQPWIE.eO7.k.oQK.zK.fA_.w-content.html#_.g4.cMMPWIE.eO7.k.oQK.zK.fA_.w',
+            icon: 'icon772089150'
+        }
+		,
+        {
+            title: 'AbstractCanvas2D',
+            id: '_.o.n.dGUPWIE.eO7.k.oQK.zK.fA_.w',
+            object: '_.o.n.dGUPWIE.eO7.k.oQK.zK.fA_.w-content.html',
+            icon: 'icon335881245',
+            children: [
+            ]
+        }
+		,
+        {
+            title: 'AbstractDataView',
+            id: '_.t.hG84PWIE.eO7.k.oQK.zK.fA_.w',
+            object: '_.t.hG84PWIE.eO7.k.oQK.zK.fA_.w-content.html',
+            icon: 'icon335881245',
+            children: [
+                {_reference: '_.u4CT.kPWIE.eO7.k.oQK.zK.fA_.w' },
+                {_reference: '_.wI.t4UPWIE.eO7.k.oQK.zK.fA_.w' },
+                {_reference: '_-.t.vA8PWIE.eO7.k.oQK.zK.fA_.w' }
+            ]
+        }
+		,
+        {
+            title: '__init__',
+            id: '_.u4CT.kPWIE.eO7.k.oQK.zK.fA_.w',
+            object: '_.t.hG84PWIE.eO7.k.oQK.zK.fA_.w-content.html#_.u4CT.kPWIE.eO7.k.oQK.zK.fA_.w',
+            icon: 'icon772089150',
+            children: [
+                {_reference: '_.y.q9L.k.fWIE.eO7.k.oQK.zK.fA_.w' },
+                {_reference: '_.y.q9.y.o.fWIE.eO7.k.oQK.zK.fA_.w' },
+                {_reference: '_.y.q-Z.sPWIE.eO7.k.oQK.zK.fA_.w' },
+                {_reference: '_.y.q-Z.s.vWIE.eO7.k.oQK.zK.fA_.w' }
+            ]
+        }
+		,
+        {
+            title: '',
+            id: '_.y.q9L.k.fWIE.eO7.k.oQK.zK.fA_.w',
+            object: '_.y.q9L.k.fWIE.eO7.k.oQK.zK.fA_.w-content.html',
+            icon: 'icon-2046486949'
+        }
+		,
+        {
+            title: '',
+            id: '_.y.q9.y.o.fWIE.eO7.k.oQK.zK.fA_.w',
+            object: '_.y.q9.y.o.fWIE.eO7.k.oQK.zK.fA_.w-content.html',
+            icon: 'icon-2046486949'
+        }
+		,
+        {
+            title: '',
+            id: '_.y.q-Z.sPWIE.eO7.k.oQK.zK.fA_.w',
+            object: '_.y.q-Z.sPWIE.eO7.k.oQK.zK.fA_.w-content.html',
+            icon: 'icon-2046486949'
+        }
+		,
+        {
+            title: '',
+            id: '_.y.q-Z.s.vWIE.eO7.k.oQK.zK.fA_.w',
+            object: '_.y.q-Z.s.vWIE.eO7.k.oQK.zK.fA_.w-content.html',
+            icon: 'icon-2046486949'
+        }
+		,
+        {
+            title: 'update_colormap',
+            id: '_.wI.t4UPWIE.eO7.k.oQK.zK.fA_.w',
+            object: '_.t.hG84PWIE.eO7.k.oQK.zK.fA_.w-content.html#_.wI.t4UPWIE.eO7.k.oQK.zK.fA_.w',
+            icon: 'icon772089150'
+        }
+		,
+        {
+            title: 'replot',
+            id: '_-.t.vA8PWIE.eO7.k.oQK.zK.fA_.w',
+            object: '_.t.hG84PWIE.eO7.k.oQK.zK.fA_.w-content.html#_-.t.vA8PWIE.eO7.k.oQK.zK.fA_.w',
+            icon: 'icon772089150'
+        }
+		,
+        {
+            title: 'AbstractDataView1D',
+            id: '_4.lLHQPWIE.eO7.k.oQK.zK.fA_.w',
+            object: '_4.lLHQPWIE.eO7.k.oQK.zK.fA_.w-content.html',
+            icon: 'icon335881245',
+            children: [
+                {_reference: '_6W.qTAPWIE.eO7.k.oQK.zK.fA_.w' },
+                {_reference: '_77G.hQPWIE.eO7.k.oQK.zK.fA_.w' },
+                {_reference: '_8O9RYPWIE.eO7.k.oQK.zK.fA_.w' },
+                {_reference: '_8.cH.j.oPWIE.eO7.k.oQK.zK.fA_.w' }
+            ]
+        }
+		,
+        {
+            title: '__init__',
+            id: '_6W.qTAPWIE.eO7.k.oQK.zK.fA_.w',
+            object: '_4.lLHQPWIE.eO7.k.oQK.zK.fA_.w-content.html#_6W.qTAPWIE.eO7.k.oQK.zK.fA_.w',
+            icon: 'icon772089150',
+            children: [
+                {_reference: '_C00.yI.fWJE.eO7.k.oQK.zK.fA_.w' },
+                {_reference: '_C01ZM.fWJE.eO7.k.oQK.zK.fA_.w' }
+            ]
+        }
+		,
+        {
+            title: '',
+            id: '_C00.yI.fWJE.eO7.k.oQK.zK.fA_.w',
+            object: '_C00.yI.fWJE.eO7.k.oQK.zK.fA_.w-content.html',
+            icon: 'icon-2046486949'
+        }
+		,
+        {
+            title: '',
+            id: '_C01ZM.fWJE.eO7.k.oQK.zK.fA_.w',
+            object: '_C01ZM.fWJE.eO7.k.oQK.zK.fA_.w-content.html',
+            icon: 'icon-2046486949'
+        }
+		,
+        {
+            title: 'add_data',
+            id: '_77G.hQPWIE.eO7.k.oQK.zK.fA_.w',
+            object: '_4.lLHQPWIE.eO7.k.oQK.zK.fA_.w-content.html#_77G.hQPWIE.eO7.k.oQK.zK.fA_.w',
+            icon: 'icon772089150'
+        }
+		,
+        {
+            title: 'remove_data',
+            id: '_8O9RYPWIE.eO7.k.oQK.zK.fA_.w',
+            object: '_4.lLHQPWIE.eO7.k.oQK.zK.fA_.w-content.html#_8O9RYPWIE.eO7.k.oQK.zK.fA_.w',
+            icon: 'icon772089150'
+        }
+		,
+        {
+            title: 'append_data',
+            id: '_8.cH.j.oPWIE.eO7.k.oQK.zK.fA_.w',
+            object: '_4.lLHQPWIE.eO7.k.oQK.zK.fA_.w-content.html#_8.cH.j.oPWIE.eO7.k.oQK.zK.fA_.w',
+            icon: 'icon772089150'
+        }
+		,
+        {
+            title: 'AbstractDataView2D',
+            id: '_L2TZ.sPWJE.eO7.k.oQK.zK.fA_.w',
+            object: '_L2TZ.sPWJE.eO7.k.oQK.zK.fA_.w-content.html',
+            icon: 'icon335881245',
+            children: [
+            ]
+        }
+		,
+        {
+            title: 'OneDimStackCanvas',
+            id: '_.i.u0C.gPWJE.eO7.k.oQK.zK.fA_.w',
+            object: '_.i.u0C.gPWJE.eO7.k.oQK.zK.fA_.w-content.html',
+            icon: 'icon335881245',
+            children: [
+                {_reference: '_.h.z.t.y.kPWRE.eO7.k.oQK.zK.fA_.w' },
+                {_reference: '_.h6PRUPWRE.eO7.k.oQK.zK.fA_.w' },
+                {_reference: '_.h-W8UPWRE.eO7.k.oQK.zK.fA_.w' },
+                {_reference: '_.iCO.v.sPWRE.eO7.k.oQK.zK.fA_.w' }
+            ]
+        }
+		,
+        {
+            title: '__init__',
+            id: '_.h.z.t.y.kPWRE.eO7.k.oQK.zK.fA_.w',
+            object: '_.i.u0C.gPWJE.eO7.k.oQK.zK.fA_.w-content.html#_.h.z.t.y.kPWRE.eO7.k.oQK.zK.fA_.w',
+            icon: 'icon772089150',
+            children: [
+                {_reference: '_.j3.d.zA.fWRE.eO7.k.oQK.zK.fA_.w' }
+            ]
+        }
+		,
+        {
+            title: '',
+            id: '_.j3.d.zA.fWRE.eO7.k.oQK.zK.fA_.w',
+            object: '_.j3.d.zA.fWRE.eO7.k.oQK.zK.fA_.w-content.html',
+            icon: 'icon-2046486949'
+        }
+		,
+        {
+            title: 'sl_update_x_offset',
+            id: '_.h6PRUPWRE.eO7.k.oQK.zK.fA_.w',
+            object: '_.i.u0C.gPWJE.eO7.k.oQK.zK.fA_.w-content.html#_.h6PRUPWRE.eO7.k.oQK.zK.fA_.w',
+            icon: 'icon772089150'
+        }
+		,
+        {
+            title: 'sl_update_y_offset',
+            id: '_.h-W8UPWRE.eO7.k.oQK.zK.fA_.w',
+            object: '_.i.u0C.gPWJE.eO7.k.oQK.zK.fA_.w-content.html#_.h-W8UPWRE.eO7.k.oQK.zK.fA_.w',
+            icon: 'icon772089150'
+        }
+		,
+        {
+            title: 'sl_update_autoscaling',
+            id: '_.iCO.v.sPWRE.eO7.k.oQK.zK.fA_.w',
+            object: '_.i.u0C.gPWJE.eO7.k.oQK.zK.fA_.w-content.html#_.iCO.v.sPWRE.eO7.k.oQK.zK.fA_.w',
+            icon: 'icon772089150'
+        }
+		,
+        {
+            title: 'OneDimStackControlWidget',
+            id: '_.gN.hYMPWOE.eO7.k.oQK.zK.fA_.w',
+            object: '_.gN.hYMPWOE.eO7.k.oQK.zK.fA_.w-content.html',
+            icon: 'icon335881245'
+        }
+		,
+        {
+            title: 'OneDimStackMainWindow',
+            id: '_AC.h3YPWOE.eO7.k.oQK.zK.fA_.w',
+            object: '_AC.h3YPWOE.eO7.k.oQK.zK.fA_.w-content.html',
+            icon: 'icon335881245',
+            children: [
+            ]
+        }
+		,
+        {
+            title: 'OneDimStackViewer',
+            id: '_.p.t6JUPWOE.eO7.k.oQK.zK.fA_.w',
+            object: '_.p.t6JUPWOE.eO7.k.oQK.zK.fA_.w-content.html',
+            icon: 'icon335881245',
+            children: [
+                {_reference: '_.r.w.k.k.oPWOE.eO7.k.oQK.zK.fA_.w' },
+                {_reference: '_.y_R.nAPWOE.eO7.k.oQK.zK.fA_.w' },
+                {_reference: '_.s.fN.zUPWOE.eO7.k.oQK.zK.fA_.w' },
+                {_reference: '_2F.x.d4PWOE.eO7.k.oQK.zK.fA_.w' }
+            ]
+        }
+		,
+        {
+            title: '__init__',
+            id: '_.r.w.k.k.oPWOE.eO7.k.oQK.zK.fA_.w',
+            object: '_.p.t6JUPWOE.eO7.k.oQK.zK.fA_.w-content.html#_.r.w.k.k.oPWOE.eO7.k.oQK.zK.fA_.w',
+            icon: 'icon772089150',
+            children: [
+                {_reference: '_.vFJT.wPWOE.eO7.k.oQK.zK.fA_.w' },
+                {_reference: '_.vFJ60PWOE.eO7.k.oQK.zK.fA_.w' }
+            ]
+        }
+		,
+        {
+            title: '',
+            id: '_.vFJT.wPWOE.eO7.k.oQK.zK.fA_.w',
+            object: '_.vFJT.wPWOE.eO7.k.oQK.zK.fA_.w-content.html',
+            icon: 'icon-2046486949'
+        }
+		,
+        {
+            title: '',
+            id: '_.vFJ60PWOE.eO7.k.oQK.zK.fA_.w',
+            object: '_.vFJ60PWOE.eO7.k.oQK.zK.fA_.w-content.html',
+            icon: 'icon-2046486949'
+        }
+		,
+        {
+            title: 'set_horz_offset',
+            id: '_.y_R.nAPWOE.eO7.k.oQK.zK.fA_.w',
+            object: '_.p.t6JUPWOE.eO7.k.oQK.zK.fA_.w-content.html#_.y_R.nAPWOE.eO7.k.oQK.zK.fA_.w',
+            icon: 'icon772089150'
+        }
+		,
+        {
+            title: 'set_vert_offset',
+            id: '_.s.fN.zUPWOE.eO7.k.oQK.zK.fA_.w',
+            object: '_.p.t6JUPWOE.eO7.k.oQK.zK.fA_.w-content.html#_.s.fN.zUPWOE.eO7.k.oQK.zK.fA_.w',
+            icon: 'icon772089150'
+        }
+		,
+        {
+            title: 'replot',
+            id: '_2F.x.d4PWOE.eO7.k.oQK.zK.fA_.w',
+            object: '_.p.t6JUPWOE.eO7.k.oQK.zK.fA_.w-content.html#_2F.x.d4PWOE.eO7.k.oQK.zK.fA_.w',
+            icon: 'icon772089150'
+        }
+		,
+        {
+            title: 'VIS: 1D',
+            id: '_NM_B.gPD.jE.eOTAK2HB2.e.f.nA',
+            object: '_NM_B.gPD.jE.eOTAK2HB2.e.f.nA-content.html',
+            icon: 'icon1493505891'
+        }
+		,
+        {
+            title: 'VIS: 2D Stack',
+            id: '_K.h.v_.wPD.iE.eOTAK2HB2.e.f.nA',
+            object: '_K.h.v_.wPD.iE.eOTAK2HB2.e.f.nA-content.html',
+            icon: 'icon1493505891'
+        }
+		,
+        {
+            title: 'VIS: 3D Stack',
+            id: '_I.q.f.jMPD.iE.eOTAK2HB2.e.f.nA',
+            object: '_I.q.f.jMPD.iE.eOTAK2HB2.e.f.nA-content.html',
+            icon: 'icon1493505891'
+        }
+		,
+        {
+            title: 'VTKWidget',
+            id: '_R.f4RQOLFE.eODPYE.z606T.b.w',
+            object: '_R.f4RQOLFE.eODPYE.z606T.b.w-content.html',
+            icon: 'icon335881245',
+            children: [
+            ]
+        }
+		,
+        {
+            title: 'Class1',
+            id: '_.s.o.s.j.kOLDE.eODPYE.z606T.b.w',
+            object: '_.s.o.s.j.kOLDE.eODPYE.z606T.b.w-content.html',
+            icon: 'icon335881245'
+        }
+		,
+        {
+            title: 'ControlWidget',
+            id: '_AL_.kEOLEE.eODPYE.z606T.b.w',
+            object: '_AL_.kEOLEE.eODPYE.z606T.b.w-content.html',
+            icon: 'icon335881245',
+            children: [
+                {_reference: '_.m.dFO.gOLGE.eODPYE.z606T.b.w' },
+                {_reference: '_.a.oSEMPY.hE.eOV.nI.rG-.v.q7.gQ' },
+                {_reference: '_L3H.rEPY.jE.eOV.nI.rG-.v.q7.gQ' },
+                {_reference: '_.hD.c.w0PY.hE.eOV.nI.rG-.v.q7.gQ' },
+                {_reference: '_.mZ.z.x.gPY.hE.eOV.nI.rG-.v.q7.gQ' },
+                {_reference: '_.oRM.w8PY.hE.eOV.nI.rG-.v.q7.gQ' }
+            ]
+        }
+		,
+        {
+            title: 'viewWidget',
+            id: '_.m.dFO.gOLGE.eODPYE.z606T.b.w',
+            object: '_AL_.kEOLEE.eODPYE.z606T.b.w-content.html#_.m.dFO.gOLGE.eODPYE.z606T.b.w',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: '_widgets',
+            id: '_.a.oSEMPY.hE.eOV.nI.rG-.v.q7.gQ',
+            object: '_AL_.kEOLEE.eODPYE.z606T.b.w-content.html#_.a.oSEMPY.hE.eOV.nI.rG-.v.q7.gQ',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: '_signals',
+            id: '_L3H.rEPY.jE.eOV.nI.rG-.v.q7.gQ',
+            object: '_AL_.kEOLEE.eODPYE.z606T.b.w-content.html#_L3H.rEPY.jE.eOV.nI.rG-.v.q7.gQ',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: 'add_spinbox',
+            id: '_.hD.c.w0PY.hE.eOV.nI.rG-.v.q7.gQ',
+            object: '_AL_.kEOLEE.eODPYE.z606T.b.w-content.html#_.hD.c.w0PY.hE.eOV.nI.rG-.v.q7.gQ',
+            icon: 'icon772089150',
+            children: [
+                {_reference: '_.kH.yE.gPY.hE.eOV.nI.rG-.v.q7.gQ' }
+            ]
+        }
+		,
+        {
+            title: '',
+            id: '_.kH.yE.gPY.hE.eOV.nI.rG-.v.q7.gQ',
+            object: '_.kH.yE.gPY.hE.eOV.nI.rG-.v.q7.gQ-content.html',
+            icon: 'icon-2046486949'
+        }
+		,
+        {
+            title: 'add_checkbox',
+            id: '_.mZ.z.x.gPY.hE.eOV.nI.rG-.v.q7.gQ',
+            object: '_AL_.kEOLEE.eODPYE.z606T.b.w-content.html#_.mZ.z.x.gPY.hE.eOV.nI.rG-.v.q7.gQ',
+            icon: 'icon772089150'
+        }
+		,
+        {
+            title: 'add_widget',
+            id: '_.oRM.w8PY.hE.eOV.nI.rG-.v.q7.gQ',
+            object: '_AL_.kEOLEE.eODPYE.z606T.b.w-content.html#_.oRM.w8PY.hE.eOV.nI.rG-.v.q7.gQ',
+            icon: 'icon772089150'
+        }
+		,
+        {
+            title: 'MatplotlibWidget',
+            id: '_-.u43.cOLEE.eODPYE.z606T.b.w',
+            object: '_-.u43.cOLEE.eODPYE.z606T.b.w-content.html',
+            icon: 'icon335881245',
+            children: [
+            ]
+        }
+		,
+        {
+            title: 'NSLS2Widget',
+            id: '_.s.y.cV.cOLDE.eODPYE.z606T.b.w',
+            object: '_.s.y.cV.cOLDE.eODPYE.z606T.b.w-content.html',
+            icon: 'icon335881245',
+            children: [
+                {_reference: '_L.e8.fAOLEE.eODPYE.z606T.b.w' },
+                {_reference: '_CT3R8PD.aE.eO2.f.tSKF.b4W.oQ' },
+                {_reference: '_.k5.jF.oPWSE.eO7.k.oQK.zK.fA_.w' },
+                {_reference: '_.v.r.dS.kPW.eE.eO7.k.oQK.zK.fA_.w' },
+                {_reference: '_5TSI.cPW.eE.eO7.k.oQK.zK.fA_.w' },
+                {_reference: '_.nTA6.wPDZE.eO2.f.tSKF.b4W.oQ' },
+                {_reference: '_.nY2.dAPDZE.eO2.f.tSKF.b4W.oQ' }
+            ]
+        }
+		,
+        {
+            title: 'view_widget',
+            id: '_L.e8.fAOLEE.eODPYE.z606T.b.w',
+            object: '_.s.y.cV.cOLDE.eODPYE.z606T.b.w-content.html#_L.e8.fAOLEE.eODPYE.z606T.b.w',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: 'sig_data_changed',
+            id: '_CT3R8PD.aE.eO2.f.tSKF.b4W.oQ',
+            object: '_.s.y.cV.cOLDE.eODPYE.z606T.b.w-content.html#_CT3R8PD.aE.eO2.f.tSKF.b4W.oQ',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: 'control_widget',
+            id: '_.k5.jF.oPWSE.eO7.k.oQK.zK.fA_.w',
+            object: '_.s.y.cV.cOLDE.eODPYE.z606T.b.w-content.html#_.k5.jF.oPWSE.eO7.k.oQK.zK.fA_.w',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: '_ctrl_widget',
+            id: '_.v.r.dS.kPW.eE.eO7.k.oQK.zK.fA_.w',
+            object: '_.s.y.cV.cOLDE.eODPYE.z606T.b.w-content.html#_.v.r.dS.kPW.eE.eO7.k.oQK.zK.fA_.w',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: '_view_widget',
+            id: '_5TSI.cPW.eE.eO7.k.oQK.zK.fA_.w',
+            object: '_.s.y.cV.cOLDE.eODPYE.z606T.b.w-content.html#_5TSI.cPW.eE.eO7.k.oQK.zK.fA_.w',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: 'set_data',
+            id: '_.nTA6.wPDZE.eO2.f.tSKF.b4W.oQ',
+            object: '_.s.y.cV.cOLDE.eODPYE.z606T.b.w-content.html#_.nTA6.wPDZE.eO2.f.tSKF.b4W.oQ',
+            icon: 'icon772089150'
+        }
+		,
+        {
+            title: '__init__',
+            id: '_.nY2.dAPDZE.eO2.f.tSKF.b4W.oQ',
+            object: '_.s.y.cV.cOLDE.eODPYE.z606T.b.w-content.html#_.nY2.dAPDZE.eO2.f.tSKF.b4W.oQ',
+            icon: 'icon772089150',
+            children: [
+                {_reference: '_.gS.q-.sPY.iE.eOV.nI.rG-.v.q7.gQ' },
+                {_reference: '_.gS.r.l.w.fY.iE.eOV.nI.rG-.v.q7.gQ' }
+            ]
+        }
+		,
+        {
+            title: '',
+            id: '_.gS.q-.sPY.iE.eOV.nI.rG-.v.q7.gQ',
+            object: '_.gS.q-.sPY.iE.eOV.nI.rG-.v.q7.gQ-content.html',
+            icon: 'icon-2046486949'
+        }
+		,
+        {
+            title: '',
+            id: '_.gS.r.l.w.fY.iE.eOV.nI.rG-.v.q7.gQ',
+            object: '_.gS.r.l.w.fY.iE.eOV.nI.rG-.v.q7.gQ-content.html',
+            icon: 'icon-2046486949'
+        }
+		,
+        {
+            title: 'OneDimStackWidget',
+            id: '_.z70E.gOLGE.eODPYE.z606T.b.w',
+            object: '_.z70E.gOLGE.eODPYE.z606T.b.w-content.html',
+            icon: 'icon335881245',
+            children: [
+                {_reference: '_.uY.cBIPD.gE.eOTAK2HB2.e.f.nA' }
+            ]
+        }
+		,
+        {
+            title: '__init__',
+            id: '_.uY.cBIPD.gE.eOTAK2HB2.e.f.nA',
+            object: '_.z70E.gOLGE.eODPYE.z606T.b.w-content.html#_.uY.cBIPD.gE.eOTAK2HB2.e.f.nA',
+            icon: 'icon772089150',
+            children: [
+                {_reference: '_5.j7.cQPWNE.eO7.k.oQK.zK.fA_.w' }
+            ]
+        }
+		,
+        {
+            title: '',
+            id: '_5.j7.cQPWNE.eO7.k.oQK.zK.fA_.w',
+            object: '_5.j7.cQPWNE.eO7.k.oQK.zK.fA_.w-content.html',
+            icon: 'icon-2046486949'
+        }
+		,
+        {
+            title: 'Plot2D',
+            id: '_.hR.m.oIOLGE.eODPYE.z606T.b.w',
+            object: '_.hR.m.oIOLGE.eODPYE.z606T.b.w-content.html',
+            icon: 'icon335881245',
+            children: [
+            ]
+        }
+		,
+        {
+            title: 'Plot3D',
+            id: '_.x.f.tD4OLFE.eODPYE.z606T.b.w',
+            object: '_.x.f.tD4OLFE.eODPYE.z606T.b.w-content.html',
+            icon: 'icon335881245',
+            children: [
+            ]
+        }
+		,
+        {
+            title: 'PublicationQualityPlots',
+            id: '_N.wWE.cOLFE.eODPYE.z606T.b.w',
+            object: '_N.wWE.cOLFE.eODPYE.z606T.b.w-content.html',
+            icon: 'icon335881245',
+            children: [
+            ]
+        }
+		,
+        {
+            title: 'ROIOverlay',
+            id: '_1F.g.s8OLFE.eODPYE.z606T.b.w',
+            object: '_1F.g.s8OLFE.eODPYE.z606T.b.w-content.html',
+            icon: 'icon335881245',
+            children: [
+                {_reference: '_.n.q.lQ.wPD.aE.eO2.f.tSKF.b4W.oQ' },
+                {_reference: '_.cL.o.dAPD.hE.eOTAK2HB2.e.f.nA' },
+                {_reference: '_9O.lNYOL.nE.eO3.zNO.u.s.dT.lYA' }
+            ]
+        }
+		,
+        {
+            title: 'mpl_widget',
+            id: '_.n.q.lQ.wPD.aE.eO2.f.tSKF.b4W.oQ',
+            object: '_1F.g.s8OLFE.eODPYE.z606T.b.w-content.html#_.n.q.lQ.wPD.aE.eO2.f.tSKF.b4W.oQ',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: 'sig_ROI_changedI',
+            id: '_.cL.o.dAPD.hE.eOTAK2HB2.e.f.nA',
+            object: '_1F.g.s8OLFE.eODPYE.z606T.b.w-content.html#_.cL.o.dAPD.hE.eOTAK2HB2.e.f.nA',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: 'show_overlay',
+            id: '_9O.lNYOL.nE.eO3.zNO.u.s.dT.lYA',
+            object: '_1F.g.s8OLFE.eODPYE.z606T.b.w-content.html#_9O.lNYOL.nE.eO3.zNO.u.s.dT.lYA',
+            icon: 'icon772089150'
+        }
+		,
+        {
+            title: 'StackScannerWidget',
+            id: '_38EDUOLFE.eODPYE.z606T.b.w',
+            object: '_38EDUOLFE.eODPYE.z606T.b.w-content.html',
+            icon: 'icon335881245',
+            children: [
+                {_reference: '_N.sCO.oPD.bE.eO2.f.tSKF.b4W.oQ' },
+                {_reference: '_C3AHEOL.rE.eO3.zNO.u.s.dT.lYA' },
+                {_reference: '_.z.k.v8.sPD.aE.eO2.f.tSKF.b4W.oQ' },
+                {_reference: '_.z.n.kAIPD.aE.eO2.f.tSKF.b4W.oQ' },
+                {_reference: '_.z.pTF.gPD.aE.eO2.f.tSKF.b4W.oQ' },
+                {_reference: '_.z.rF1QPD.aE.eO2.f.tSKF.b4W.oQ' },
+                {_reference: '_.z.s.r.w.sPD.aE.eO2.f.tSKF.b4W.oQ' },
+                {_reference: '_.z.uM.z.oPD.aE.eO2.f.tSKF.b4W.oQ' },
+                {_reference: '_D.k4Y.cPD.bE.eO2.f.tSKF.b4W.oQ' },
+                {_reference: '_D.m.w.n.wPD.bE.eO2.f.tSKF.b4W.oQ' },
+                {_reference: '_D.o.dQ4PD.bE.eO2.f.tSKF.b4W.oQ' },
+                {_reference: '_D.qO.y.gPD.bE.eO2.f.tSKF.b4W.oQ' },
+                {_reference: '_D.xGP.gPD.bE.eO2.f.tSKF.b4W.oQ' }
+            ]
+        }
+		,
+        {
+            title: 'canvas',
+            id: '_N.sCO.oPD.bE.eO2.f.tSKF.b4W.oQ',
+            object: '_38EDUOLFE.eODPYE.z606T.b.w-content.html#_N.sCO.oPD.bE.eO2.f.tSKF.b4W.oQ',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: '__init__',
+            id: '_C3AHEOL.rE.eO3.zNO.u.s.dT.lYA',
+            object: '_38EDUOLFE.eODPYE.z606T.b.w-content.html#_C3AHEOL.rE.eO3.zNO.u.s.dT.lYA',
+            icon: 'icon772089150',
+            children: [
+                {_reference: '_.y9Y.a.sPD.aE.eO2.f.tSKF.b4W.oQ' }
+            ]
+        }
+		,
+        {
+            title: '',
+            id: '_.y9Y.a.sPD.aE.eO2.f.tSKF.b4W.oQ',
+            object: '_.y9Y.a.sPD.aE.eO2.f.tSKF.b4W.oQ-content.html',
+            icon: 'icon-2046486949'
+        }
+		,
+        {
+            title: 'set_normalization',
+            id: '_.z.k.v8.sPD.aE.eO2.f.tSKF.b4W.oQ',
+            object: '_38EDUOLFE.eODPYE.z606T.b.w-content.html#_.z.k.v8.sPD.aE.eO2.f.tSKF.b4W.oQ',
+            icon: 'icon772089150'
+        }
+		,
+        {
+            title: 'set_image_intensity_behavior',
+            id: '_.z.n.kAIPD.aE.eO2.f.tSKF.b4W.oQ',
+            object: '_38EDUOLFE.eODPYE.z606T.b.w-content.html#_.z.n.kAIPD.aE.eO2.f.tSKF.b4W.oQ',
+            icon: 'icon772089150'
+        }
+		,
+        {
+            title: 'spinbox_enabler',
+            id: '_.z.pTF.gPD.aE.eO2.f.tSKF.b4W.oQ',
+            object: '_38EDUOLFE.eODPYE.z606T.b.w-content.html#_.z.pTF.gPD.aE.eO2.f.tSKF.b4W.oQ',
+            icon: 'icon772089150'
+        }
+		,
+        {
+            title: 'no_limit_config',
+            id: '_.z.rF1QPD.aE.eO2.f.tSKF.b4W.oQ',
+            object: '_38EDUOLFE.eODPYE.z606T.b.w-content.html#_.z.rF1QPD.aE.eO2.f.tSKF.b4W.oQ',
+            icon: 'icon772089150'
+        }
+		,
+        {
+            title: 'percentile_config',
+            id: '_.z.s.r.w.sPD.aE.eO2.f.tSKF.b4W.oQ',
+            object: '_38EDUOLFE.eODPYE.z606T.b.w-content.html#_.z.s.r.w.sPD.aE.eO2.f.tSKF.b4W.oQ',
+            icon: 'icon772089150'
+        }
+		,
+        {
+            title: 'absolute_limit_config',
+            id: '_.z.uM.z.oPD.aE.eO2.f.tSKF.b4W.oQ',
+            object: '_38EDUOLFE.eODPYE.z606T.b.w-content.html#_.z.uM.z.oPD.aE.eO2.f.tSKF.b4W.oQ',
+            icon: 'icon772089150'
+        }
+		,
+        {
+            title: 'set_spinbox_limits',
+            id: '_D.k4Y.cPD.bE.eO2.f.tSKF.b4W.oQ',
+            object: '_38EDUOLFE.eODPYE.z606T.b.w-content.html#_D.k4Y.cPD.bE.eO2.f.tSKF.b4W.oQ',
+            icon: 'icon772089150'
+        }
+		,
+        {
+            title: 'set_intensity_step',
+            id: '_D.m.w.n.wPD.bE.eO2.f.tSKF.b4W.oQ',
+            object: '_38EDUOLFE.eODPYE.z606T.b.w-content.html#_D.m.w.n.wPD.bE.eO2.f.tSKF.b4W.oQ',
+            icon: 'icon772089150'
+        }
+		,
+        {
+            title: 'set_min_intensity_limit',
+            id: '_D.o.dQ4PD.bE.eO2.f.tSKF.b4W.oQ',
+            object: '_38EDUOLFE.eODPYE.z606T.b.w-content.html#_D.o.dQ4PD.bE.eO2.f.tSKF.b4W.oQ',
+            icon: 'icon772089150'
+        }
+		,
+        {
+            title: 'set_max_intensity_limit',
+            id: '_D.qO.y.gPD.bE.eO2.f.tSKF.b4W.oQ',
+            object: '_38EDUOLFE.eODPYE.z606T.b.w-content.html#_D.qO.y.gPD.bE.eO2.f.tSKF.b4W.oQ',
+            icon: 'icon772089150'
+        }
+		,
+        {
+            title: 'set_limits',
+            id: '_D.xGP.gPD.bE.eO2.f.tSKF.b4W.oQ',
+            object: '_38EDUOLFE.eODPYE.z606T.b.w-content.html#_D.xGP.gPD.bE.eO2.f.tSKF.b4W.oQ',
+            icon: 'icon772089150'
+        }
+		,
+        {
+            title: 'AbstractMPLWidget',
+            id: '_I.z.rL.kOLEE.eODPYE.z606T.b.w',
+            object: '_I.z.rL.kOLEE.eODPYE.z606T.b.w-content.html',
+            icon: 'icon335881245',
+            children: [
+                {_reference: '_.m.dK.uEOLGE.eODPYE.z606T.b.w' },
+                {_reference: '_VNOD.wPW.fE.eO7.k.oQK.zK.fA_.w' },
+                {_reference: '_.n.sIZ.sPJ.rE.eO.fB.a.l87FZL.v.g' },
+                {_reference: '_.n.q.oUEPD.aE.eO2.f.tSKF.b4W.oQ' }
+            ]
+        }
+		,
+        {
+            title: 'controlWidget',
+            id: '_.m.dK.uEOLGE.eODPYE.z606T.b.w',
+            object: '_I.z.rL.kOLEE.eODPYE.z606T.b.w-content.html#_.m.dK.uEOLGE.eODPYE.z606T.b.w',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: '_canvas',
+            id: '_VNOD.wPW.fE.eO7.k.oQK.zK.fA_.w',
+            object: '_I.z.rL.kOLEE.eODPYE.z606T.b.w-content.html#_VNOD.wPW.fE.eO7.k.oQK.zK.fA_.w',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: 'figureCanvas',
+            id: '_.n.sIZ.sPJ.rE.eO.fB.a.l87FZL.v.g',
+            object: '_I.z.rL.kOLEE.eODPYE.z606T.b.w-content.html#_.n.sIZ.sPJ.rE.eO.fB.a.l87FZL.v.g',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: 'roi_overlay',
+            id: '_.n.q.oUEPD.aE.eO2.f.tSKF.b4W.oQ',
+            object: '_I.z.rL.kOLEE.eODPYE.z606T.b.w-content.html#_.n.q.oUEPD.aE.eO2.f.tSKF.b4W.oQ',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: '',
+            id: '_L.e.zVEOLEE.eODPYE.z606T.b.w',
+            object: '_L.e.zVEOLEE.eODPYE.z606T.b.w-content.html',
+            icon: 'icon839194137',
+            children: [
+                {_reference: '_L.fRPIOLEE.eODPYE.z606T.b.w' }
+            ]
+        }
+		,
+        {
+            title: '',
+            id: '_L.fRPIOLEE.eODPYE.z606T.b.w',
+            object: '_L.e.zVEOLEE.eODPYE.z606T.b.w-content.html#_L.fRPIOLEE.eODPYE.z606T.b.w',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: '',
+            id: '_.m.dCLMOLGE.eODPYE.z606T.b.w',
+            object: '_.m.dCLMOLGE.eODPYE.z606T.b.w-content.html',
+            icon: 'icon1879384536'
+        }
+		,
+        {
+            title: '',
+            id: '_.n.q.i0.gPD.aE.eO2.f.tSKF.b4W.oQ',
+            object: '_.n.q.i0.gPD.aE.eO2.f.tSKF.b4W.oQ-content.html',
+            icon: 'icon839194137'
+        }
+		,
+        {
+            title: 'CrossSectionCanvas',
+            id: '_L.x2Z4PD.bE.eO2.f.tSKF.b4W.oQ',
+            object: '_L.x2Z4PD.bE.eO2.f.tSKF.b4W.oQ-content.html',
+            icon: 'icon335881245',
+            children: [
+                {_reference: '_.e.x.sIAPD.bE.eO2.f.tSKF.b4W.oQ' },
+                {_reference: '_R3I9IPD.bE.eO2.f.tSKF.b4W.oQ' },
+                {_reference: '_R487APD.bE.eO2.f.tSKF.b4W.oQ' },
+                {_reference: '_R7P.aAPD.bE.eO2.f.tSKF.b4W.oQ' },
+                {_reference: '_SAKWQPD.bE.eO2.f.tSKF.b4W.oQ' },
+                {_reference: '_SC.t7APD.bE.eO2.f.tSKF.b4W.oQ' },
+                {_reference: '_SE6TYPD.bE.eO2.f.tSKF.b4W.oQ' },
+                {_reference: '_.b59F4PD.bE.eO2.f.tSKF.b4W.oQ' }
+            ]
+        }
+		,
+        {
+            title: 'viewer',
+            id: '_.e.x.sIAPD.bE.eO2.f.tSKF.b4W.oQ',
+            object: '_L.x2Z4PD.bE.eO2.f.tSKF.b4W.oQ-content.html#_.e.x.sIAPD.bE.eO2.f.tSKF.b4W.oQ',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: '__init__',
+            id: '_R3I9IPD.bE.eO2.f.tSKF.b4W.oQ',
+            object: '_L.x2Z4PD.bE.eO2.f.tSKF.b4W.oQ-content.html#_R3I9IPD.bE.eO2.f.tSKF.b4W.oQ',
+            icon: 'icon772089150',
+            children: [
+                {_reference: '_T.q.s.l.c.fD.bE.eO2.f.tSKF.b4W.oQ' }
+            ]
+        }
+		,
+        {
+            title: '',
+            id: '_T.q.s.l.c.fD.bE.eO2.f.tSKF.b4W.oQ',
+            object: '_T.q.s.l.c.fD.bE.eO2.f.tSKF.b4W.oQ-content.html',
+            icon: 'icon-2046486949'
+        }
+		,
+        {
+            title: 'sl_update_colormap',
+            id: '_R487APD.bE.eO2.f.tSKF.b4W.oQ',
+            object: '_L.x2Z4PD.bE.eO2.f.tSKF.b4W.oQ-content.html#_R487APD.bE.eO2.f.tSKF.b4W.oQ',
+            icon: 'icon772089150'
+        }
+		,
+        {
+            title: 'sl_update_image',
+            id: '_R7P.aAPD.bE.eO2.f.tSKF.b4W.oQ',
+            object: '_L.x2Z4PD.bE.eO2.f.tSKF.b4W.oQ-content.html#_R7P.aAPD.bE.eO2.f.tSKF.b4W.oQ',
+            icon: 'icon772089150'
+        }
+		,
+        {
+            title: 'sl_replace_image',
+            id: '_SAKWQPD.bE.eO2.f.tSKF.b4W.oQ',
+            object: '_L.x2Z4PD.bE.eO2.f.tSKF.b4W.oQ-content.html#_SAKWQPD.bE.eO2.f.tSKF.b4W.oQ',
+            icon: 'icon772089150'
+        }
+		,
+        {
+            title: 'sl_update_norm',
+            id: '_SC.t7APD.bE.eO2.f.tSKF.b4W.oQ',
+            object: '_L.x2Z4PD.bE.eO2.f.tSKF.b4W.oQ-content.html#_SC.t7APD.bE.eO2.f.tSKF.b4W.oQ',
+            icon: 'icon772089150'
+        }
+		,
+        {
+            title: 'sl_update_limit_func',
+            id: '_SE6TYPD.bE.eO2.f.tSKF.b4W.oQ',
+            object: '_L.x2Z4PD.bE.eO2.f.tSKF.b4W.oQ-content.html#_SE6TYPD.bE.eO2.f.tSKF.b4W.oQ',
+            icon: 'icon772089150'
+        }
+		,
+        {
+            title: 'sl_update_color_limits',
+            id: '_.b59F4PD.bE.eO2.f.tSKF.b4W.oQ',
+            object: '_L.x2Z4PD.bE.eO2.f.tSKF.b4W.oQ-content.html#_.b59F4PD.bE.eO2.f.tSKF.b4W.oQ',
+            icon: 'icon772089150'
+        }
+		,
+        {
+            title: '',
+            id: '_N.sBA.gPD.bE.eO2.f.tSKF.b4W.oQ',
+            object: '_N.sBA.gPD.bE.eO2.f.tSKF.b4W.oQ-content.html',
+            icon: 'icon839194137',
+            children: [
+                {_reference: '_N.sE.q4PD.bE.eO2.f.tSKF.b4W.oQ' }
+            ]
+        }
+		,
+        {
+            title: '',
+            id: '_N.sE.q4PD.bE.eO2.f.tSKF.b4W.oQ',
+            object: '_N.sBA.gPD.bE.eO2.f.tSKF.b4W.oQ-content.html#_N.sE.q4PD.bE.eO2.f.tSKF.b4W.oQ',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: 'CrossSectionViewer',
+            id: '_.d.n.v.dYPD.bE.eO2.f.tSKF.b4W.oQ',
+            object: '_.d.n.v.dYPD.bE.eO2.f.tSKF.b4W.oQ-content.html',
+            icon: 'icon335881245',
+            children: [
+                {_reference: '_.gX5Q0PD.bE.eO2.f.tSKF.b4W.oQ' },
+                {_reference: '_.hAPDMPD.bE.eO2.f.tSKF.b4W.oQ' },
+                {_reference: '_.hQNY4PD.bE.eO2.f.tSKF.b4W.oQ' },
+                {_reference: '_.hVH.uEPD.bE.eO2.f.tSKF.b4W.oQ' },
+                {_reference: '_.hYPT.gPD.bE.eO2.f.tSKF.b4W.oQ' },
+                {_reference: '_.h.c6YIPD.bE.eO2.f.tSKF.b4W.oQ' }
+            ]
+        }
+		,
+        {
+            title: '__init__',
+            id: '_.gX5Q0PD.bE.eO2.f.tSKF.b4W.oQ',
+            object: '_.d.n.v.dYPD.bE.eO2.f.tSKF.b4W.oQ-content.html#_.gX5Q0PD.bE.eO2.f.tSKF.b4W.oQ',
+            icon: 'icon772089150',
+            children: [
+                {_reference: '_.j.j-LQPD.bE.eO2.f.tSKF.b4W.oQ' },
+                {_reference: '_.j.j-LQ.vD.bE.eO2.f.tSKF.b4W.oQ' },
+                {_reference: '_.j.j-.yU.fD.bE.eO2.f.tSKF.b4W.oQ' },
+                {_reference: '_.j.j_ZYPD.bE.eO2.f.tSKF.b4W.oQ' }
+            ]
+        }
+		,
+        {
+            title: '',
+            id: '_.j.j-LQPD.bE.eO2.f.tSKF.b4W.oQ',
+            object: '_.j.j-LQPD.bE.eO2.f.tSKF.b4W.oQ-content.html',
+            icon: 'icon-2046486949'
+        }
+		,
+        {
+            title: '',
+            id: '_.j.j-LQ.vD.bE.eO2.f.tSKF.b4W.oQ',
+            object: '_.j.j-LQ.vD.bE.eO2.f.tSKF.b4W.oQ-content.html',
+            icon: 'icon-2046486949'
+        }
+		,
+        {
+            title: '',
+            id: '_.j.j-.yU.fD.bE.eO2.f.tSKF.b4W.oQ',
+            object: '_.j.j-.yU.fD.bE.eO2.f.tSKF.b4W.oQ-content.html',
+            icon: 'icon-2046486949'
+        }
+		,
+        {
+            title: '',
+            id: '_.j.j_ZYPD.bE.eO2.f.tSKF.b4W.oQ',
+            object: '_.j.j_ZYPD.bE.eO2.f.tSKF.b4W.oQ-content.html',
+            icon: 'icon-2046486949'
+        }
+		,
+        {
+            title: 'update_image',
+            id: '_.hAPDMPD.bE.eO2.f.tSKF.b4W.oQ',
+            object: '_.d.n.v.dYPD.bE.eO2.f.tSKF.b4W.oQ-content.html#_.hAPDMPD.bE.eO2.f.tSKF.b4W.oQ',
+            icon: 'icon772089150'
+        }
+		,
+        {
+            title: 'update_colormap',
+            id: '_.hQNY4PD.bE.eO2.f.tSKF.b4W.oQ',
+            object: '_.d.n.v.dYPD.bE.eO2.f.tSKF.b4W.oQ-content.html#_.hQNY4PD.bE.eO2.f.tSKF.b4W.oQ',
+            icon: 'icon772089150'
+        }
+		,
+        {
+            title: 'update_norm',
+            id: '_.hVH.uEPD.bE.eO2.f.tSKF.b4W.oQ',
+            object: '_.d.n.v.dYPD.bE.eO2.f.tSKF.b4W.oQ-content.html#_.hVH.uEPD.bE.eO2.f.tSKF.b4W.oQ',
+            icon: 'icon772089150'
+        }
+		,
+        {
+            title: 'update_color_limits',
+            id: '_.hYPT.gPD.bE.eO2.f.tSKF.b4W.oQ',
+            object: '_.d.n.v.dYPD.bE.eO2.f.tSKF.b4W.oQ-content.html#_.hYPT.gPD.bE.eO2.f.tSKF.b4W.oQ',
+            icon: 'icon772089150',
+            children: [
+                {_reference: '_.r.f-Y.gPD.bE.eO2.f.tSKF.b4W.oQ' }
+            ]
+        }
+		,
+        {
+            title: '',
+            id: '_.r.f-Y.gPD.bE.eO2.f.tSKF.b4W.oQ',
+            object: '_.r.f-Y.gPD.bE.eO2.f.tSKF.b4W.oQ-content.html',
+            icon: 'icon-2046486949'
+        }
+		,
+        {
+            title: 'set_limit_func',
+            id: '_.h.c6YIPD.bE.eO2.f.tSKF.b4W.oQ',
+            object: '_.d.n.v.dYPD.bE.eO2.f.tSKF.b4W.oQ-content.html#_.h.c6YIPD.bE.eO2.f.tSKF.b4W.oQ',
+            icon: 'icon772089150'
+        }
+		,
+        {
+            title: '',
+            id: '_.e.x.q54PD.bE.eO2.f.tSKF.b4W.oQ',
+            object: '_.e.x.q54PD.bE.eO2.f.tSKF.b4W.oQ-content.html',
+            icon: 'icon839194137',
+            children: [
+                {_reference: '_.e.x.u.kQPD.bE.eO2.f.tSKF.b4W.oQ' }
+            ]
+        }
+		,
+        {
+            title: '',
+            id: '_.e.x.u.kQPD.bE.eO2.f.tSKF.b4W.oQ',
+            object: '_.e.x.q54PD.bE.eO2.f.tSKF.b4W.oQ-content.html#_.e.x.u.kQPD.bE.eO2.f.tSKF.b4W.oQ',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: 'MplArtistManager',
+            id: '_.sBZRQPD.gE.eOTAK2HB2.e.f.nA',
+            object: '_.sBZRQPD.gE.eOTAK2HB2.e.f.nA-content.html',
+            icon: 'icon335881245',
+            children: [
+                {_reference: '_.y.g_K4PD.gE.eOTAK2HB2.e.f.nA' },
+                {_reference: '_.y.lFA.sPD.gE.eOTAK2HB2.e.f.nA' },
+                {_reference: '_.y.m2.iUPD.gE.eOTAK2HB2.e.f.nA' },
+                {_reference: '_.y.o.x08PD.gE.eOTAK2HB2.e.f.nA' },
+                {_reference: '_1.z.l.kEPD.gE.eOTAK2HB2.e.f.nA' },
+                {_reference: '_11X.s.wPD.gE.eOTAK2HB2.e.f.nA' }
+            ]
+        }
+		,
+        {
+            title: 'add_curve',
+            id: '_.y.g_K4PD.gE.eOTAK2HB2.e.f.nA',
+            object: '_.sBZRQPD.gE.eOTAK2HB2.e.f.nA-content.html#_.y.g_K4PD.gE.eOTAK2HB2.e.f.nA',
+            icon: 'icon772089150'
+        }
+		,
+        {
+            title: 'add_stack',
+            id: '_.y.lFA.sPD.gE.eOTAK2HB2.e.f.nA',
+            object: '_.sBZRQPD.gE.eOTAK2HB2.e.f.nA-content.html#_.y.lFA.sPD.gE.eOTAK2HB2.e.f.nA',
+            icon: 'icon772089150'
+        }
+		,
+        {
+            title: 'set_offset',
+            id: '_.y.m2.iUPD.gE.eOTAK2HB2.e.f.nA',
+            object: '_.sBZRQPD.gE.eOTAK2HB2.e.f.nA-content.html#_.y.m2.iUPD.gE.eOTAK2HB2.e.f.nA',
+            icon: 'icon772089150'
+        }
+		,
+        {
+            title: 'remove_curve',
+            id: '_.y.o.x08PD.gE.eOTAK2HB2.e.f.nA',
+            object: '_.sBZRQPD.gE.eOTAK2HB2.e.f.nA-content.html#_.y.o.x08PD.gE.eOTAK2HB2.e.f.nA',
+            icon: 'icon772089150'
+        }
+		,
+        {
+            title: 'set_curve_data',
+            id: '_1.z.l.kEPD.gE.eOTAK2HB2.e.f.nA',
+            object: '_.sBZRQPD.gE.eOTAK2HB2.e.f.nA-content.html#_1.z.l.kEPD.gE.eOTAK2HB2.e.f.nA',
+            icon: 'icon772089150'
+        }
+		,
+        {
+            title: 'set_curve_properties',
+            id: '_11X.s.wPD.gE.eOTAK2HB2.e.f.nA',
+            object: '_.sBZRQPD.gE.eOTAK2HB2.e.f.nA-content.html#_11X.s.wPD.gE.eOTAK2HB2.e.f.nA',
+            icon: 'icon772089150'
+        }
+		,
+        {
+            title: '',
+            id: '_.n.sFWYPJ.rE.eO.fB.a.l87FZL.v.g',
+            object: '_.n.sFWYPJ.rE.eO.fB.a.l87FZL.v.g-content.html',
+            icon: 'icon839194137',
+            children: [
+                {_reference: '_.n.sNSMPJ.rE.eO.fB.a.l87FZL.v.g' }
+            ]
+        }
+		,
+        {
+            title: '',
+            id: '_.n.sNSMPJ.rE.eO.fB.a.l87FZL.v.g',
+            object: '_.n.sFWYPJ.rE.eO.fB.a.l87FZL.v.g-content.html#_.n.sNSMPJ.rE.eO.fB.a.l87FZL.v.g',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: '',
+            id: '_.l.rB.i.sPWOE.eO7.k.oQK.zK.fA_.w',
+            object: '_.l.rB.i.sPWOE.eO7.k.oQK.zK.fA_.w-content.html',
+            icon: 'icon822420601'
+        }
+		,
+        {
+            title: '',
+            id: '_.k5.h3.gPWSE.eO7.k.oQK.zK.fA_.w',
+            object: '_.k5.h3.gPWSE.eO7.k.oQK.zK.fA_.w-content.html',
+            icon: 'icon839194137',
+            children: [
+                {_reference: '_.k5.kT.wPWSE.eO7.k.oQK.zK.fA_.w' }
+            ]
+        }
+		,
+        {
+            title: '',
+            id: '_.k5.kT.wPWSE.eO7.k.oQK.zK.fA_.w',
+            object: '_.k5.h3.gPWSE.eO7.k.oQK.zK.fA_.w-content.html#_.k5.kT.wPWSE.eO7.k.oQK.zK.fA_.w',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: '',
+            id: '_.rG.z18PWOE.eO7.k.oQK.zK.fA_.w',
+            object: '_.rG.z18PWOE.eO7.k.oQK.zK.fA_.w-content.html',
+            icon: 'icon822420601'
+        }
+		,
+        {
+            title: '',
+            id: '_NB8UIPWOE.eO7.k.oQK.zK.fA_.w',
+            object: '_NB8UIPWOE.eO7.k.oQK.zK.fA_.w-content.html',
+            icon: 'icon822420601'
+        }
+		,
+        {
+            title: '',
+            id: '_.h1.i.e4PWOE.eO7.k.oQK.zK.fA_.w',
+            object: '_.h1.i.e4PWOE.eO7.k.oQK.zK.fA_.w-content.html',
+            icon: 'icon822420601'
+        }
+		,
+        {
+            title: '',
+            id: '_Q.z.kL.oPWOE.eO7.k.oQK.zK.fA_.w',
+            object: '_Q.z.kL.oPWOE.eO7.k.oQK.zK.fA_.w-content.html',
+            icon: 'icon822420601'
+        }
+		,
+        {
+            title: '',
+            id: '_.d.c.cJ8PWJE.eO7.k.oQK.zK.fA_.w',
+            object: '_.d.c.cJ8PWJE.eO7.k.oQK.zK.fA_.w-content.html',
+            icon: 'icon839194137',
+            children: [
+                {_reference: '_.d.c.k.s0PWJE.eO7.k.oQK.zK.fA_.w' }
+            ]
+        }
+		,
+        {
+            title: '',
+            id: '_.d.c.k.s0PWJE.eO7.k.oQK.zK.fA_.w',
+            object: '_.d.c.cJ8PWJE.eO7.k.oQK.zK.fA_.w-content.html#_.d.c.k.s0PWJE.eO7.k.oQK.zK.fA_.w',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: 'SendOperationEvent1',
+            id: '_F.j.y.sMOL.lE.eO3.zNO.u.s.dT.lYA',
+            object: '_F.j.y.sMOL.lE.eO3.zNO.u.s.dT.lYA-content.html',
+            icon: 'icon1812274001'
+        }
+		,
+        {
+            title: 'ReceiveOperationEvent1',
+            id: '_F.j0.hYOL.lE.eO3.zNO.u.s.dT.lYA',
+            object: '_F.j0.hYOL.lE.eO3.zNO.u.s.dT.lYA-content.html',
+            icon: 'icon-653980124'
+        }
+		,
+        {
+            title: 'SendOperationEvent2',
+            id: '_VF.i.i0OL.lE.eO3.zNO.u.s.dT.lYA',
+            object: '_VF.i.i0OL.lE.eO3.zNO.u.s.dT.lYA-content.html',
+            icon: 'icon1812274001'
+        }
+		,
+        {
+            title: 'ReceiveOperationEvent2',
+            id: '_VF.i.i0.eL.lE.eO3.zNO.u.s.dT.lYA',
+            object: '_VF.i.i0.eL.lE.eO3.zNO.u.s.dT.lYA-content.html',
+            icon: 'icon-653980124'
+        }
+		,
+        {
+            title: 'SendOperationEvent3',
+            id: '_.j.q.rAMOL.lE.eO3.zNO.u.s.dT.lYA',
+            object: '_.j.q.rAMOL.lE.eO3.zNO.u.s.dT.lYA-content.html',
+            icon: 'icon1812274001'
+        }
+		,
+        {
+            title: 'ReceiveOperationEvent3',
+            id: '_.j.q.rAM.eL.lE.eO3.zNO.u.s.dT.lYA',
+            object: '_.j.q.rAM.eL.lE.eO3.zNO.u.s.dT.lYA-content.html',
+            icon: 'icon-653980124'
+        }
+		,
+        {
+            title: 'SendOperationEvent4',
+            id: '_.z.zG.cUOL.lE.eO3.zNO.u.s.dT.lYA',
+            object: '_.z.zG.cUOL.lE.eO3.zNO.u.s.dT.lYA-content.html',
+            icon: 'icon1812274001'
+        }
+		,
+        {
+            title: 'ReceiveOperationEvent4',
+            id: '_.z.zHDYOL.lE.eO3.zNO.u.s.dT.lYA',
+            object: '_.z.zHDYOL.lE.eO3.zNO.u.s.dT.lYA-content.html',
+            icon: 'icon-653980124'
+        }
+		,
+        {
+            title: 'SendOperationEvent5',
+            id: '_91.h.j.gOL.lE.eO3.zNO.u.s.dT.lYA',
+            object: '_91.h.j.gOL.lE.eO3.zNO.u.s.dT.lYA-content.html',
+            icon: 'icon1812274001'
+        }
+		,
+        {
+            title: 'ReceiveOperationEvent5',
+            id: '_91.h.j.g.eL.lE.eO3.zNO.u.s.dT.lYA',
+            object: '_91.h.j.g.eL.lE.eO3.zNO.u.s.dT.lYA-content.html',
+            icon: 'icon-653980124'
+        }
+		,
+        {
+            title: 'SendOperationEvent6',
+            id: '_JI.v.kMOL.mE.eO3.zNO.u.s.dT.lYA',
+            object: '_JI.v.kMOL.mE.eO3.zNO.u.s.dT.lYA-content.html',
+            icon: 'icon1812274001'
+        }
+		,
+        {
+            title: 'ReceiveOperationEvent6',
+            id: '_JI.wLQOL.mE.eO3.zNO.u.s.dT.lYA',
+            object: '_JI.wLQOL.mE.eO3.zNO.u.s.dT.lYA-content.html',
+            icon: 'icon-653980124'
+        }
+		,
+        {
+            title: 'nsls2_core',
+            id: '_QE.a84OL.mE.eO3.zNO.u.s.dT.lYA',
+            object: '_QE.a84OL.mE.eO3.zNO.u.s.dT.lYA-content.html',
+            icon: 'icon1560619196',
+            children: [
+                {_reference: '_.eXG10PGAE.eO7V.b.dN.g.f.fXRQ' },
+                {_reference: '_2.p.p.z.sPGAE.eO7V.b.dN.g.f.fXRQ' },
+                {_reference: '_.bU.bV8PD.mE.eOTAK2HB2.e.f.nA' },
+                {_reference: '_.lBA.l.cPD.lE.eOTAK2HB2.e.f.nA' },
+                {_reference: '_M.u.m.x.gPD.lE.eOTAK2HB2.e.f.nA' },
+                {_reference: '_JSD.yIPD.lE.eOTAK2HB2.e.f.nA' },
+                {_reference: '_IL-T0PD.lE.eOTAK2HB2.e.f.nA' },
+                {_reference: '_W.j.o.yYPD.kE.eOTAK2HB2.e.f.nA' },
+                {_reference: '_X.hE.rAPD.kE.eOTAK2HB2.e.f.nA' },
+                {_reference: '_T.gPS0PD.kE.eOTAK2HB2.e.f.nA' },
+                {_reference: '_L.xNAAPD.jE.eOTAK2HB2.e.f.nA' },
+                {_reference: '_JVR.wIPD.jE.eOTAK2HB2.e.f.nA' },
+                {_reference: '_IK.uB.gPD.jE.eOTAK2HB2.e.f.nA' },
+                {_reference: '_S.u7.tQOL.kE.eO3.zNO.u.s.dT.lYA' },
+                {_reference: '_X1.eJQOL.kE.eO3.zNO.u.s.dT.lYA' },
+                {_reference: '_T6-C.kOL.kE.eO3.zNO.u.s.dT.lYA' },
+                {_reference: '_5NIR.gOL.kE.eO3.zNO.u.s.dT.lYA' },
+                {_reference: '_.wB.uM.gPF3E.eO.a.b9.bVA.s1L.tQ' }
+            ]
+        }
+		,
+        {
+            title: 'CALC: Phase Contrast',
+            id: '_.eXG10PGAE.eO7V.b.dN.g.f.fXRQ',
+            object: '_.eXG10PGAE.eO7V.b.dN.g.f.fXRQ-content.html',
+            icon: 'icon1493505891'
+        }
+		,
+        {
+            title: 'CALC: Fluorescence Tomogrpahy',
+            id: '_2.p.p.z.sPGAE.eO7V.b.dN.g.f.fXRQ',
+            object: '_2.p.p.z.sPGAE.eO7V.b.dN.g.f.fXRQ-content.html',
+            icon: 'icon1493505891'
+        }
+		,
+        {
+            title: 'CALC: Apply ROI to data stack',
+            id: '_.bU.bV8PD.mE.eOTAK2HB2.e.f.nA',
+            object: '_.bU.bV8PD.mE.eOTAK2HB2.e.f.nA-content.html',
+            icon: 'icon1493505891'
+        }
+		,
+        {
+            title: 'CALC: Subtract elastic peak',
+            id: '_.lBA.l.cPD.lE.eOTAK2HB2.e.f.nA',
+            object: '_.lBA.l.cPD.lE.eOTAK2HB2.e.f.nA-content.html',
+            icon: 'icon1493505891'
+        }
+		,
+        {
+            title: 'CALC: Fit 1-D Curve',
+            id: '_M.u.m.x.gPD.lE.eOTAK2HB2.e.f.nA',
+            object: '_M.u.m.x.gPD.lE.eOTAK2HB2.e.f.nA-content.html',
+            icon: 'icon1493505891'
+        }
+		,
+        {
+            title: 'CALC: Register 1-D Curves (scale +shift)',
+            id: '_JSD.yIPD.lE.eOTAK2HB2.e.f.nA',
+            object: '_JSD.yIPD.lE.eOTAK2HB2.e.f.nA-content.html',
+            icon: 'icon1493505891'
+        }
+		,
+        {
+            title: 'CALC: Sum Multiple 1-D Curves',
+            id: '_IL-T0PD.lE.eOTAK2HB2.e.f.nA',
+            object: '_IL-T0PD.lE.eOTAK2HB2.e.f.nA-content.html',
+            icon: 'icon1493505891'
+        }
+		,
+        {
+            title: 'CALC: 1-time correlation',
+            id: '_W.j.o.yYPD.kE.eOTAK2HB2.e.f.nA',
+            object: '_W.j.o.yYPD.kE.eOTAK2HB2.e.f.nA-content.html',
+            icon: 'icon1493505891'
+        }
+		,
+        {
+            title: 'CALC: 3-D reconstruction (binning)',
+            id: '_X.hE.rAPD.kE.eOTAK2HB2.e.f.nA',
+            object: '_X.hE.rAPD.kE.eOTAK2HB2.e.f.nA-content.html',
+            icon: 'icon1493505891'
+        }
+		,
+        {
+            title: 'CALC: Convert to reciprocal space',
+            id: '_T.gPS0PD.kE.eOTAK2HB2.e.f.nA',
+            object: '_T.gPS0PD.kE.eOTAK2HB2.e.f.nA-content.html',
+            icon: 'icon1493505891'
+        }
+		,
+        {
+            title: 'CALC: 2D XANES',
+            id: '_L.xNAAPD.jE.eOTAK2HB2.e.f.nA',
+            object: '_L.xNAAPD.jE.eOTAK2HB2.e.f.nA-content.html',
+            icon: 'icon1493505891'
+        }
+		,
+        {
+            title: 'CALC: Absorption Tomography',
+            id: '_JVR.wIPD.jE.eOTAK2HB2.e.f.nA',
+            object: '_JVR.wIPD.jE.eOTAK2HB2.e.f.nA-content.html',
+            icon: 'icon1493505891'
+        }
+		,
+        {
+            title: 'CALC: Single Point XANES',
+            id: '_IK.uB.gPD.jE.eOTAK2HB2.e.f.nA',
+            object: '_IK.uB.gPD.jE.eOTAK2HB2.e.f.nA-content.html',
+            icon: 'icon1493505891'
+        }
+		,
+        {
+            title: 'DataBroker',
+            id: '_S.u7.tQOL.kE.eO3.zNO.u.s.dT.lYA',
+            object: '_S.u7.tQOL.kE.eO3.zNO.u.s.dT.lYA-content.html',
+            icon: 'icon335881245',
+            children: [
+                {_reference: '_F.j.r-.gOL.lE.eO3.zNO.u.s.dT.lYA' },
+                {_reference: '_VF.h7.wOL.lE.eO3.zNO.u.s.dT.lYA' }
+            ]
+        }
+		,
+        {
+            title: 'broker.getLastRun()',
+            id: '_F.j.r-.gOL.lE.eO3.zNO.u.s.dT.lYA',
+            object: '_S.u7.tQOL.kE.eO3.zNO.u.s.dT.lYA-content.html#_F.j.r-.gOL.lE.eO3.zNO.u.s.dT.lYA',
+            icon: 'icon772089150'
+        }
+		,
+        {
+            title: 'getLastRun()',
+            id: '_VF.h7.wOL.lE.eO3.zNO.u.s.dT.lYA',
+            object: '_S.u7.tQOL.kE.eO3.zNO.u.s.dT.lYA-content.html#_VF.h7.wOL.lE.eO3.zNO.u.s.dT.lYA',
+            icon: 'icon772089150'
+        }
+		,
+        {
+            title: 'NSLS2_Core',
+            id: '_X1.eJQOL.kE.eO3.zNO.u.s.dT.lYA',
+            object: '_X1.eJQOL.kE.eO3.zNO.u.s.dT.lYA-content.html',
+            icon: 'icon335881245',
+            children: [
+                {_reference: '_JI.u9IOL.mE.eO3.zNO.u.s.dT.lYA' }
+            ]
+        }
+		,
+        {
+            title: 'stuff',
+            id: '_JI.u9IOL.mE.eO3.zNO.u.s.dT.lYA',
+            object: '_X1.eJQOL.kE.eO3.zNO.u.s.dT.lYA-content.html#_JI.u9IOL.mE.eO3.zNO.u.s.dT.lYA',
+            icon: 'icon772089150'
+        }
+		,
+        {
+            title: 'RegionOfInterest',
+            id: '_T6-C.kOL.kE.eO3.zNO.u.s.dT.lYA',
+            object: '_T6-C.kOL.kE.eO3.zNO.u.s.dT.lYA-content.html',
+            icon: 'icon335881245'
+        }
+		,
+        {
+            title: 'SRX_Fluorescence_Script',
+            id: '_5NIR.gOL.kE.eO3.zNO.u.s.dT.lYA',
+            object: '_5NIR.gOL.kE.eO3.zNO.u.s.dT.lYA-content.html',
+            icon: 'icon335881245'
+        }
+		,
+        {
+            title: 'CALC: Find beam center',
+            id: '_.wB.uM.gPF3E.eO.a.b9.bVA.s1L.tQ',
+            object: '_.wB.uM.gPF3E.eO.a.b9.bVA.s1L.tQ-content.html',
+            icon: 'icon1493505891'
+        }
+		,
+        {
+            title: 'numpy',
+            id: '_.t9_N.oOL.mE.eO3.zNO.u.s.dT.lYA',
+            object: '_.t9_N.oOL.mE.eO3.zNO.u.s.dT.lYA-content.html',
+            icon: 'icon1560619196',
+            children: [
+                {_reference: '_.u9QSQOL.mE.eO3.zNO.u.s.dT.lYA' }
+            ]
+        }
+		,
+        {
+            title: 'ndarray',
+            id: '_.u9QSQOL.mE.eO3.zNO.u.s.dT.lYA',
+            object: '_.u9QSQOL.mE.eO3.zNO.u.s.dT.lYA-content.html',
+            icon: 'icon335881245'
+        }
+		,
+        {
+            title: 'python',
+            id: '_.w9B.x.oOL.mE.eO3.zNO.u.s.dT.lYA',
+            object: '_.w9B.x.oOL.mE.eO3.zNO.u.s.dT.lYA-content.html',
+            icon: 'icon1560619196',
+            children: [
+                {_reference: '_S.c.n.aAPD.hE.eOTAK2HB2.e.f.nA' },
+                {_reference: '_2.fNKMPWRE.eO7.k.oQK.zK.fA_.w' },
+                {_reference: '_O.f.a.vAPW.fE.eO7.k.oQK.zK.fA_.w' },
+                {_reference: '_2LSGMPY.hE.eOV.nI.rG-.v.q7.gQ' },
+                {_reference: '_3KTTMPY.hE.eOV.nI.rG-.v.q7.gQ' },
+                {_reference: '_9NI_YPY.hE.eOV.nI.rG-.v.q7.gQ' }
+            ]
+        }
+		,
+        {
+            title: 'Dictionary',
+            id: '_S.c.n.aAPD.hE.eOTAK2HB2.e.f.nA',
+            object: '_S.c.n.aAPD.hE.eOTAK2HB2.e.f.nA-content.html',
+            icon: 'icon335881245'
+        }
+		,
+        {
+            title: 'List',
+            id: '_2.fNKMPWRE.eO7.k.oQK.zK.fA_.w',
+            object: '_2.fNKMPWRE.eO7.k.oQK.zK.fA_.w-content.html',
+            icon: 'icon335881245'
+        }
+		,
+        {
+            title: 'OrderedDictionary',
+            id: '_O.f.a.vAPW.fE.eO7.k.oQK.zK.fA_.w',
+            object: '_O.f.a.vAPW.fE.eO7.k.oQK.zK.fA_.w-content.html',
+            icon: 'icon335881245'
+        }
+		,
+        {
+            title: 'int',
+            id: '_2LSGMPY.hE.eOV.nI.rG-.v.q7.gQ',
+            object: '_2LSGMPY.hE.eOV.nI.rG-.v.q7.gQ-content.html',
+            icon: 'icon1610949160'
+        }
+		,
+        {
+            title: 'float',
+            id: '_3KTTMPY.hE.eOV.nI.rG-.v.q7.gQ',
+            object: '_3KTTMPY.hE.eOV.nI.rG-.v.q7.gQ-content.html',
+            icon: 'icon1610949160'
+        }
+		,
+        {
+            title: 'String',
+            id: '_9NI_YPY.hE.eOV.nI.rG-.v.q7.gQ',
+            object: '_9NI_YPY.hE.eOV.nI.rG-.v.q7.gQ-content.html',
+            icon: 'icon1610949160'
+        }
+		,
+        {
+            title: 'scipy',
+            id: '_.x7TX.wOL.mE.eO3.zNO.u.s.dT.lYA',
+            object: '_.x7TX.wOL.mE.eO3.zNO.u.s.dT.lYA-content.html',
+            icon: 'icon1560619196'
+        }
+		,
+        {
+            title: 'SendOperationEvent7',
+            id: '_.xTY.m.sOL.nE.eO3.zNO.u.s.dT.lYA',
+            object: '_.xTY.m.sOL.nE.eO3.zNO.u.s.dT.lYA-content.html',
+            icon: 'icon1812274001'
+        }
+		,
+        {
+            title: 'ReceiveOperationEvent7',
+            id: '_.xTZN.wOL.nE.eO3.zNO.u.s.dT.lYA',
+            object: '_.xTZN.wOL.nE.eO3.zNO.u.s.dT.lYA-content.html',
+            icon: 'icon-653980124'
+        }
+		,
+        {
+            title: 'SendOperationEvent8',
+            id: '_7.oFJ.oOL.nE.eO3.zNO.u.s.dT.lYA',
+            object: '_7.oFJ.oOL.nE.eO3.zNO.u.s.dT.lYA-content.html',
+            icon: 'icon1812274001'
+        }
+		,
+        {
+            title: 'ReceiveOperationEvent8',
+            id: '_7.oF.w.sOL.nE.eO3.zNO.u.s.dT.lYA',
+            object: '_7.oF.w.sOL.nE.eO3.zNO.u.s.dT.lYA-content.html',
+            icon: 'icon-653980124'
+        }
+		,
+        {
+            title: 'SendOperationEvent9',
+            id: '_8.pK.zMOL.nE.eO3.zNO.u.s.dT.lYA',
+            object: '_8.pK.zMOL.nE.eO3.zNO.u.s.dT.lYA-content.html',
+            icon: 'icon1812274001'
+        }
+		,
+        {
+            title: 'ReceiveOperationEvent9',
+            id: '_8.pK.zM.eL.nE.eO3.zNO.u.s.dT.lYA',
+            object: '_8.pK.zM.eL.nE.eO3.zNO.u.s.dT.lYA-content.html',
+            icon: 'icon-653980124'
+        }
+		,
+        {
+            title: 'SendOperationEvent10',
+            id: '_9O.l0.cOL.nE.eO3.zNO.u.s.dT.lYA',
+            object: '_9O.l0.cOL.nE.eO3.zNO.u.s.dT.lYA-content.html',
+            icon: 'icon1812274001'
+        }
+		,
+        {
+            title: 'ReceiveOperationEvent10',
+            id: '_9O.l0.c.eL.nE.eO3.zNO.u.s.dT.lYA',
+            object: '_9O.l0.c.eL.nE.eO3.zNO.u.s.dT.lYA-content.html',
+            icon: 'icon-653980124'
+        }
+		,
+        {
+            title: 'SendOperationEvent11',
+            id: '_.w.u_D.sOL.oE.eO3.zNO.u.s.dT.lYA',
+            object: '_.w.u_D.sOL.oE.eO3.zNO.u.s.dT.lYA-content.html',
+            icon: 'icon1812274001'
+        }
+		,
+        {
+            title: 'ReceiveOperationEvent11',
+            id: '_.w.u_.q.wOL.oE.eO3.zNO.u.s.dT.lYA',
+            object: '_.w.u_.q.wOL.oE.eO3.zNO.u.s.dT.lYA-content.html',
+            icon: 'icon-653980124'
+        }
+		,
+        {
+            title: 'QtGui',
+            id: '_G.h.yD4PD.aE.eO2.f.tSKF.b4W.oQ',
+            object: '_G.h.yD4PD.aE.eO2.f.tSKF.b4W.oQ-content.html',
+            icon: 'icon1560619196',
+            children: [
+                {_reference: '_CHJE.cO2AE.eO.cW8S.n.m7.m.e3Q' },
+                {_reference: '_-.xEP.gPWNE.eO7.k.oQK.zK.fA_.w' },
+                {_reference: '_SA.d.dUPY.iE.eOV.nI.rG-.v.q7.gQ' },
+                {_reference: '_B.fXNEPY.jE.eOV.nI.rG-.v.q7.gQ' }
+            ]
+        }
+		,
+        {
+            title: 'QWidget',
+            id: '_CHJE.cO2AE.eO.cW8S.n.m7.m.e3Q',
+            object: '_CHJE.cO2AE.eO.cW8S.n.m7.m.e3Q-content.html',
+            icon: 'icon335881245'
+        }
+		,
+        {
+            title: 'QMainWindow',
+            id: '_-.xEP.gPWNE.eO7.k.oQK.zK.fA_.w',
+            object: '_-.xEP.gPWNE.eO7.k.oQK.zK.fA_.w-content.html',
+            icon: 'icon335881245'
+        }
+		,
+        {
+            title: 'QtCore',
+            id: '_SA.d.dUPY.iE.eOV.nI.rG-.v.q7.gQ',
+            object: '_SA.d.dUPY.iE.eOV.nI.rG-.v.q7.gQ-content.html',
+            icon: 'icon1560619196',
+            children: [
+                {_reference: '_HTJ2.cPD.aE.eO2.f.tSKF.b4W.oQ' },
+                {_reference: '_I.x.uGMPD.aE.eO2.f.tSKF.b4W.oQ' }
+            ]
+        }
+		,
+        {
+            title: 'Signal',
+            id: '_HTJ2.cPD.aE.eO2.f.tSKF.b4W.oQ',
+            object: '_HTJ2.cPD.aE.eO2.f.tSKF.b4W.oQ-content.html',
+            icon: 'icon335881245'
+        }
+		,
+        {
+            title: 'Slot',
+            id: '_I.x.uGMPD.aE.eO2.f.tSKF.b4W.oQ',
+            object: '_I.x.uGMPD.aE.eO2.f.tSKF.b4W.oQ-content.html',
+            icon: 'icon335881245'
+        }
+		,
+        {
+            title: 'QDockWidget',
+            id: '_B.fXNEPY.jE.eOV.nI.rG-.v.q7.gQ',
+            object: '_B.fXNEPY.jE.eOV.nI.rG-.v.q7.gQ-content.html',
+            icon: 'icon335881245',
+            children: [
+            ]
+        }
+		,
+        {
+            title: 'SRX User',
+            id: '_G.l.oI.cPD.iE.eOTAK2HB2.e.f.nA',
+            object: '_G.l.oI.cPD.iE.eOTAK2HB2.e.f.nA-content.html',
+            icon: 'icon788862398'
+        }
+		,
+        {
+            title: 'show fluorescence tomography reconstruction',
+            id: '_P.oA5.gPD.jE.eOTAK2HB2.e.f.nA',
+            object: '_P.oA5.gPD.jE.eOTAK2HB2.e.f.nA-content.html',
+            icon: 'icon1879384536',
+            children: [
+                {_reference: '_P.oC.u.sPD.jE.eOTAK2HB2.e.f.nA' },
+                {_reference: '_P.oFK8PD.jE.eOTAK2HB2.e.f.nA' }
+            ]
+        }
+		,
+        {
+            title: 'vIS: 3D Stack',
+            id: '_P.oC.u.sPD.jE.eOTAK2HB2.e.f.nA',
+            object: '_P.oA5.gPD.jE.eOTAK2HB2.e.f.nA-content.html#_P.oC.u.sPD.jE.eOTAK2HB2.e.f.nA',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: 'sRX Scientist',
+            id: '_P.oFK8PD.jE.eOTAK2HB2.e.f.nA',
+            object: '_P.oA5.gPD.jE.eOTAK2HB2.e.f.nA-content.html#_P.oFK8PD.jE.eOTAK2HB2.e.f.nA',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: 'show CT reconstruction',
+            id: '_R6.c2MPD.jE.eOTAK2HB2.e.f.nA',
+            object: '_R6.c2MPD.jE.eOTAK2HB2.e.f.nA-content.html',
+            icon: 'icon1879384536',
+            children: [
+                {_reference: '_R6.eEUPD.jE.eOTAK2HB2.e.f.nA' },
+                {_reference: '_R6.f5.gPD.jE.eOTAK2HB2.e.f.nA' }
+            ]
+        }
+		,
+        {
+            title: 'vIS: 3D',
+            id: '_R6.eEUPD.jE.eOTAK2HB2.e.f.nA',
+            object: '_R6.c2MPD.jE.eOTAK2HB2.e.f.nA-content.html#_R6.eEUPD.jE.eOTAK2HB2.e.f.nA',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: 'sRX Scientist',
+            id: '_R6.f5.gPD.jE.eOTAK2HB2.e.f.nA',
+            object: '_R6.c2MPD.jE.eOTAK2HB2.e.f.nA-content.html#_R6.f5.gPD.jE.eOTAK2HB2.e.f.nA',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: 'show 2D XANES',
+            id: '_X.gS.dUPD.jE.eOTAK2HB2.e.f.nA',
+            object: '_X.gS.dUPD.jE.eOTAK2HB2.e.f.nA-content.html',
+            icon: 'icon1879384536',
+            children: [
+                {_reference: '_X.gT.r.cPD.jE.eOTAK2HB2.e.f.nA' },
+                {_reference: '_X.gWH.sPD.jE.eOTAK2HB2.e.f.nA' }
+            ]
+        }
+		,
+        {
+            title: 'vIS: 2D Stack',
+            id: '_X.gT.r.cPD.jE.eOTAK2HB2.e.f.nA',
+            object: '_X.gS.dUPD.jE.eOTAK2HB2.e.f.nA-content.html#_X.gT.r.cPD.jE.eOTAK2HB2.e.f.nA',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: 'sRX Scientist',
+            id: '_X.gWH.sPD.jE.eOTAK2HB2.e.f.nA',
+            object: '_X.gS.dUPD.jE.eOTAK2HB2.e.f.nA-content.html#_X.gWH.sPD.jE.eOTAK2HB2.e.f.nA',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: 'display cuts through reconstruction',
+            id: '_Y.gN.pQPD.jE.eOTAK2HB2.e.f.nA',
+            object: '_Y.gN.pQPD.jE.eOTAK2HB2.e.f.nA-content.html',
+            icon: 'icon1879384536',
+            children: [
+                {_reference: '_Y.gO3YPD.jE.eOTAK2HB2.e.f.nA' },
+                {_reference: '_Y.gQ.s.kPD.jE.eOTAK2HB2.e.f.nA' }
+            ]
+        }
+		,
+        {
+            title: 'vIS: 2D Stack',
+            id: '_Y.gO3YPD.jE.eOTAK2HB2.e.f.nA',
+            object: '_Y.gN.pQPD.jE.eOTAK2HB2.e.f.nA-content.html#_Y.gO3YPD.jE.eOTAK2HB2.e.f.nA',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: 'sRX Scientist',
+            id: '_Y.gQ.s.kPD.jE.eOTAK2HB2.e.f.nA',
+            object: '_Y.gN.pQPD.jE.eOTAK2HB2.e.f.nA-content.html#_Y.gQ.s.kPD.jE.eOTAK2HB2.e.f.nA',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: '',
+            id: '_.a.e0D8PD.jE.eOTAK2HB2.e.f.nA',
+            object: '_.a.e0D8PD.jE.eOTAK2HB2.e.f.nA-content.html',
+            icon: 'icon1879384536',
+            children: [
+                {_reference: '_.a.e1SEPD.jE.eOTAK2HB2.e.f.nA' },
+                {_reference: '_.a.e3.uUPD.jE.eOTAK2HB2.e.f.nA' }
+            ]
+        }
+		,
+        {
+            title: 'cALC: Fluorescence CT Reconstruction',
+            id: '_.a.e1SEPD.jE.eOTAK2HB2.e.f.nA',
+            object: '_.a.e0D8PD.jE.eOTAK2HB2.e.f.nA-content.html#_.a.e1SEPD.jE.eOTAK2HB2.e.f.nA',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: 'sRX Scientist',
+            id: '_.a.e3.uUPD.jE.eOTAK2HB2.e.f.nA',
+            object: '_.a.e0D8PD.jE.eOTAK2HB2.e.f.nA-content.html#_.a.e3.uUPD.jE.eOTAK2HB2.e.f.nA',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: '',
+            id: '_.bL3-QPD.jE.eOTAK2HB2.e.f.nA',
+            object: '_.bL3-QPD.jE.eOTAK2HB2.e.f.nA-content.html',
+            icon: 'icon1879384536',
+            children: [
+                {_reference: '_.bL5MYPD.jE.eOTAK2HB2.e.f.nA' },
+                {_reference: '_.bL7.o.oPD.jE.eOTAK2HB2.e.f.nA' }
+            ]
+        }
+		,
+        {
+            title: 'cALC: Single Point XANES',
+            id: '_.bL5MYPD.jE.eOTAK2HB2.e.f.nA',
+            object: '_.bL3-QPD.jE.eOTAK2HB2.e.f.nA-content.html#_.bL5MYPD.jE.eOTAK2HB2.e.f.nA',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: 'sRX Scientist',
+            id: '_.bL7.o.oPD.jE.eOTAK2HB2.e.f.nA',
+            object: '_.bL3-QPD.jE.eOTAK2HB2.e.f.nA-content.html#_.bL7.o.oPD.jE.eOTAK2HB2.e.f.nA',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: '',
+            id: '_.b_OG.wPD.jE.eOTAK2HB2.e.f.nA',
+            object: '_.b_OG.wPD.jE.eOTAK2HB2.e.f.nA-content.html',
+            icon: 'icon1879384536',
+            children: [
+                {_reference: '_.b_P78PD.jE.eOTAK2HB2.e.f.nA' },
+                {_reference: '_.b_R.xIPD.jE.eOTAK2HB2.e.f.nA' }
+            ]
+        }
+		,
+        {
+            title: 'cALC: 2D XANES',
+            id: '_.b_P78PD.jE.eOTAK2HB2.e.f.nA',
+            object: '_.b_OG.wPD.jE.eOTAK2HB2.e.f.nA-content.html#_.b_P78PD.jE.eOTAK2HB2.e.f.nA',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: 'sRX Scientist',
+            id: '_.b_R.xIPD.jE.eOTAK2HB2.e.f.nA',
+            object: '_.b_OG.wPD.jE.eOTAK2HB2.e.f.nA-content.html#_.b_R.xIPD.jE.eOTAK2HB2.e.f.nA',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: 'display ROI (counts vs Ei)',
+            id: '_.c5.nS.cPD.jE.eOTAK2HB2.e.f.nA',
+            object: '_.c5.nS.cPD.jE.eOTAK2HB2.e.f.nA-content.html',
+            icon: 'icon1879384536',
+            children: [
+                {_reference: '_.c5.o.g.kPD.jE.eOTAK2HB2.e.f.nA' },
+                {_reference: '_.c5.q80PD.jE.eOTAK2HB2.e.f.nA' }
+            ]
+        }
+		,
+        {
+            title: 'vIS: 1D',
+            id: '_.c5.o.g.kPD.jE.eOTAK2HB2.e.f.nA',
+            object: '_.c5.nS.cPD.jE.eOTAK2HB2.e.f.nA-content.html#_.c5.o.g.kPD.jE.eOTAK2HB2.e.f.nA',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: 'sRX Scientist',
+            id: '_.c5.q80PD.jE.eOTAK2HB2.e.f.nA',
+            object: '_.c5.nS.cPD.jE.eOTAK2HB2.e.f.nA-content.html#_.c5.q80PD.jE.eOTAK2HB2.e.f.nA',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: 'display raw data (counts vs Ef)',
+            id: '_.eX.eX.kPD.jE.eOTAK2HB2.e.f.nA',
+            object: '_.eX.eX.kPD.jE.eOTAK2HB2.e.f.nA-content.html',
+            icon: 'icon1879384536',
+            children: [
+                {_reference: '_.eX.gM.wPD.jE.eOTAK2HB2.e.f.nA' },
+                {_reference: '_.eX.iB8PD.jE.eOTAK2HB2.e.f.nA' }
+            ]
+        }
+		,
+        {
+            title: 'vIS: 1D',
+            id: '_.eX.gM.wPD.jE.eOTAK2HB2.e.f.nA',
+            object: '_.eX.eX.kPD.jE.eOTAK2HB2.e.f.nA-content.html#_.eX.gM.wPD.jE.eOTAK2HB2.e.f.nA',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: 'sRX Scientist',
+            id: '_.eX.iB8PD.jE.eOTAK2HB2.e.f.nA',
+            object: '_.eX.eX.kPD.jE.eOTAK2HB2.e.f.nA-content.html#_.eX.iB8PD.jE.eOTAK2HB2.e.f.nA',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: 'select ROI from fluorescence yield',
+            id: '_.f3.j.qQPD.jE.eOTAK2HB2.e.f.nA',
+            object: '_.f3.j.qQPD.jE.eOTAK2HB2.e.f.nA-content.html',
+            icon: 'icon1879384536',
+            children: [
+                {_reference: '_.f3.l.f.cPD.jE.eOTAK2HB2.e.f.nA' },
+                {_reference: '_.f3.nU.oPD.jE.eOTAK2HB2.e.f.nA' }
+            ]
+        }
+		,
+        {
+            title: 'vIS: 1D',
+            id: '_.f3.l.f.cPD.jE.eOTAK2HB2.e.f.nA',
+            object: '_.f3.j.qQPD.jE.eOTAK2HB2.e.f.nA-content.html#_.f3.l.f.cPD.jE.eOTAK2HB2.e.f.nA',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: 'sRX Scientist',
+            id: '_.f3.nU.oPD.jE.eOTAK2HB2.e.f.nA',
+            object: '_.f3.j.qQPD.jE.eOTAK2HB2.e.f.nA-content.html#_.f3.nU.oPD.jE.eOTAK2HB2.e.f.nA',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: 'XPD User',
+            id: '_.w9URUPD.jE.eOTAK2HB2.e.f.nA',
+            object: '_.w9URUPD.jE.eOTAK2HB2.e.f.nA-content.html',
+            icon: 'icon788862398'
+        }
+		,
+        {
+            title: 'Coherent Scattering User',
+            id: '_2.lW34PD.jE.eOTAK2HB2.e.f.nA',
+            object: '_2.lW34PD.jE.eOTAK2HB2.e.f.nA-content.html',
+            icon: 'icon788862398'
+        }
+		,
+        {
+            title: 'HXN User',
+            id: '_3.p.tQ0PD.jE.eOTAK2HB2.e.f.nA',
+            object: '_3.p.tQ0PD.jE.eOTAK2HB2.e.f.nA-content.html',
+            icon: 'icon788862398'
+        }
+		,
+        {
+            title: 'view raw data',
+            id: '_.aIIM0PD.kE.eOTAK2HB2.e.f.nA',
+            object: '_.aIIM0PD.kE.eOTAK2HB2.e.f.nA-content.html',
+            icon: 'icon1879384536',
+            children: [
+                {_reference: '_.aIJ.a8PD.kE.eOTAK2HB2.e.f.nA' },
+                {_reference: '_.aILQIPD.kE.eOTAK2HB2.e.f.nA' }
+            ]
+        }
+		,
+        {
+            title: 'vIS: 2D Stack',
+            id: '_.aIJ.a8PD.kE.eOTAK2HB2.e.f.nA',
+            object: '_.aIIM0PD.kE.eOTAK2HB2.e.f.nA-content.html#_.aIJ.a8PD.kE.eOTAK2HB2.e.f.nA',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: 'cSX User',
+            id: '_.aILQIPD.kE.eOTAK2HB2.e.f.nA',
+            object: '_.aIIM0PD.kE.eOTAK2HB2.e.f.nA-content.html#_.aILQIPD.kE.eOTAK2HB2.e.f.nA',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: '',
+            id: '_.cQM.s.kPD.kE.eOTAK2HB2.e.f.nA',
+            object: '_.cQM.s.kPD.kE.eOTAK2HB2.e.f.nA-content.html',
+            icon: 'icon1879384536',
+            children: [
+                {_reference: '_.cQNT.oPD.kE.eOTAK2HB2.e.f.nA' },
+                {_reference: '_.cQP.v4PD.kE.eOTAK2HB2.e.f.nA' }
+            ]
+        }
+		,
+        {
+            title: 'cALC: Convert to reciprocal space',
+            id: '_.cQNT.oPD.kE.eOTAK2HB2.e.f.nA',
+            object: '_.cQM.s.kPD.kE.eOTAK2HB2.e.f.nA-content.html#_.cQNT.oPD.kE.eOTAK2HB2.e.f.nA',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: 'cSX User',
+            id: '_.cQP.v4PD.kE.eOTAK2HB2.e.f.nA',
+            object: '_.cQM.s.kPD.kE.eOTAK2HB2.e.f.nA-content.html#_.cQP.v4PD.kE.eOTAK2HB2.e.f.nA',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: '',
+            id: '_.c2M8.oPD.kE.eOTAK2HB2.e.f.nA',
+            object: '_.c2M8.oPD.kE.eOTAK2HB2.e.f.nA-content.html',
+            icon: 'icon1879384536',
+            children: [
+                {_reference: '_.c2OK.wPD.kE.eOTAK2HB2.e.f.nA' },
+                {_reference: '_.c2Q.nAPD.kE.eOTAK2HB2.e.f.nA' }
+            ]
+        }
+		,
+        {
+            title: 'cALC: 1-time correlation',
+            id: '_.c2OK.wPD.kE.eOTAK2HB2.e.f.nA',
+            object: '_.c2M8.oPD.kE.eOTAK2HB2.e.f.nA-content.html#_.c2OK.wPD.kE.eOTAK2HB2.e.f.nA',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: 'cSX User',
+            id: '_.c2Q.nAPD.kE.eOTAK2HB2.e.f.nA',
+            object: '_.c2M8.oPD.kE.eOTAK2HB2.e.f.nA-content.html#_.c2Q.nAPD.kE.eOTAK2HB2.e.f.nA',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: '',
+            id: '_.d.j6XMPD.kE.eOTAK2HB2.e.f.nA',
+            object: '_.d.j6XMPD.kE.eOTAK2HB2.e.f.nA-content.html',
+            icon: 'icon1879384536',
+            children: [
+                {_reference: '_.d.j7.lUPD.kE.eOTAK2HB2.e.f.nA' },
+                {_reference: '_.d.j9.a.gPD.kE.eOTAK2HB2.e.f.nA' }
+            ]
+        }
+		,
+        {
+            title: 'cALC: 3-D reconstruction (binning)',
+            id: '_.d.j7.lUPD.kE.eOTAK2HB2.e.f.nA',
+            object: '_.d.j6XMPD.kE.eOTAK2HB2.e.f.nA-content.html#_.d.j7.lUPD.kE.eOTAK2HB2.e.f.nA',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: 'cSX User',
+            id: '_.d.j9.a.gPD.kE.eOTAK2HB2.e.f.nA',
+            object: '_.d.j6XMPD.kE.eOTAK2HB2.e.f.nA-content.html#_.d.j9.a.gPD.kE.eOTAK2HB2.e.f.nA',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: 'view 1-time correlation',
+            id: '_.eF30.wPD.kE.eOTAK2HB2.e.f.nA',
+            object: '_.eF30.wPD.kE.eOTAK2HB2.e.f.nA-content.html',
+            icon: 'icon1879384536',
+            children: [
+                {_reference: '_.eF5C4PD.kE.eOTAK2HB2.e.f.nA' },
+                {_reference: '_.eF64EPD.kE.eOTAK2HB2.e.f.nA' }
+            ]
+        }
+		,
+        {
+            title: 'vIS: 1D',
+            id: '_.eF5C4PD.kE.eOTAK2HB2.e.f.nA',
+            object: '_.eF30.wPD.kE.eOTAK2HB2.e.f.nA-content.html#_.eF5C4PD.kE.eOTAK2HB2.e.f.nA',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: 'cSX User',
+            id: '_.eF64EPD.kE.eOTAK2HB2.e.f.nA',
+            object: '_.eF30.wPD.kE.eOTAK2HB2.e.f.nA-content.html#_.eF64EPD.kE.eOTAK2HB2.e.f.nA',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: 'view 2-time correlation',
+            id: '_.fNW.aMPD.kE.eOTAK2HB2.e.f.nA',
+            object: '_.fNW.aMPD.kE.eOTAK2HB2.e.f.nA-content.html',
+            icon: 'icon1879384536',
+            children: [
+                {_reference: '_.fNX.oUPD.kE.eOTAK2HB2.e.f.nA' },
+                {_reference: '_.fNZ.d.gPD.kE.eOTAK2HB2.e.f.nA' }
+            ]
+        }
+		,
+        {
+            title: 'vIS: 2D Stack',
+            id: '_.fNX.oUPD.kE.eOTAK2HB2.e.f.nA',
+            object: '_.fNW.aMPD.kE.eOTAK2HB2.e.f.nA-content.html#_.fNX.oUPD.kE.eOTAK2HB2.e.f.nA',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: 'cSX User',
+            id: '_.fNZ.d.gPD.kE.eOTAK2HB2.e.f.nA',
+            object: '_.fNW.aMPD.kE.eOTAK2HB2.e.f.nA-content.html#_.fNZ.d.gPD.kE.eOTAK2HB2.e.f.nA',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: '',
+            id: '_.gUF.jUPD.lE.eOTAK2HB2.e.f.nA',
+            object: '_.gUF.jUPD.lE.eOTAK2HB2.e.f.nA-content.html',
+            icon: 'icon1879384536',
+            children: [
+                {_reference: '_.gUGKYPD.lE.eOTAK2HB2.e.f.nA' },
+                {_reference: '_.gUI.m.oPD.lE.eOTAK2HB2.e.f.nA' }
+            ]
+        }
+		,
+        {
+            title: 'cALC: Register 1-D Curves (scale +shift)',
+            id: '_.gUGKYPD.lE.eOTAK2HB2.e.f.nA',
+            object: '_.gUF.jUPD.lE.eOTAK2HB2.e.f.nA-content.html#_.gUGKYPD.lE.eOTAK2HB2.e.f.nA',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: 'iXS User',
+            id: '_.gUI.m.oPD.lE.eOTAK2HB2.e.f.nA',
+            object: '_.gUF.jUPD.lE.eOTAK2HB2.e.f.nA-content.html#_.gUI.m.oPD.lE.eOTAK2HB2.e.f.nA',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: 'view inelastic scattering without elastic peak',
+            id: '_.iB.eSMPD.lE.eOTAK2HB2.e.f.nA',
+            object: '_.iB.eSMPD.lE.eOTAK2HB2.e.f.nA-content.html',
+            icon: 'icon1879384536',
+            children: [
+                {_reference: '_.iB.f.gUPD.lE.eOTAK2HB2.e.f.nA' },
+                {_reference: '_.iB.g.u.cPD.lE.eOTAK2HB2.e.f.nA' }
+            ]
+        }
+		,
+        {
+            title: 'vIS: 1D',
+            id: '_.iB.f.gUPD.lE.eOTAK2HB2.e.f.nA',
+            object: '_.iB.eSMPD.lE.eOTAK2HB2.e.f.nA-content.html#_.iB.f.gUPD.lE.eOTAK2HB2.e.f.nA',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: 'iXS User',
+            id: '_.iB.g.u.cPD.lE.eOTAK2HB2.e.f.nA',
+            object: '_.iB.eSMPD.lE.eOTAK2HB2.e.f.nA-content.html#_.iB.g.u.cPD.lE.eOTAK2HB2.e.f.nA',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: '',
+            id: '_BA.uY.oPD.mE.eOTAK2HB2.e.f.nA',
+            object: '_BA.uY.oPD.mE.eOTAK2HB2.e.f.nA-content.html',
+            icon: 'icon1879384536',
+            children: [
+                {_reference: '_BA.wN0PD.mE.eOTAK2HB2.e.f.nA' },
+                {_reference: '_BA.x.b8PD.mE.eOTAK2HB2.e.f.nA' }
+            ]
+        }
+		,
+        {
+            title: 'cALC: Fit 1-D Curve',
+            id: '_BA.wN0PD.mE.eOTAK2HB2.e.f.nA',
+            object: '_BA.uY.oPD.mE.eOTAK2HB2.e.f.nA-content.html#_BA.wN0PD.mE.eOTAK2HB2.e.f.nA',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: 'iXS User',
+            id: '_BA.x.b8PD.mE.eOTAK2HB2.e.f.nA',
+            object: '_BA.uY.oPD.mE.eOTAK2HB2.e.f.nA-content.html#_BA.x.b8PD.mE.eOTAK2HB2.e.f.nA',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: '',
+            id: '_B.h06.kPD.mE.eOTAK2HB2.e.f.nA',
+            object: '_B.h06.kPD.mE.eOTAK2HB2.e.f.nA-content.html',
+            icon: 'icon1879384536',
+            children: [
+                {_reference: '_B.h2I.sPD.mE.eOTAK2HB2.e.f.nA' },
+                {_reference: '_B.h394PD.mE.eOTAK2HB2.e.f.nA' }
+            ]
+        }
+		,
+        {
+            title: 'cALC: Sum Multiple 1-D Curves',
+            id: '_B.h2I.sPD.mE.eOTAK2HB2.e.f.nA',
+            object: '_B.h06.kPD.mE.eOTAK2HB2.e.f.nA-content.html#_B.h2I.sPD.mE.eOTAK2HB2.e.f.nA',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: 'iXS User',
+            id: '_B.h394PD.mE.eOTAK2HB2.e.f.nA',
+            object: '_B.h06.kPD.mE.eOTAK2HB2.e.f.nA-content.html#_B.h394PD.mE.eOTAK2HB2.e.f.nA',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: '',
+            id: '_B81.b.kPD.mE.eOTAK2HB2.e.f.nA',
+            object: '_B81.b.kPD.mE.eOTAK2HB2.e.f.nA-content.html',
+            icon: 'icon1879384536',
+            children: [
+                {_reference: '_B82.p.sPD.mE.eOTAK2HB2.e.f.nA' },
+                {_reference: '_B8330PD.mE.eOTAK2HB2.e.f.nA' }
+            ]
+        }
+		,
+        {
+            title: 'cALC: Subtract elastic peak',
+            id: '_B82.p.sPD.mE.eOTAK2HB2.e.f.nA',
+            object: '_B81.b.kPD.mE.eOTAK2HB2.e.f.nA-content.html#_B82.p.sPD.mE.eOTAK2HB2.e.f.nA',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: 'iXS User',
+            id: '_B8330PD.mE.eOTAK2HB2.e.f.nA',
+            object: '_B81.b.kPD.mE.eOTAK2HB2.e.f.nA-content.html#_B8330PD.mE.eOTAK2HB2.e.f.nA',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: 'view elastic peak fit',
+            id: '_KNC-QPD.mE.eOTAK2HB2.e.f.nA',
+            object: '_KNC-QPD.mE.eOTAK2HB2.e.f.nA-content.html',
+            icon: 'icon1879384536',
+            children: [
+                {_reference: '_KNEMYPD.mE.eOTAK2HB2.e.f.nA' },
+                {_reference: '_KNGB.kPD.mE.eOTAK2HB2.e.f.nA' }
+            ]
+        }
+		,
+        {
+            title: 'vIS: 1D',
+            id: '_KNEMYPD.mE.eOTAK2HB2.e.f.nA',
+            object: '_KNC-QPD.mE.eOTAK2HB2.e.f.nA-content.html#_KNEMYPD.mE.eOTAK2HB2.e.f.nA',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: 'iXS User',
+            id: '_KNGB.kPD.mE.eOTAK2HB2.e.f.nA',
+            object: '_KNC-QPD.mE.eOTAK2HB2.e.f.nA-content.html#_KNGB.kPD.mE.eOTAK2HB2.e.f.nA',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: 'view raw data',
+            id: '_OBI68PD.mE.eOTAK2HB2.e.f.nA',
+            object: '_OBI68PD.mE.eOTAK2HB2.e.f.nA-content.html',
+            icon: 'icon1879384536',
+            children: [
+                {_reference: '_OBKJEPD.mE.eOTAK2HB2.e.f.nA' },
+                {_reference: '_OBL-QPD.mE.eOTAK2HB2.e.f.nA' }
+            ]
+        }
+		,
+        {
+            title: 'vIS: 1D',
+            id: '_OBKJEPD.mE.eOTAK2HB2.e.f.nA',
+            object: '_OBI68PD.mE.eOTAK2HB2.e.f.nA-content.html#_OBKJEPD.mE.eOTAK2HB2.e.f.nA',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: 'iXS User',
+            id: '_OBL-QPD.mE.eOTAK2HB2.e.f.nA',
+            object: '_OBI68PD.mE.eOTAK2HB2.e.f.nA-content.html#_OBL-QPD.mE.eOTAK2HB2.e.f.nA',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: 'mask data',
+            id: '_.f.s.o.sUPD.mE.eOTAK2HB2.e.f.nA',
+            object: '_.f.s.o.sUPD.mE.eOTAK2HB2.e.f.nA-content.html',
+            icon: 'icon1879384536',
+            children: [
+                {_reference: '_.f.s.pTYPD.mE.eOTAK2HB2.e.f.nA' },
+                {_reference: '_.f.s.rI.kPD.mE.eOTAK2HB2.e.f.nA' }
+            ]
+        }
+		,
+        {
+            title: 'vIS: 2D Stack',
+            id: '_.f.s.pTYPD.mE.eOTAK2HB2.e.f.nA',
+            object: '_.f.s.o.sUPD.mE.eOTAK2HB2.e.f.nA-content.html#_.f.s.pTYPD.mE.eOTAK2HB2.e.f.nA',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: 'xPD User',
+            id: '_.f.s.rI.kPD.mE.eOTAK2HB2.e.f.nA',
+            object: '_.f.s.o.sUPD.mE.eOTAK2HB2.e.f.nA-content.html#_.f.s.rI.kPD.mE.eOTAK2HB2.e.f.nA',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: 'integrate data',
+            id: '_.g.n.rYQPD.mE.eOTAK2HB2.e.f.nA',
+            object: '_.g.n.rYQPD.mE.eOTAK2HB2.e.f.nA-content.html',
+            icon: 'icon1879384536',
+            children: [
+                {_reference: '_.g.n.s.mYPD.mE.eOTAK2HB2.e.f.nA' },
+                {_reference: '_.g.n.u.b.kPD.mE.eOTAK2HB2.e.f.nA' }
+            ]
+        }
+		,
+        {
+            title: 'vIS: 2D Stack',
+            id: '_.g.n.s.mYPD.mE.eOTAK2HB2.e.f.nA',
+            object: '_.g.n.rYQPD.mE.eOTAK2HB2.e.f.nA-content.html#_.g.n.s.mYPD.mE.eOTAK2HB2.e.f.nA',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: 'xPD User',
+            id: '_.g.n.u.b.kPD.mE.eOTAK2HB2.e.f.nA',
+            object: '_.g.n.rYQPD.mE.eOTAK2HB2.e.f.nA-content.html#_.g.n.u.b.kPD.mE.eOTAK2HB2.e.f.nA',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: '',
+            id: '_.h7A.oYPD.mE.eOTAK2HB2.e.f.nA',
+            object: '_.h7A.oYPD.mE.eOTAK2HB2.e.f.nA-content.html',
+            icon: 'icon1879384536',
+            children: [
+                {_reference: '_.h7B2.gPD.mE.eOTAK2HB2.e.f.nA' },
+                {_reference: '_.h7D.r.sPD.mE.eOTAK2HB2.e.f.nA' }
+            ]
+        }
+		,
+        {
+            title: 'cALC: Apply ROI to data stack',
+            id: '_.h7B2.gPD.mE.eOTAK2HB2.e.f.nA',
+            object: '_.h7A.oYPD.mE.eOTAK2HB2.e.f.nA-content.html#_.h7B2.gPD.mE.eOTAK2HB2.e.f.nA',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: 'xPD User',
+            id: '_.h7D.r.sPD.mE.eOTAK2HB2.e.f.nA',
+            object: '_.h7A.oYPD.mE.eOTAK2HB2.e.f.nA-content.html#_.h7D.r.sPD.mE.eOTAK2HB2.e.f.nA',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: 'ROI vs Exp.Var',
+            id: '_.i9VBAPD.mE.eOTAK2HB2.e.f.nA',
+            object: '_.i9VBAPD.mE.eOTAK2HB2.e.f.nA-content.html',
+            icon: 'icon1879384536',
+            children: [
+                {_reference: '_.i9WPIPD.mE.eOTAK2HB2.e.f.nA' },
+                {_reference: '_.i9YEUPD.mE.eOTAK2HB2.e.f.nA' }
+            ]
+        }
+		,
+        {
+            title: 'vIS: 1D',
+            id: '_.i9WPIPD.mE.eOTAK2HB2.e.f.nA',
+            object: '_.i9VBAPD.mE.eOTAK2HB2.e.f.nA-content.html#_.i9WPIPD.mE.eOTAK2HB2.e.f.nA',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: 'xPD User',
+            id: '_.i9YEUPD.mE.eOTAK2HB2.e.f.nA',
+            object: '_.i9VBAPD.mE.eOTAK2HB2.e.f.nA-content.html#_.i9YEUPD.mE.eOTAK2HB2.e.f.nA',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: 'show raw 2D images',
+            id: '_.n.g.x-EPD.mE.eOTAK2HB2.e.f.nA',
+            object: '_.n.g.x-EPD.mE.eOTAK2HB2.e.f.nA-content.html',
+            icon: 'icon1879384536',
+            children: [
+                {_reference: '_.n.g.zMMPD.mE.eOTAK2HB2.e.f.nA' },
+                {_reference: '_.n.g1BYPD.mE.eOTAK2HB2.e.f.nA' }
+            ]
+        }
+		,
+        {
+            title: 'vIS: 2D Stack',
+            id: '_.n.g.zMMPD.mE.eOTAK2HB2.e.f.nA',
+            object: '_.n.g.x-EPD.mE.eOTAK2HB2.e.f.nA-content.html#_.n.g.zMMPD.mE.eOTAK2HB2.e.f.nA',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: 'xPD User',
+            id: '_.n.g1BYPD.mE.eOTAK2HB2.e.f.nA',
+            object: '_.n.g.x-EPD.mE.eOTAK2HB2.e.f.nA-content.html#_.n.g1BYPD.mE.eOTAK2HB2.e.f.nA',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: 'mask data',
+            id: '_.mP-.oEPD.nE.eOTAK2HB2.e.f.nA',
+            object: '_.mP-.oEPD.nE.eOTAK2HB2.e.f.nA-content.html',
+            icon: 'icon1879384536',
+            children: [
+                {_reference: '_.mP_PIPD.nE.eOTAK2HB2.e.f.nA' },
+                {_reference: '_.mQBEUPD.nE.eOTAK2HB2.e.f.nA' }
+            ]
+        }
+		,
+        {
+            title: 'vIS: 2D Stack',
+            id: '_.mP_PIPD.nE.eOTAK2HB2.e.f.nA',
+            object: '_.mP-.oEPD.nE.eOTAK2HB2.e.f.nA-content.html#_.mP_PIPD.nE.eOTAK2HB2.e.f.nA',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: 'coherent Scattering User',
+            id: '_.mQBEUPD.nE.eOTAK2HB2.e.f.nA',
+            object: '_.mP-.oEPD.nE.eOTAK2HB2.e.f.nA-content.html#_.mQBEUPD.nE.eOTAK2HB2.e.f.nA',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: '',
+            id: '_.u.uF.aYPF3E.eO.a.b9.bVA.s1L.tQ',
+            object: '_.u.uF.aYPF3E.eO.a.b9.bVA.s1L.tQ-content.html',
+            icon: 'icon1879384536',
+            children: [
+                {_reference: '_.u.uJE.wPF3E.eO.a.b9.bVA.s1L.tQ' },
+                {_reference: '_.u.uN9QPF3E.eO.a.b9.bVA.s1L.tQ' }
+            ]
+        }
+		,
+        {
+            title: 'cALC: Convert to reciprocal space',
+            id: '_.u.uJE.wPF3E.eO.a.b9.bVA.s1L.tQ',
+            object: '_.u.uF.aYPF3E.eO.a.b9.bVA.s1L.tQ-content.html#_.u.uJE.wPF3E.eO.a.b9.bVA.s1L.tQ',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: 'xPD User',
+            id: '_.u.uN9QPF3E.eO.a.b9.bVA.s1L.tQ',
+            object: '_.u.uF.aYPF3E.eO.a.b9.bVA.s1L.tQ-content.html#_.u.uN9QPF3E.eO.a.b9.bVA.s1L.tQ',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: '',
+            id: '_.y.qZ.e8PF3E.eO.a.b9.bVA.s1L.tQ',
+            object: '_.y.qZ.e8PF3E.eO.a.b9.bVA.s1L.tQ-content.html',
+            icon: 'icon1879384536',
+            children: [
+                {_reference: '_.y.q.bUIPF3E.eO.a.b9.bVA.s1L.tQ' },
+                {_reference: '_.y.q.eX.cPF3E.eO.a.b9.bVA.s1L.tQ' }
+            ]
+        }
+		,
+        {
+            title: 'cALC: Find beam center',
+            id: '_.y.q.bUIPF3E.eO.a.b9.bVA.s1L.tQ',
+            object: '_.y.qZ.e8PF3E.eO.a.b9.bVA.s1L.tQ-content.html#_.y.q.bUIPF3E.eO.a.b9.bVA.s1L.tQ',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: 'xPD User',
+            id: '_.y.q.eX.cPF3E.eO.a.b9.bVA.s1L.tQ',
+            object: '_.y.qZ.e8PF3E.eO.a.b9.bVA.s1L.tQ-content.html#_.y.q.eX.cPF3E.eO.a.b9.bVA.s1L.tQ',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: 'NSLS2_Personnel',
+            id: '_.fN.rLEPF4E.eO.a.b9.bVA.s1L.tQ',
+            object: '_.fN.rLEPF4E.eO.a.b9.bVA.s1L.tQ-content.html',
+            icon: 'icon1560619196',
+            children: [
+                {_reference: '_7P-0.sPF3E.eO.a.b9.bVA.s1L.tQ' },
+                {_reference: '_.uKY.a8PF4E.eO.a.b9.bVA.s1L.tQ' }
+            ]
+        }
+		,
+        {
+            title: 'DevTeam',
+            id: '_7P-0.sPF3E.eO.a.b9.bVA.s1L.tQ',
+            object: '_7P-0.sPF3E.eO.a.b9.bVA.s1L.tQ-content.html',
+            icon: 'icon1560619196',
+            children: [
+                {_reference: '_V8.t.l8OL.mE.eO3.zNO.u.s.dT.lYA' },
+                {_reference: '____AAPF3E.eO.a.b9.bVA.s1L.tQ' },
+                {_reference: '_BP.p4IPF4E.eO.a.b9.bVA.s1L.tQ' },
+                {_reference: '_.v.cXVUPF6E.eO.a.b9.bVA.s1L.tQ' }
+            ]
+        }
+		,
+        {
+            title: 'Postdocs',
+            id: '_V8.t.l8OL.mE.eO3.zNO.u.s.dT.lYA',
+            object: '_V8.t.l8OL.mE.eO3.zNO.u.s.dT.lYA-content.html',
+            icon: 'icon1560619196',
+            children: [
+                {_reference: '_80.vMAPF3E.eO.a.b9.bVA.s1L.tQ' },
+                {_reference: '_8I.h.mQPF3E.eO.a.b9.bVA.s1L.tQ' },
+                {_reference: '_.bC7.o8PF4E.eO.a.b9.bVA.s1L.tQ' },
+                {_reference: '_.d.z.e.d8PF4E.eO.a.b9.bVA.s1L.tQ' },
+                {_reference: '_Z.qQB8PF8E.eO.a.b9.bVA.s1L.tQ' }
+            ]
+        }
+		,
+        {
+            title: 'Eric Dill',
+            id: '_80.vMAPF3E.eO.a.b9.bVA.s1L.tQ',
+            object: '_80.vMAPF3E.eO.a.b9.bVA.s1L.tQ-content.html',
+            icon: 'icon788862398'
+        }
+		,
+        {
+            title: 'Thomas Caswell',
+            id: '_8I.h.mQPF3E.eO.a.b9.bVA.s1L.tQ',
+            object: '_8I.h.mQPF3E.eO.a.b9.bVA.s1L.tQ-content.html',
+            icon: 'icon788862398'
+        }
+		,
+        {
+            title: 'Gabriel Iltis',
+            id: '_.bC7.o8PF4E.eO.a.b9.bVA.s1L.tQ',
+            object: '_.bC7.o8PF4E.eO.a.b9.bVA.s1L.tQ-content.html',
+            icon: 'icon788862398'
+        }
+		,
+        {
+            title: 'Sameera Abeykoon',
+            id: '_.d.z.e.d8PF4E.eO.a.b9.bVA.s1L.tQ',
+            object: '_.d.z.e.d8PF4E.eO.a.b9.bVA.s1L.tQ-content.html',
+            icon: 'icon788862398'
+        }
+		,
+        {
+            title: 'provides direction',
+            id: '_Z.qQB8PF8E.eO.a.b9.bVA.s1L.tQ',
+            object: '_Z.qQB8PF8E.eO.a.b9.bVA.s1L.tQ-content.html',
+            icon: 'icon319103488'
+        }
+		,
+        {
+            title: 'Graduate Students',
+            id: '____AAPF3E.eO.a.b9.bVA.s1L.tQ',
+            object: '____AAPF3E.eO.a.b9.bVA.s1L.tQ-content.html',
+            icon: 'icon1560619196'
+        }
+		,
+        {
+            title: 'Summer Students',
+            id: '_BP.p4IPF4E.eO.a.b9.bVA.s1L.tQ',
+            object: '_BP.p4IPF4E.eO.a.b9.bVA.s1L.tQ-content.html',
+            icon: 'icon1560619196',
+            children: [
+                {_reference: '_EB.q.s.wPF4E.eO.a.b9.bVA.s1L.tQ' }
+            ]
+        }
+		,
+        {
+            title: 'James McClintock',
+            id: '_EB.q.s.wPF4E.eO.a.b9.bVA.s1L.tQ',
+            object: '_EB.q.s.wPF4E.eO.a.b9.bVA.s1L.tQ-content.html',
+            icon: 'icon788862398'
+        }
+		,
+        {
+            title: 'UseCase1',
+            id: '_.v.cXVUPF6E.eO.a.b9.bVA.s1L.tQ',
+            object: '_.v.cXVUPF6E.eO.a.b9.bVA.s1L.tQ-content.html',
+            icon: 'icon1493505891'
+        }
+		,
+        {
+            title: 'Beamline Personnel',
+            id: '_.uKY.a8PF4E.eO.a.b9.bVA.s1L.tQ',
+            object: '_.uKY.a8PF4E.eO.a.b9.bVA.s1L.tQ-content.html',
+            icon: 'icon1560619196',
+            children: [
+                {_reference: '_3.g1QIPF8E.eO.a.b9.bVA.s1L.tQ' },
+                {_reference: '_.t.w4O.cPF7E.eO.a.b9.bVA.s1L.tQ' },
+                {_reference: '_.j.j.o-YPF7E.eO.a.b9.bVA.s1L.tQ' },
+                {_reference: '_.k.wP7.cPF7E.eO.a.b9.bVA.s1L.tQ' },
+                {_reference: '_.mA.x.vMPF7E.eO.a.b9.bVA.s1L.tQ' },
+                {_reference: '_.n.d.i.oIPF7E.eO.a.b9.bVA.s1L.tQ' },
+                {_reference: '_.p.z.p.j4PF7E.eO.a.b9.bVA.s1L.tQ' },
+                {_reference: '_3GY.lQPF7E.eO.a.b9.bVA.s1L.tQ' },
+                {_reference: '_8.d.sBIPF7E.eO.a.b9.bVA.s1L.tQ' },
+                {_reference: '_9.zLNYPF7E.eO.a.b9.bVA.s1L.tQ' },
+                {_reference: '_-.xQ.mQPF7E.eO.a.b9.bVA.s1L.tQ' },
+                {_reference: '_AD.p.bMPF8E.eO.a.b9.bVA.s1L.tQ' },
+                {_reference: '_BTBYYPF8E.eO.a.b9.bVA.s1L.tQ' },
+                {_reference: '_.o.oLZ0PF8E.eO.a.b9.bVA.s1L.tQ' },
+                {_reference: '_.y_.p.j8PF8E.eO.a.b9.bVA.s1L.tQ' },
+                {_reference: '_C.y.yF.gPF9E.eO.a.b9.bVA.s1L.tQ' },
+                {_reference: '_F.nB.u.wPF9E.eO.a.b9.bVA.s1L.tQ' },
+                {_reference: '_HJ-.vQPF9E.eO.a.b9.bVA.s1L.tQ' }
+            ]
+        }
+		,
+        {
+            title: 'Sanjit Ghose',
+            id: '_3.g1QIPF8E.eO.a.b9.bVA.s1L.tQ',
+            object: '_3.g1QIPF8E.eO.a.b9.bVA.s1L.tQ-content.html',
+            icon: 'icon788862398',
+            children: [
+            ]
+        }
+		,
+        {
+            title: 'IXS Contact',
+            id: '_.t.w4O.cPF7E.eO.a.b9.bVA.s1L.tQ',
+            object: '_.t.w4O.cPF7E.eO.a.b9.bVA.s1L.tQ-content.html',
+            icon: 'icon788862398'
+        }
+		,
+        {
+            title: 'HXN Contact',
+            id: '_.j.j.o-YPF7E.eO.a.b9.bVA.s1L.tQ',
+            object: '_.j.j.o-YPF7E.eO.a.b9.bVA.s1L.tQ-content.html',
+            icon: 'icon788862398'
+        }
+		,
+        {
+            title: 'CSX Contact',
+            id: '_.k.wP7.cPF7E.eO.a.b9.bVA.s1L.tQ',
+            object: '_.k.wP7.cPF7E.eO.a.b9.bVA.s1L.tQ-content.html',
+            icon: 'icon788862398'
+        }
+		,
+        {
+            title: 'CHX Contact',
+            id: '_.mA.x.vMPF7E.eO.a.b9.bVA.s1L.tQ',
+            object: '_.mA.x.vMPF7E.eO.a.b9.bVA.s1L.tQ-content.html',
+            icon: 'icon788862398'
+        }
+		,
+        {
+            title: 'XPD Contact',
+            id: '_.n.d.i.oIPF7E.eO.a.b9.bVA.s1L.tQ',
+            object: '_.n.d.i.oIPF7E.eO.a.b9.bVA.s1L.tQ-content.html',
+            icon: 'icon788862398'
+        }
+		,
+        {
+            title: 'SRX Contact',
+            id: '_.p.z.p.j4PF7E.eO.a.b9.bVA.s1L.tQ',
+            object: '_.p.z.p.j4PF7E.eO.a.b9.bVA.s1L.tQ-content.html',
+            icon: 'icon788862398'
+        }
+		,
+        {
+            title: 'Describe data analysis problem(s)',
+            id: '_3GY.lQPF7E.eO.a.b9.bVA.s1L.tQ',
+            object: '_3GY.lQPF7E.eO.a.b9.bVA.s1L.tQ-content.html',
+            icon: 'icon319103488'
+        }
+		,
+        {
+            title: 'Describe data analysis problem(s)',
+            id: '_8.d.sBIPF7E.eO.a.b9.bVA.s1L.tQ',
+            object: '_8.d.sBIPF7E.eO.a.b9.bVA.s1L.tQ-content.html',
+            icon: 'icon319103488'
+        }
+		,
+        {
+            title: 'Describe data analysis problem(s)',
+            id: '_9.zLNYPF7E.eO.a.b9.bVA.s1L.tQ',
+            object: '_9.zLNYPF7E.eO.a.b9.bVA.s1L.tQ-content.html',
+            icon: 'icon319103488'
+        }
+		,
+        {
+            title: 'Describe data analysis problem(s)',
+            id: '_-.xQ.mQPF7E.eO.a.b9.bVA.s1L.tQ',
+            object: '_-.xQ.mQPF7E.eO.a.b9.bVA.s1L.tQ-content.html',
+            icon: 'icon319103488'
+        }
+		,
+        {
+            title: 'Describe data analysis problem(s)',
+            id: '_AD.p.bMPF8E.eO.a.b9.bVA.s1L.tQ',
+            object: '_AD.p.bMPF8E.eO.a.b9.bVA.s1L.tQ-content.html',
+            icon: 'icon319103488'
+        }
+		,
+        {
+            title: 'Describe data analysis problem(s)',
+            id: '_BTBYYPF8E.eO.a.b9.bVA.s1L.tQ',
+            object: '_BTBYYPF8E.eO.a.b9.bVA.s1L.tQ-content.html',
+            icon: 'icon319103488'
+        }
+		,
+        {
+            title: 'Stuart Wilkins',
+            id: '_.o.oLZ0PF8E.eO.a.b9.bVA.s1L.tQ',
+            object: '_.o.oLZ0PF8E.eO.a.b9.bVA.s1L.tQ-content.html',
+            icon: 'icon788862398',
+            children: [
+            ]
+        }
+		,
+        {
+            title: 'Andrei Fluerasu',
+            id: '_.y_.p.j8PF8E.eO.a.b9.bVA.s1L.tQ',
+            object: '_.y_.p.j8PF8E.eO.a.b9.bVA.s1L.tQ-content.html',
+            icon: 'icon788862398',
+            children: [
+            ]
+        }
+		,
+        {
+            title: 'Karen Chen-Wiegart',
+            id: '_C.y.yF.gPF9E.eO.a.b9.bVA.s1L.tQ',
+            object: '_C.y.yF.gPF9E.eO.a.b9.bVA.s1L.tQ-content.html',
+            icon: 'icon788862398',
+            children: [
+            ]
+        }
+		,
+        {
+            title: 'Yong Cai',
+            id: '_F.nB.u.wPF9E.eO.a.b9.bVA.s1L.tQ',
+            object: '_F.nB.u.wPF9E.eO.a.b9.bVA.s1L.tQ-content.html',
+            icon: 'icon788862398',
+            children: [
+            ]
+        }
+		,
+        {
+            title: 'Yong Chu',
+            id: '_HJ-.vQPF9E.eO.a.b9.bVA.s1L.tQ',
+            object: '_HJ-.vQPF9E.eO.a.b9.bVA.s1L.tQ-content.html',
+            icon: 'icon788862398',
+            children: [
+            ]
+        }
+		,
+        {
+            title: '',
+            id: '_G6.pP.kPF5E.eO.a.b9.bVA.s1L.tQ',
+            object: '_G6.pP.kPF5E.eO.a.b9.bVA.s1L.tQ-content.html',
+            icon: 'icon1879384536',
+            children: [
+                {_reference: '_G6.q.d.sPF5E.eO.a.b9.bVA.s1L.tQ' },
+                {_reference: '_G6.sS4PF5E.eO.a.b9.bVA.s1L.tQ' }
+            ]
+        }
+		,
+        {
+            title: 'cALC: Find beam center',
+            id: '_G6.q.d.sPF5E.eO.a.b9.bVA.s1L.tQ',
+            object: '_G6.pP.kPF5E.eO.a.b9.bVA.s1L.tQ-content.html#_G6.q.d.sPF5E.eO.a.b9.bVA.s1L.tQ',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: 'coherent Scattering User',
+            id: '_G6.sS4PF5E.eO.a.b9.bVA.s1L.tQ',
+            object: '_G6.pP.kPF5E.eO.a.b9.bVA.s1L.tQ-content.html#_G6.sS4PF5E.eO.a.b9.bVA.s1L.tQ',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: '',
+            id: '_6.n.gJUPGAE.eO7V.b.dN.g.f.fXRQ',
+            object: '_6.n.gJUPGAE.eO7V.b.dN.g.f.fXRQ-content.html',
+            icon: 'icon1879384536',
+            children: [
+                {_reference: '_6.n.mP8PGAE.eO7V.b.dN.g.f.fXRQ' },
+                {_reference: '_6.n.q.hYPGAE.eO7V.b.dN.g.f.fXRQ' }
+            ]
+        }
+		,
+        {
+            title: 'cALC: Fluorescence Tomogrpahy',
+            id: '_6.n.mP8PGAE.eO7V.b.dN.g.f.fXRQ',
+            object: '_6.n.gJUPGAE.eO7V.b.dN.g.f.fXRQ-content.html#_6.n.mP8PGAE.eO7V.b.dN.g.f.fXRQ',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: 'sRX User',
+            id: '_6.n.q.hYPGAE.eO7V.b.dN.g.f.fXRQ',
+            object: '_6.n.gJUPGAE.eO7V.b.dN.g.f.fXRQ-content.html#_6.n.q.hYPGAE.eO7V.b.dN.g.f.fXRQ',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: '',
+            id: '_.l8.oAQPGBE.eO7V.b.dN.g.f.fXRQ',
+            object: '_.l8.oAQPGBE.eO7V.b.dN.g.f.fXRQ-content.html',
+            icon: 'icon1879384536',
+            children: [
+                {_reference: '_.l8.r.q.oPGBE.eO7V.b.dN.g.f.fXRQ' },
+                {_reference: '_.l8.t.f0PGBE.eO7V.b.dN.g.f.fXRQ' }
+            ]
+        }
+		,
+        {
+            title: 'vIS: 1D',
+            id: '_.l8.r.q.oPGBE.eO7V.b.dN.g.f.fXRQ',
+            object: '_.l8.oAQPGBE.eO7V.b.dN.g.f.fXRQ-content.html#_.l8.r.q.oPGBE.eO7V.b.dN.g.f.fXRQ',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: 'hXN User',
+            id: '_.l8.t.f0PGBE.eO7V.b.dN.g.f.fXRQ',
+            object: '_.l8.oAQPGBE.eO7V.b.dN.g.f.fXRQ-content.html#_.l8.t.f0PGBE.eO7V.b.dN.g.f.fXRQ',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: '',
+            id: '_.mY8.v4PGBE.eO7V.b.dN.g.f.fXRQ',
+            object: '_.mY8.v4PGBE.eO7V.b.dN.g.f.fXRQ-content.html',
+            icon: 'icon1879384536',
+            children: [
+                {_reference: '_.mY_MIPGBE.eO7V.b.dN.g.f.fXRQ' },
+                {_reference: '_.mZB.oYPGBE.eO7V.b.dN.g.f.fXRQ' }
+            ]
+        }
+		,
+        {
+            title: 'vIS: 2D Stack',
+            id: '_.mY_MIPGBE.eO7V.b.dN.g.f.fXRQ',
+            object: '_.mY8.v4PGBE.eO7V.b.dN.g.f.fXRQ-content.html#_.mY_MIPGBE.eO7V.b.dN.g.f.fXRQ',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: 'hXN User',
+            id: '_.mZB.oYPGBE.eO7V.b.dN.g.f.fXRQ',
+            object: '_.mY8.v4PGBE.eO7V.b.dN.g.f.fXRQ-content.html#_.mZB.oYPGBE.eO7V.b.dN.g.f.fXRQ',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: '',
+            id: '_.nA.f4EPGBE.eO7V.b.dN.g.f.fXRQ',
+            object: '_.nA.f4EPGBE.eO7V.b.dN.g.f.fXRQ-content.html',
+            icon: 'icon1879384536',
+            children: [
+                {_reference: '_.nA.hGMPGBE.eO7V.b.dN.g.f.fXRQ' },
+                {_reference: '_.nA.iUUPGBE.eO7V.b.dN.g.f.fXRQ' }
+            ]
+        }
+		,
+        {
+            title: 'vIS: 3D Stack',
+            id: '_.nA.hGMPGBE.eO7V.b.dN.g.f.fXRQ',
+            object: '_.nA.f4EPGBE.eO7V.b.dN.g.f.fXRQ-content.html#_.nA.hGMPGBE.eO7V.b.dN.g.f.fXRQ',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: 'hXN User',
+            id: '_.nA.iUUPGBE.eO7V.b.dN.g.f.fXRQ',
+            object: '_.nA.f4EPGBE.eO7V.b.dN.g.f.fXRQ-content.html#_.nA.iUUPGBE.eO7V.b.dN.g.f.fXRQ',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: '',
+            id: '_.oF.tM.oPGBE.eO7V.b.dN.g.f.fXRQ',
+            object: '_.oF.tM.oPGBE.eO7V.b.dN.g.f.fXRQ-content.html',
+            icon: 'icon1879384536',
+            children: [
+                {_reference: '_.oF.v.o4PGBE.eO7V.b.dN.g.f.fXRQ' },
+                {_reference: '_.oF.w3APGBE.eO7V.b.dN.g.f.fXRQ' }
+            ]
+        }
+		,
+        {
+            title: 'cALC: Fluorescence Tomogrpahy',
+            id: '_.oF.v.o4PGBE.eO7V.b.dN.g.f.fXRQ',
+            object: '_.oF.tM.oPGBE.eO7V.b.dN.g.f.fXRQ-content.html#_.oF.v.o4PGBE.eO7V.b.dN.g.f.fXRQ',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: 'hXN User',
+            id: '_.oF.w3APGBE.eO7V.b.dN.g.f.fXRQ',
+            object: '_.oF.tM.oPGBE.eO7V.b.dN.g.f.fXRQ-content.html#_.oF.w3APGBE.eO7V.b.dN.g.f.fXRQ',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: '',
+            id: '_.o0QU.sPGBE.eO7V.b.dN.g.f.fXRQ',
+            object: '_.o0QU.sPGBE.eO7V.b.dN.g.f.fXRQ-content.html',
+            icon: 'icon1879384536',
+            children: [
+                {_reference: '_.o0SJ4PGBE.eO7V.b.dN.g.f.fXRQ' },
+                {_reference: '_.o0T_EPGBE.eO7V.b.dN.g.f.fXRQ' }
+            ]
+        }
+		,
+        {
+            title: 'cALC: Phase Contrast',
+            id: '_.o0SJ4PGBE.eO7V.b.dN.g.f.fXRQ',
+            object: '_.o0QU.sPGBE.eO7V.b.dN.g.f.fXRQ-content.html#_.o0SJ4PGBE.eO7V.b.dN.g.f.fXRQ',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: 'hXN User',
+            id: '_.o0T_EPGBE.eO7V.b.dN.g.f.fXRQ',
+            object: '_.o0QU.sPGBE.eO7V.b.dN.g.f.fXRQ-content.html#_.o0T_EPGBE.eO7V.b.dN.g.f.fXRQ',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: '',
+            id: '_.pS9.p8PGBE.eO7V.b.dN.g.f.fXRQ',
+            object: '_.pS9.p8PGBE.eO7V.b.dN.g.f.fXRQ-content.html',
+            icon: 'icon1879384536',
+            children: [
+                {_reference: '_.pS_.fIPGBE.eO7V.b.dN.g.f.fXRQ' },
+                {_reference: '_.pTBUUPGBE.eO7V.b.dN.g.f.fXRQ' }
+            ]
+        }
+		,
+        {
+            title: 'cALC: Absorption Tomography',
+            id: '_.pS_.fIPGBE.eO7V.b.dN.g.f.fXRQ',
+            object: '_.pS9.p8PGBE.eO7V.b.dN.g.f.fXRQ-content.html#_.pS_.fIPGBE.eO7V.b.dN.g.f.fXRQ',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: 'hXN User',
+            id: '_.pTBUUPGBE.eO7V.b.dN.g.f.fXRQ',
+            object: '_.pS9.p8PGBE.eO7V.b.dN.g.f.fXRQ-content.html#_.pTBUUPGBE.eO7V.b.dN.g.f.fXRQ',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: 'Matplotlib',
+            id: '__3.b.n.cPJ.oE.eO.fB.a.l87FZL.v.g',
+            object: '__3.b.n.cPJ.oE.eO.fB.a.l87FZL.v.g-content.html',
+            icon: 'icon1560619196',
+            children: [
+                {_reference: '_ID7H.wPJ.pE.eO.fB.a.l87FZL.v.g' },
+                {_reference: '_.j.j6.nIPJ.rE.eO.fB.a.l87FZL.v.g' },
+                {_reference: '_9FNN0PWRE.eO7.k.oQK.zK.fA_.w' }
+            ]
+        }
+		,
+        {
+            title: 'FigureCanvas',
+            id: '_ID7H.wPJ.pE.eO.fB.a.l87FZL.v.g',
+            object: '_ID7H.wPJ.pE.eO.fB.a.l87FZL.v.g-content.html',
+            icon: 'icon335881245',
+            children: [
+                {_reference: '_.j.j-R.gPJ.rE.eO.fB.a.l87FZL.v.g' }
+            ]
+        }
+		,
+        {
+            title: 'matplotlibWidget',
+            id: '_.j.j-R.gPJ.rE.eO.fB.a.l87FZL.v.g',
+            object: '_ID7H.wPJ.pE.eO.fB.a.l87FZL.v.g-content.html#_.j.j-R.gPJ.rE.eO.fB.a.l87FZL.v.g',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: '',
+            id: '_.j.j6.nIPJ.rE.eO.fB.a.l87FZL.v.g',
+            object: '_.j.j6.nIPJ.rE.eO.fB.a.l87FZL.v.g-content.html',
+            icon: 'icon839194137',
+            children: [
+                {_reference: '_.j.kD.xEPJ.rE.eO.fB.a.l87FZL.v.g' }
+            ]
+        }
+		,
+        {
+            title: '',
+            id: '_.j.kD.xEPJ.rE.eO.fB.a.l87FZL.v.g',
+            object: '_.j.j6.nIPJ.rE.eO.fB.a.l87FZL.v.g-content.html#_.j.kD.xEPJ.rE.eO.fB.a.l87FZL.v.g',
+            icon: 'icon218440653'
+        }
+		,
+        {
+            title: 'Figure',
+            id: '_9FNN0PWRE.eO7.k.oQK.zK.fA_.w',
+            object: '_9FNN0PWRE.eO7.k.oQK.zK.fA_.w-content.html',
+            icon: 'icon335881245'
+        }
+		
+    ]
+}
+
+		
