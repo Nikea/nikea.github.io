@@ -260,7 +260,8 @@
                 {_reference: '_.oF.tM.oPGBE.eO7V.b.dN.g.f.fXRQ' },
                 {_reference: '_.o0QU.sPGBE.eO7V.b.dN.g.f.fXRQ' },
                 {_reference: '_.pS9.p8PGBE.eO7V.b.dN.g.f.fXRQ' },
-                {_reference: '__3.b.n.cPJ.oE.eO.fB.a.l87FZL.v.g' }
+                {_reference: '__3.b.n.cPJ.oE.eO.fB.a.l87FZL.v.g' },
+                {_reference: '__.c-.g8PZWE.eO.y4--P.rP.u9.pA' }
             ]
         }
 		,
@@ -747,7 +748,7 @@
         }
 		,
         {
-            title: 'VTKWidget',
+            title: 'AbstractVTKWidget',
             id: '_R.f4RQOLFE.eODPYE.z606T.b.w',
             object: '_R.f4RQOLFE.eODPYE.z606T.b.w-content.html',
             icon: 'icon335881245',
@@ -3364,6 +3365,15 @@
             id: '_9FNN0PWRE.eO7.k.oQK.zK.fA_.w',
             object: '_9FNN0PWRE.eO7.k.oQK.zK.fA_.w-content.html',
             icon: 'icon335881245'
+        }
+		,
+        {
+            title: 'AbstractDataViewWidget',
+            id: '__.c-.g8PZWE.eO.y4--P.rP.u9.pA',
+            object: '__.c-.g8PZWE.eO.y4--P.rP.u9.pA-content.html',
+            icon: 'icon335881245',
+            children: [
+            ]
         }
 		
     ]
