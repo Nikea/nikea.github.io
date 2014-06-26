@@ -26,6 +26,9 @@
                 {_reference: '_WL.d.b.kPD.nE.eOTAK2HB2.e.f.nA' },
                 {_reference: '_D.h.kH0OK7E.eOSLN.c.eY.vOJ.mA' },
                 {_reference: '_2.xHVUPF6E.eO.a.b9.bVA.s1L.tQ' },
+                {_reference: '_8R-3YP.y.zE.eO.p.e4.kD.d8R3.e.g' },
+                {_reference: '_VI-X8P0.pE.eO.p.e4.kD.d8R3.e.g' },
+                {_reference: '_.a_M.k.cP0.pE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_53.wC.k.v.u.gE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_7QA.p4.fF3E.eO.a.b9.bVA.s1L.tQ' }
             ]
@@ -146,6 +149,27 @@
             title: 'nsls2_data::External Interactions',
             id: '_2.xHVUPF6E.eO.a.b9.bVA.s1L.tQ',
             object: '_2.xHVUPF6E.eO.a.b9.bVA.s1L.tQ-content.html',
+            icon: 'icon-66775976'
+        },
+	
+        {
+            title: 'nsls2_data::All Use Cases',
+            id: '_8R-3YP.y.zE.eO.p.e4.kD.d8R3.e.g',
+            object: '_8R-3YP.y.zE.eO.p.e4.kD.d8R3.e.g-content.html',
+            icon: 'icon-66775976'
+        },
+	
+        {
+            title: 'nsls2_data::Core Use Cases',
+            id: '_VI-X8P0.pE.eO.p.e4.kD.d8R3.e.g',
+            object: '_VI-X8P0.pE.eO.p.e4.kD.d8R3.e.g-content.html',
+            icon: 'icon-66775976'
+        },
+	
+        {
+            title: 'nsls2_data::vistools Use Cases',
+            id: '_.a_M.k.cP0.pE.eO.p.e4.kD.d8R3.e.g',
+            object: '_.a_M.k.cP0.pE.eO.p.e4.kD.d8R3.e.g-content.html',
             icon: 'icon-66775976'
         },
 	
@@ -283,7 +307,16 @@
                 {_reference: '_40M.z0P.y.xE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_79PBUP.y.xE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_A.mMJ.cP.y.yE.eO.p.e4.kD.d8R3.e.g' },
-                {_reference: '_WQ6.w.gP.y.yE.eO.p.e4.kD.d8R3.e.g' }
+                {_reference: '_WQ6.w.gP.y.yE.eO.p.e4.kD.d8R3.e.g' },
+                {_reference: '_ZU.d.o.gP1LE.eO.p.e4.kD.d8R3.e.g' },
+                {_reference: '_.bUSLMP1LE.eO.p.e4.kD.d8R3.e.g' },
+                {_reference: '_.dX5.o.wP1LE.eO.p.e4.kD.d8R3.e.g' },
+                {_reference: '_.h.c.aAAP1LE.eO.p.e4.kD.d8R3.e.g' },
+                {_reference: '_.h74KQP1LE.eO.p.e4.kD.d8R3.e.g' },
+                {_reference: '_.w.d.i.c4P1LE.eO.p.e4.kD.d8R3.e.g' },
+                {_reference: '__.k.iRMP1LE.eO.p.e4.kD.d8R3.e.g' },
+                {_reference: '__.wRAEP1LE.eO.p.e4.kD.d8R3.e.g' },
+                {_reference: '_F.t.v1.sP1NE.eO.p.e4.kD.d8R3.e.g' }
             ]
         }
 		,
@@ -414,6 +447,13 @@
             object: '_.l.k.c3MOL.jE.eO3.zNO.u.s.dT.lYA-content.html',
             icon: 'icon-1778051182',
             children: [
+                {_reference: '_V.pCK.gP1JE.eO.p.e4.kD.d8R3.e.g' },
+                {_reference: '_.o7YI.cP1KE.eO.p.e4.kD.d8R3.e.g' },
+                {_reference: '_.tRV.cEP1KE.eO.p.e4.kD.d8R3.e.g' },
+                {_reference: '_.e.l.j.kIP1KE.eO.p.e4.kD.d8R3.e.g' },
+                {_reference: '_79X.oIP1JE.eO.p.e4.kD.d8R3.e.g' },
+                {_reference: '_7_JUUP1KE.eO.p.e4.kD.d8R3.e.g' },
+                {_reference: '_.k5NQUP1GE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_.z.sT.kQP.u.xE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_.t7.vT0P.u.xE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '__7.m.y.sP.u.xE.eO.p.e4.kD.d8R3.e.g' },
@@ -471,33 +511,95 @@
                 {_reference: '_GA.w.zEP.u.yE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_.v.q.y2.oP.u.xE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_0.vM.k.oP.u.xE.eO.p.e4.kD.d8R3.e.g' },
-                {_reference: '_.b2.aUAP.y.fE.eO.p.e4.kD.d8R3.e.g' }
+                {_reference: '_.b2.aUAP.y.fE.eO.p.e4.kD.d8R3.e.g' },
+                {_reference: '_.j.w.e.w4P1KE.eO.p.e4.kD.d8R3.e.g' },
+                {_reference: '_.u-H.uAP1KE.eO.p.e4.kD.d8R3.e.g' },
+                {_reference: '_.qT.p.i8P1KE.eO.p.e4.kD.d8R3.e.g' },
+                {_reference: '_9.k0.cMP1LE.eO.p.e4.kD.d8R3.e.g' },
+                {_reference: '_IX.pQIP1NE.eO.p.e4.kD.d8R3.e.g' }
             ]
         }
 		,
         {
-            title: 'ContourCanvas',
+            title: 'AbstractMessenger3D',
+            id: '_V.pCK.gP1JE.eO.p.e4.kD.d8R3.e.g',
+            object: '_V.pCK.gP1JE.eO.p.e4.kD.d8R3.e.g-content.html',
+            icon: 'icon151331783',
+            children: [
+            ]
+        }
+		,
+        {
+            title: 'CrossSection1DMessenger',
+            id: '_.o7YI.cP1KE.eO.p.e4.kD.d8R3.e.g',
+            object: '_.o7YI.cP1KE.eO.p.e4.kD.d8R3.e.g-content.html',
+            icon: 'icon151331783'
+        }
+		,
+        {
+            title: 'CrossSection2DMessenger',
+            id: '_.tRV.cEP1KE.eO.p.e4.kD.d8R3.e.g',
+            object: '_.tRV.cEP1KE.eO.p.e4.kD.d8R3.e.g-content.html',
+            icon: 'icon151331783'
+        }
+		,
+        {
+            title: 'CrossSection2DView',
+            id: '_.e.l.j.kIP1KE.eO.p.e4.kD.d8R3.e.g',
+            object: '_.e.l.j.kIP1KE.eO.p.e4.kD.d8R3.e.g-content.html',
+            icon: 'icon151331783',
+            children: [
+            ]
+        }
+		,
+        {
+            title: 'Line3DMessenger',
+            id: '_79X.oIP1JE.eO.p.e4.kD.d8R3.e.g',
+            object: '_79X.oIP1JE.eO.p.e4.kD.d8R3.e.g-content.html',
+            icon: 'icon151331783',
+            children: [
+            ]
+        }
+		,
+        {
+            title: 'AbstractMessengerROI',
+            id: '_7_JUUP1KE.eO.p.e4.kD.d8R3.e.g',
+            object: '_7_JUUP1KE.eO.p.e4.kD.d8R3.e.g-content.html',
+            icon: 'icon151331783'
+        }
+		,
+        {
+            title: 'OtherDisplayWidget',
+            id: '_.k5NQUP1GE.eO.p.e4.kD.d8R3.e.g',
+            object: '_.k5NQUP1GE.eO.p.e4.kD.d8R3.e.g-content.html',
+            icon: 'icon151331783',
+            children: [
+            ]
+        }
+		,
+        {
+            title: 'ContourMessenger',
             id: '_.z.sT.kQP.u.xE.eO.p.e4.kD.d8R3.e.g',
             object: '_.z.sT.kQP.u.xE.eO.p.e4.kD.d8R3.e.g-content.html',
             icon: 'icon151331783'
         }
 		,
         {
-            title: 'ContourViewer',
+            title: 'ContourView',
             id: '_.t7.vT0P.u.xE.eO.p.e4.kD.d8R3.e.g',
             object: '_.t7.vT0P.u.xE.eO.p.e4.kD.d8R3.e.g-content.html',
             icon: 'icon151331783'
         }
 		,
         {
-            title: 'ImshowCanvas',
+            title: 'ImshowMessenger',
             id: '__7.m.y.sP.u.xE.eO.p.e4.kD.d8R3.e.g',
             object: '__7.m.y.sP.u.xE.eO.p.e4.kD.d8R3.e.g-content.html',
             icon: 'icon151331783'
         }
 		,
         {
-            title: 'ImshowViewer',
+            title: 'ImshowView',
             id: '_VUHBUP.u.yE.eO.p.e4.kD.d8R3.e.g',
             object: '_VUHBUP.u.yE.eO.p.e4.kD.d8R3.e.g-content.html',
             icon: 'icon151331783'
@@ -511,7 +613,7 @@
         }
 		,
         {
-            title: 'AbstractDataViewWidget',
+            title: 'DisplayWidget',
             id: '__.c-.g8PZWE.eO.y4--P.rP.u9.pA',
             object: '__.c-.g8PZWE.eO.y4--P.rP.u9.pA-content.html',
             icon: 'icon151331783',
@@ -520,14 +622,15 @@
         }
 		,
         {
-            title: 'AbstractCanvas',
+            title: 'AbstractMessenger',
             id: '_D.c57QPWIE.eO7.k.oQK.zK.fA_.w',
             object: '_D.c57QPWIE.eO7.k.oQK.zK.fA_.w-content.html',
             icon: 'icon151331783',
             children: [
                 {_reference: '_.d.c.dYEPWJE.eO7.k.oQK.zK.fA_.w' },
                 {_reference: '_2J.i.eUPZ.kE.eO.y4--P.rP.u9.pA' },
-                {_reference: '_E_1G.kPWIE.eO7.k.oQK.zK.fA_.w' },
+                {_reference: '_9.k1.qUP1LE.eO.p.e4.kD.d8R3.e.g' },
+                {_reference: '_.k5.jF.oPWSE.eO7.k.oQK.zK.fA_.w' },
                 {_reference: '_F.cUOQPWIE.eO7.k.oQK.zK.fA_.w' },
                 {_reference: '_F.hM.uQPWIE.eO7.k.oQK.zK.fA_.w' },
                 {_reference: '_F.kQ.pUPWIE.eO7.k.oQK.zK.fA_.w' }
@@ -542,43 +645,24 @@
         }
 		,
         {
-            title: '_view',
+            title: '_viewer',
             id: '_2J.i.eUPZ.kE.eO.y4--P.rP.u9.pA',
             object: '_D.c57QPWIE.eO7.k.oQK.zK.fA_.w-content.html#_2J.i.eUPZ.kE.eO.y4--P.rP.u9.pA',
             icon: 'icon470099028'
         }
 		,
         {
-            title: '__init__',
-            id: '_E_1G.kPWIE.eO7.k.oQK.zK.fA_.w',
-            object: '_D.c57QPWIE.eO7.k.oQK.zK.fA_.w-content.html#_E_1G.kPWIE.eO7.k.oQK.zK.fA_.w',
-            icon: 'icon-1710930910',
-            children: [
-                {_reference: '_I9.g.dEPWIE.eO7.k.oQK.zK.fA_.w' },
-                {_reference: '_I9.hEI.fWIE.eO7.k.oQK.zK.fA_.w' },
-                {_reference: '_I9.h.rMPWIE.eO7.k.oQK.zK.fA_.w' }
-            ]
+            title: 'abstractMessengerROI',
+            id: '_9.k1.qUP1LE.eO.p.e4.kD.d8R3.e.g',
+            object: '_D.c57QPWIE.eO7.k.oQK.zK.fA_.w-content.html#_9.k1.qUP1LE.eO.p.e4.kD.d8R3.e.g',
+            icon: 'icon470099028'
         }
 		,
         {
-            title: '',
-            id: '_I9.g.dEPWIE.eO7.k.oQK.zK.fA_.w',
-            object: '_I9.g.dEPWIE.eO7.k.oQK.zK.fA_.w-content.html',
-            icon: 'icon1694829448'
-        }
-		,
-        {
-            title: '',
-            id: '_I9.hEI.fWIE.eO7.k.oQK.zK.fA_.w',
-            object: '_I9.hEI.fWIE.eO7.k.oQK.zK.fA_.w-content.html',
-            icon: 'icon1694829448'
-        }
-		,
-        {
-            title: '',
-            id: '_I9.h.rMPWIE.eO7.k.oQK.zK.fA_.w',
-            object: '_I9.h.rMPWIE.eO7.k.oQK.zK.fA_.w-content.html',
-            icon: 'icon1694829448'
+            title: 'control_widget',
+            id: '_.k5.jF.oPWSE.eO7.k.oQK.zK.fA_.w',
+            object: '_D.c57QPWIE.eO7.k.oQK.zK.fA_.w-content.html#_.k5.jF.oPWSE.eO7.k.oQK.zK.fA_.w',
+            icon: 'icon470099028'
         }
 		,
         {
@@ -603,7 +687,7 @@
         }
 		,
         {
-            title: 'AbstractCanvas1D',
+            title: 'AbstractMessenger1D',
             id: '_.eEP.mQPWIE.eO7.k.oQK.zK.fA_.w',
             object: '_.eEP.mQPWIE.eO7.k.oQK.zK.fA_.w-content.html',
             icon: 'icon151331783',
@@ -670,7 +754,7 @@
         }
 		,
         {
-            title: 'AbstractImageStackCanvas',
+            title: 'AbstractMessenger2D',
             id: '_.o.n.dGUPWIE.eO7.k.oQK.zK.fA_.w',
             object: '_.o.n.dGUPWIE.eO7.k.oQK.zK.fA_.w-content.html',
             icon: 'icon151331783',
@@ -711,7 +795,7 @@
                 {_reference: '_.m.xK.d.gP.cRE.eO5.p.s.m.v1CZ.k0Q' },
                 {_reference: '_.qY-4.wP.cRE.eO5.p.s.m.v1CZ.k0Q' },
                 {_reference: '_.wFVX.kP.cRE.eO5.p.s.m.v1CZ.k0Q' },
-                {_reference: '_.u4CT.kPWIE.eO7.k.oQK.zK.fA_.w' },
+                {_reference: '_.n.q.oUEPD.aE.eO2.f.tSKF.b4W.oQ' },
                 {_reference: '_.wI.t4UPWIE.eO7.k.oQK.zK.fA_.w' },
                 {_reference: '_-.t.vA8PWIE.eO7.k.oQK.zK.fA_.w' },
                 {_reference: '_97F3AP.u.yE.eO.p.e4.kD.d8R3.e.g' }
@@ -740,44 +824,10 @@
         }
 		,
         {
-            title: '__init__',
-            id: '_.u4CT.kPWIE.eO7.k.oQK.zK.fA_.w',
-            object: '_.t.hG84PWIE.eO7.k.oQK.zK.fA_.w-content.html#_.u4CT.kPWIE.eO7.k.oQK.zK.fA_.w',
-            icon: 'icon-1710930910',
-            children: [
-                {_reference: '_.y.q9L.k.fWIE.eO7.k.oQK.zK.fA_.w' },
-                {_reference: '_.y.q9.y.o.fWIE.eO7.k.oQK.zK.fA_.w' },
-                {_reference: '_.y.q-Z.sPWIE.eO7.k.oQK.zK.fA_.w' },
-                {_reference: '_.y.q-Z.s.vWIE.eO7.k.oQK.zK.fA_.w' }
-            ]
-        }
-		,
-        {
-            title: '',
-            id: '_.y.q9L.k.fWIE.eO7.k.oQK.zK.fA_.w',
-            object: '_.y.q9L.k.fWIE.eO7.k.oQK.zK.fA_.w-content.html',
-            icon: 'icon1694829448'
-        }
-		,
-        {
-            title: '',
-            id: '_.y.q9.y.o.fWIE.eO7.k.oQK.zK.fA_.w',
-            object: '_.y.q9.y.o.fWIE.eO7.k.oQK.zK.fA_.w-content.html',
-            icon: 'icon1694829448'
-        }
-		,
-        {
-            title: '',
-            id: '_.y.q-Z.sPWIE.eO7.k.oQK.zK.fA_.w',
-            object: '_.y.q-Z.sPWIE.eO7.k.oQK.zK.fA_.w-content.html',
-            icon: 'icon1694829448'
-        }
-		,
-        {
-            title: '',
-            id: '_.y.q-Z.s.vWIE.eO7.k.oQK.zK.fA_.w',
-            object: '_.y.q-Z.s.vWIE.eO7.k.oQK.zK.fA_.w-content.html',
-            icon: 'icon1694829448'
+            title: 'roi_overlay',
+            id: '_.n.q.oUEPD.aE.eO2.f.tSKF.b4W.oQ',
+            object: '_.t.hG84PWIE.eO7.k.oQK.zK.fA_.w-content.html#_.n.q.oUEPD.aE.eO2.f.tSKF.b4W.oQ',
+            icon: 'icon470099028'
         }
 		,
         {
@@ -928,7 +978,7 @@
         }
 		,
         {
-            title: 'OneDimStackCanvas',
+            title: 'Stack1DMessenger',
             id: '_.i.u0C.gPWJE.eO7.k.oQK.zK.fA_.w',
             object: '_.i.u0C.gPWJE.eO7.k.oQK.zK.fA_.w-content.html',
             icon: 'icon151331783',
@@ -995,7 +1045,7 @@
         }
 		,
         {
-            title: 'OneDimStackViewer',
+            title: 'Stack1DView',
             id: '_.p.t6JUPWOE.eO7.k.oQK.zK.fA_.w',
             object: '_.p.t6JUPWOE.eO7.k.oQK.zK.fA_.w-content.html',
             icon: 'icon151331783',
@@ -1077,7 +1127,7 @@
         }
 		,
         {
-            title: 'AbstractVTKWidget',
+            title: 'VTKDisplayWidget',
             id: '_R.f4RQOLFE.eODPYE.z606T.b.w',
             object: '_R.f4RQOLFE.eODPYE.z606T.b.w-content.html',
             icon: 'icon151331783',
@@ -1169,9 +1219,10 @@
             children: [
                 {_reference: '_L.e8.fAOLEE.eODPYE.z606T.b.w' },
                 {_reference: '_CT3R8PD.aE.eO2.f.tSKF.b4W.oQ' },
-                {_reference: '_.k5.jF.oPWSE.eO7.k.oQK.zK.fA_.w' },
                 {_reference: '_.v.r.dS.kPW.eE.eO7.k.oQK.zK.fA_.w' },
                 {_reference: '_5TSI.cPW.eE.eO7.k.oQK.zK.fA_.w' },
+                {_reference: '_.n.sIZ.sPJ.rE.eO.fB.a.l87FZL.v.g' },
+                {_reference: '_IX.q.eQP1NE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_.nTA6.wPDZE.eO2.f.tSKF.b4W.oQ' },
                 {_reference: '_.nY2.dAPDZE.eO2.f.tSKF.b4W.oQ' }
             ]
@@ -1192,23 +1243,30 @@
         }
 		,
         {
-            title: 'control_widget',
-            id: '_.k5.jF.oPWSE.eO7.k.oQK.zK.fA_.w',
-            object: '_.s.y.cV.cOLDE.eODPYE.z606T.b.w-content.html#_.k5.jF.oPWSE.eO7.k.oQK.zK.fA_.w',
-            icon: 'icon470099028'
-        }
-		,
-        {
-            title: '_ctrl_widget',
+            title: '_ctrl',
             id: '_.v.r.dS.kPW.eE.eO7.k.oQK.zK.fA_.w',
             object: '_.s.y.cV.cOLDE.eODPYE.z606T.b.w-content.html#_.v.r.dS.kPW.eE.eO7.k.oQK.zK.fA_.w',
             icon: 'icon470099028'
         }
 		,
         {
-            title: '_view_widget',
+            title: '_disp',
             id: '_5TSI.cPW.eE.eO7.k.oQK.zK.fA_.w',
             object: '_.s.y.cV.cOLDE.eODPYE.z606T.b.w-content.html#_5TSI.cPW.eE.eO7.k.oQK.zK.fA_.w',
+            icon: 'icon470099028'
+        }
+		,
+        {
+            title: 'figureCanvas',
+            id: '_.n.sIZ.sPJ.rE.eO.fB.a.l87FZL.v.g',
+            object: '_.s.y.cV.cOLDE.eODPYE.z606T.b.w-content.html#_.n.sIZ.sPJ.rE.eO.fB.a.l87FZL.v.g',
+            icon: 'icon470099028'
+        }
+		,
+        {
+            title: 'controlWidgetBucket',
+            id: '_IX.q.eQP1NE.eO.p.e4.kD.d8R3.e.g',
+            object: '_.s.y.cV.cOLDE.eODPYE.z606T.b.w-content.html#_IX.q.eQP1NE.eO.p.e4.kD.d8R3.e.g',
             icon: 'icon470099028'
         }
 		,
@@ -1226,7 +1284,8 @@
             icon: 'icon-1710930910',
             children: [
                 {_reference: '_.gS.q-.sPY.iE.eOV.nI.rG-.v.q7.gQ' },
-                {_reference: '_.gS.r.l.w.fY.iE.eOV.nI.rG-.v.q7.gQ' }
+                {_reference: '_.gS.r.l.w.fY.iE.eOV.nI.rG-.v.q7.gQ' },
+                {_reference: '_3O90.wP1IE.eO.p.e4.kD.d8R3.e.g' }
             ]
         }
 		,
@@ -1241,6 +1300,13 @@
             title: '',
             id: '_.gS.r.l.w.fY.iE.eOV.nI.rG-.v.q7.gQ',
             object: '_.gS.r.l.w.fY.iE.eOV.nI.rG-.v.q7.gQ-content.html',
+            icon: 'icon1694829448'
+        }
+		,
+        {
+            title: '',
+            id: '_3O90.wP1IE.eO.p.e4.kD.d8R3.e.g',
+            object: '_3O90.wP1IE.eO.p.e4.kD.d8R3.e.g-content.html',
             icon: 'icon1694829448'
         }
 		,
@@ -1307,7 +1373,7 @@
         }
 		,
         {
-            title: 'ROIOverlay',
+            title: 'AbstractROIOverlay',
             id: '_1F.g.s8OLFE.eODPYE.z606T.b.w',
             object: '_1F.g.s8OLFE.eODPYE.z606T.b.w-content.html',
             icon: 'icon151331783',
@@ -1463,15 +1529,14 @@
         }
 		,
         {
-            title: 'AbstractMPLWidget',
+            title: 'MPLDisplayWidget',
             id: '_I.z.rL.kOLEE.eODPYE.z606T.b.w',
             object: '_I.z.rL.kOLEE.eODPYE.z606T.b.w-content.html',
             icon: 'icon151331783',
             children: [
                 {_reference: '_.m.dK.uEOLGE.eODPYE.z606T.b.w' },
                 {_reference: '_VNOD.wPW.fE.eO7.k.oQK.zK.fA_.w' },
-                {_reference: '_.n.sIZ.sPJ.rE.eO.fB.a.l87FZL.v.g' },
-                {_reference: '_.n.q.oUEPD.aE.eO2.f.tSKF.b4W.oQ' }
+                {_reference: '_D.lXREP1GE.eO.p.e4.kD.d8R3.e.g' }
             ]
         }
 		,
@@ -1483,24 +1548,17 @@
         }
 		,
         {
-            title: '_canvas',
+            title: '_figure',
             id: '_VNOD.wPW.fE.eO7.k.oQK.zK.fA_.w',
             object: '_I.z.rL.kOLEE.eODPYE.z606T.b.w-content.html#_VNOD.wPW.fE.eO7.k.oQK.zK.fA_.w',
             icon: 'icon470099028'
         }
 		,
         {
-            title: 'figureCanvas',
-            id: '_.n.sIZ.sPJ.rE.eO.fB.a.l87FZL.v.g',
-            object: '_I.z.rL.kOLEE.eODPYE.z606T.b.w-content.html#_.n.sIZ.sPJ.rE.eO.fB.a.l87FZL.v.g',
-            icon: 'icon470099028'
-        }
-		,
-        {
-            title: 'roi_overlay',
-            id: '_.n.q.oUEPD.aE.eO2.f.tSKF.b4W.oQ',
-            object: '_I.z.rL.kOLEE.eODPYE.z606T.b.w-content.html#_.n.q.oUEPD.aE.eO2.f.tSKF.b4W.oQ',
-            icon: 'icon470099028'
+            title: '__init__',
+            id: '_D.lXREP1GE.eO.p.e4.kD.d8R3.e.g',
+            object: '_I.z.rL.kOLEE.eODPYE.z606T.b.w-content.html#_D.lXREP1GE.eO.p.e4.kD.d8R3.e.g',
+            icon: 'icon-1710930910'
         }
 		,
         {
@@ -1980,6 +2038,61 @@
         }
 		,
         {
+            title: '',
+            id: '_.j.w.e.w4P1KE.eO.p.e4.kD.d8R3.e.g',
+            object: '_.j.w.e.w4P1KE.eO.p.e4.kD.d8R3.e.g-content.html',
+            icon: 'icon33898957'
+        }
+		,
+        {
+            title: '',
+            id: '_.u-H.uAP1KE.eO.p.e4.kD.d8R3.e.g',
+            object: '_.u-H.uAP1KE.eO.p.e4.kD.d8R3.e.g-content.html',
+            icon: 'icon33898957'
+        }
+		,
+        {
+            title: '',
+            id: '_.qT.p.i8P1KE.eO.p.e4.kD.d8R3.e.g',
+            object: '_.qT.p.i8P1KE.eO.p.e4.kD.d8R3.e.g-content.html',
+            icon: 'icon33898957'
+        }
+		,
+        {
+            title: '',
+            id: '_9.k0.cMP1LE.eO.p.e4.kD.d8R3.e.g',
+            object: '_9.k0.cMP1LE.eO.p.e4.kD.d8R3.e.g-content.html',
+            icon: 'icon1409622367',
+            children: [
+                {_reference: '_9.k3.f.gP1LE.eO.p.e4.kD.d8R3.e.g' }
+            ]
+        }
+		,
+        {
+            title: '',
+            id: '_9.k3.f.gP1LE.eO.p.e4.kD.d8R3.e.g',
+            object: '_9.k0.cMP1LE.eO.p.e4.kD.d8R3.e.g-content.html#_9.k3.f.gP1LE.eO.p.e4.kD.d8R3.e.g',
+            icon: 'icon470099028'
+        }
+		,
+        {
+            title: '',
+            id: '_IX.pQIP1NE.eO.p.e4.kD.d8R3.e.g',
+            object: '_IX.pQIP1NE.eO.p.e4.kD.d8R3.e.g-content.html',
+            icon: 'icon1409622367',
+            children: [
+                {_reference: '_IX.sT.cP1NE.eO.p.e4.kD.d8R3.e.g' }
+            ]
+        }
+		,
+        {
+            title: '',
+            id: '_IX.sT.cP1NE.eO.p.e4.kD.d8R3.e.g',
+            object: '_IX.pQIP1NE.eO.p.e4.kD.d8R3.e.g-content.html#_IX.sT.cP1NE.eO.p.e4.kD.d8R3.e.g',
+            icon: 'icon470099028'
+        }
+		,
+        {
             title: 'SendOperationEvent1',
             id: '_F.j.y.sMOL.lE.eO3.zNO.u.s.dT.lYA',
             object: '_F.j.y.sMOL.lE.eO3.zNO.u.s.dT.lYA-content.html',
@@ -2072,9 +2185,7 @@
                 {_reference: '_.h.v45.cP.u.aE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_2.p.p.z.sPGAE.eO7V.b.dN.g.f.fXRQ' },
                 {_reference: '_.bU.bV8PD.mE.eOTAK2HB2.e.f.nA' },
-                {_reference: '_M.u.m.x.gPD.lE.eOTAK2HB2.e.f.nA' },
                 {_reference: '_JSD.yIPD.lE.eOTAK2HB2.e.f.nA' },
-                {_reference: '_IL-T0PD.lE.eOTAK2HB2.e.f.nA' },
                 {_reference: '_X.hE.rAPD.kE.eOTAK2HB2.e.f.nA' },
                 {_reference: '_T.gPS0PD.kE.eOTAK2HB2.e.f.nA' },
                 {_reference: '_L.xNAAPD.jE.eOTAK2HB2.e.f.nA' },
@@ -2094,7 +2205,6 @@
                 {_reference: '_.b.u.fI8P.u.gE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_.k8N.c.wP.u.gE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_27Y.oIP.y.dE.eO.p.e4.kD.d8R3.e.g' },
-                {_reference: '_-.g.fYUP.y.dE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_6.m.c.yYP.y.iE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_OAL.f0P.y.mE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_PE.sQ0P.y.mE.eO.p.e4.kD.d8R3.e.g' }
@@ -2123,23 +2233,9 @@
         }
 		,
         {
-            title: 'CALC: Fit 1-D Curve',
-            id: '_M.u.m.x.gPD.lE.eOTAK2HB2.e.f.nA',
-            object: '_M.u.m.x.gPD.lE.eOTAK2HB2.e.f.nA-content.html',
-            icon: 'icon1845831814'
-        }
-		,
-        {
             title: 'CALC: Register 1-D Curves (scale +shift)',
             id: '_JSD.yIPD.lE.eOTAK2HB2.e.f.nA',
             object: '_JSD.yIPD.lE.eOTAK2HB2.e.f.nA-content.html',
-            icon: 'icon1845831814'
-        }
-		,
-        {
-            title: 'CALC: Sum Multiple 1-D Curves',
-            id: '_IL-T0PD.lE.eOTAK2HB2.e.f.nA',
-            object: '_IL-T0PD.lE.eOTAK2HB2.e.f.nA-content.html',
             icon: 'icon1845831814'
         }
 		,
@@ -2301,13 +2397,6 @@
             title: 'CALC: Automatic sample alignment',
             id: '_27Y.oIP.y.dE.eO.p.e4.kD.d8R3.e.g',
             object: '_27Y.oIP.y.dE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon1845831814'
-        }
-		,
-        {
-            title: 'CALC: Self-absorption correection',
-            id: '_-.g.fYUP.y.dE.eO.p.e4.kD.d8R3.e.g',
-            object: '_-.g.fYUP.y.dE.eO.p.e4.kD.d8R3.e.g-content.html',
             icon: 'icon1845831814'
         }
 		,
@@ -4601,6 +4690,85 @@
             title: 'iXS User',
             id: '_WQ9.z0P.y.yE.eO.p.e4.kD.d8R3.e.g',
             object: '_WQ6.w.gP.y.yE.eO.p.e4.kD.d8R3.e.g-content.html#_WQ9.z0P.y.yE.eO.p.e4.kD.d8R3.e.g',
+            icon: 'icon470099028'
+        }
+		,
+        {
+            title: 'ROI1D',
+            id: '_ZU.d.o.gP1LE.eO.p.e4.kD.d8R3.e.g',
+            object: '_ZU.d.o.gP1LE.eO.p.e4.kD.d8R3.e.g-content.html',
+            icon: 'icon151331783'
+        }
+		,
+        {
+            title: '',
+            id: '_.bUSLMP1LE.eO.p.e4.kD.d8R3.e.g',
+            object: '_.bUSLMP1LE.eO.p.e4.kD.d8R3.e.g-content.html',
+            icon: 'icon33898957'
+        }
+		,
+        {
+            title: 'ROI2DShape',
+            id: '_.dX5.o.wP1LE.eO.p.e4.kD.d8R3.e.g',
+            object: '_.dX5.o.wP1LE.eO.p.e4.kD.d8R3.e.g-content.html',
+            icon: 'icon151331783'
+        }
+		,
+        {
+            title: '',
+            id: '_.h.c.aAAP1LE.eO.p.e4.kD.d8R3.e.g',
+            object: '_.h.c.aAAP1LE.eO.p.e4.kD.d8R3.e.g-content.html',
+            icon: 'icon33898957'
+        }
+		,
+        {
+            title: 'Class1',
+            id: '_.h74KQP1LE.eO.p.e4.kD.d8R3.e.g',
+            object: '_.h74KQP1LE.eO.p.e4.kD.d8R3.e.g-content.html',
+            icon: 'icon151331783'
+        }
+		,
+        {
+            title: 'AbstractMessengerROI',
+            id: '_.w.d.i.c4P1LE.eO.p.e4.kD.d8R3.e.g',
+            object: '_.w.d.i.c4P1LE.eO.p.e4.kD.d8R3.e.g-content.html',
+            icon: 'icon151331783',
+            children: [
+            ]
+        }
+		,
+        {
+            title: 'ROI2DShapeMessenger',
+            id: '__.k.iRMP1LE.eO.p.e4.kD.d8R3.e.g',
+            object: '__.k.iRMP1LE.eO.p.e4.kD.d8R3.e.g-content.html',
+            icon: 'icon151331783',
+            children: [
+            ]
+        }
+		,
+        {
+            title: 'ROI1DShapeMessenger',
+            id: '__.wRAEP1LE.eO.p.e4.kD.d8R3.e.g',
+            object: '__.wRAEP1LE.eO.p.e4.kD.d8R3.e.g-content.html',
+            icon: 'icon151331783',
+            children: [
+            ]
+        }
+		,
+        {
+            title: 'ControlWidgetBucket',
+            id: '_F.t.v1.sP1NE.eO.p.e4.kD.d8R3.e.g',
+            object: '_F.t.v1.sP1NE.eO.p.e4.kD.d8R3.e.g-content.html',
+            icon: 'icon151331783',
+            children: [
+                {_reference: '_.gI7UAP1NE.eO.p.e4.kD.d8R3.e.g' }
+            ]
+        }
+		,
+        {
+            title: '_ctrl_boxes',
+            id: '_.gI7UAP1NE.eO.p.e4.kD.d8R3.e.g',
+            object: '_F.t.v1.sP1NE.eO.p.e4.kD.d8R3.e.g-content.html#_.gI7UAP1NE.eO.p.e4.kD.d8R3.e.g',
             icon: 'icon470099028'
         }
 		
