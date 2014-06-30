@@ -21,7 +21,7 @@
 </table>
 <table>
 <tr class="NavBarBookMarks">
-<td class="BookMarkSections"><span class="BookMarkElements">Summary:</span><span class="BookMarkElements"><a href="#operationSummary" title="Operations">Operations</a></span><span class="BookMarkElements"><a href="#propertiesTable" title="Properties">Properties</a></span></td><td class="BookMarkSections"><span class="BookMarkElements">Detail:</span><span class="BookMarkElements"><a href="#operationDetail" title="Operations">Operations</a></span></td>
+<td class="BookMarkSections"><span class="BookMarkElements">Summary:</span><span class="BookMarkElements"><a href="#attributeSummary" title="Attributes">Attributes</a></span><span class="BookMarkElements"><a href="#operationSummary" title="Operations">Operations</a></span><span class="BookMarkElements"><a href="#propertiesTable" title="Properties">Properties</a></span></td><td class="BookMarkSections"><span class="BookMarkElements">Detail:</span><span class="BookMarkElements"><a href="#attributeDetail" title="Attributes">Attributes</a></span><span class="BookMarkElements"><a href="#operationDetail" title="Operations">Operations</a></span></td>
 </tr>
 </table>
 <hr>
@@ -31,19 +31,85 @@
 <p></p>
 <table class="SummaryTable" border="1">
 <tr>
+<td class="SummaryTitle" colspan="3"><a name="attributeSummary">Attributes</a></td>
+</tr>
+<tr>
+<td class="packagedElementType"></td><td><a title="nsls2_data::vistools::Stack1DView::_default_autoscale" href="#_.l.j.iQ.wP44E.eOEPIT9YI_.o.y.g"><img border="0" src="../images/2063936092_icon.png" alt="_default_autoscale"></a>&nbsp;<a title="nsls2_data::vistools::Stack1DView::_default_autoscale" href="#_.l.j.iQ.wP44E.eOEPIT9YI_.o.y.g">_default_autoscale</a></td><td></td>
+</tr>
+<tr>
+<td class="packagedElementType"></td><td><a title="nsls2_data::vistools::Stack1DView::_default_horz_offset" href="#_.j.kK.aAP44E.eOEPIT9YI_.o.y.g"><img border="0" src="../images/2063936092_icon.png" alt="_default_horz_offset"></a>&nbsp;<a title="nsls2_data::vistools::Stack1DView::_default_horz_offset" href="#_.j.kK.aAP44E.eOEPIT9YI_.o.y.g">_default_horz_offset</a></td><td></td>
+</tr>
+<tr>
+<td class="packagedElementType"></td><td><a title="nsls2_data::vistools::Stack1DView::_default_vert_offset" href="#_.k.w.b_4P44E.eOEPIT9YI_.o.y.g"><img border="0" src="../images/2063936092_icon.png" alt="_default_vert_offset"></a>&nbsp;<a title="nsls2_data::vistools::Stack1DView::_default_vert_offset" href="#_.k.w.b_4P44E.eOEPIT9YI_.o.y.g">_default_vert_offset</a></td><td></td>
+</tr>
+</table>
+<p></p>
+<table class="SummaryTable" border="1">
+<tr>
 <td class="SummaryTitle" colspan="3"><a name="operationSummary">Operations</a></td>
 </tr>
 <tr>
-<td class="packagedElementType"></td><td><a title="nsls2_data::vistools::Stack1DView::__init__" href="#_.r.w.k.k.oPWOE.eO7.k.oQK.zK.fA_.w"><img border="0" src="../images/-1710930910_icon.png" alt="__init__"></a>&nbsp;<a title="nsls2_data::vistools::Stack1DView::__init__" href="#_.r.w.k.k.oPWOE.eO7.k.oQK.zK.fA_.w">__init__</a></td><td></td>
+<td class="packagedElementType"></td><td><a title="nsls2_data::vistools::Stack1DView::__init__" href="#_.r.w.k.k.oPWOE.eO7.k.oQK.zK.fA_.w"><img border="0" src="../images/-838521982_icon.png" alt="__init__"></a>&nbsp;<a title="nsls2_data::vistools::Stack1DView::__init__" href="#_.r.w.k.k.oPWOE.eO7.k.oQK.zK.fA_.w">__init__</a></td><td>
+<p>
+<a name="documentationSection"></a><p>        __init__ docstring</p><p>        Parameters</p><p>        ----------</p><p>        fig : figure to draw the artists on</p><p>        data_dict : OrderedDict</p><p>            dictionary of k:v as name : (x,y)</p><p>        cmap : colormap that matplotlib understands</p><p>        norm : mpl.colors.Normalize</p></p>
+</td>
 </tr>
 <tr>
-<td class="packagedElementType"></td><td><a title="nsls2_data::vistools::Stack1DView::replot" href="#_2F.x.d4PWOE.eO7.k.oQK.zK.fA_.w"><img border="0" src="../images/-1710930910_icon.png" alt="replot"></a>&nbsp;<a title="nsls2_data::vistools::Stack1DView::replot" href="#_2F.x.d4PWOE.eO7.k.oQK.zK.fA_.w">replot</a></td><td></td>
+<td class="packagedElementType"></td><td><a title="nsls2_data::vistools::Stack1DView::find_range" href="#_.uR.w.a.kP43E.eOEPIT9YI_.o.y.g"><img border="0" src="../images/-838521982_icon.png" alt="find_range"></a>&nbsp;<a title="nsls2_data::vistools::Stack1DView::find_range" href="#_.uR.w.a.kP43E.eOEPIT9YI_.o.y.g">find_range</a></td><td>
+<p>
+<a name="documentationSection"></a><p>        Find the min/max in x and y</p><p>        @tacaswell: I'm sure that this is functionality that matplotlib</p><p>            provides but i'm not at all sure how to do it...</p><p>        Returns</p><p>        -------</p><p>        (min_x, max_x, min_y, max_y)</p></p>
+</td>
 </tr>
 <tr>
-<td class="packagedElementType"></td><td><a title="nsls2_data::vistools::Stack1DView::set_horz_offset" href="#_.y_R.nAPWOE.eO7.k.oQK.zK.fA_.w"><img border="0" src="../images/-1710930910_icon.png" alt="set_horz_offset"></a>&nbsp;<a title="nsls2_data::vistools::Stack1DView::set_horz_offset" href="#_.y_R.nAPWOE.eO7.k.oQK.zK.fA_.w">set_horz_offset</a></td><td></td>
+<td class="packagedElementType"></td><td><a title="nsls2_data::vistools::Stack1DView::replot" href="#_.hC.aEYP43E.eOEPIT9YI_.o.y.g"><img border="0" src="../images/-838521982_icon.png" alt="replot"></a>&nbsp;<a title="nsls2_data::vistools::Stack1DView::replot" href="#_.hC.aEYP43E.eOEPIT9YI_.o.y.g">replot</a></td><td>
+<p>
+<a name="documentationSection"></a><p>        @Override</p><p>        Replot the data after modifying a display parameter (e.g.,</p><p>        offset or autoscaling) or adding new data</p></p>
+</td>
 </tr>
 <tr>
-<td class="packagedElementType"></td><td><a title="nsls2_data::vistools::Stack1DView::set_vert_offset" href="#_.s.fN.zUPWOE.eO7.k.oQK.zK.fA_.w"><img border="0" src="../images/-1710930910_icon.png" alt="set_vert_offset"></a>&nbsp;<a title="nsls2_data::vistools::Stack1DView::set_vert_offset" href="#_.s.fN.zUPWOE.eO7.k.oQK.zK.fA_.w">set_vert_offset</a></td><td></td>
+<td class="packagedElementType"></td><td><a title="nsls2_data::vistools::Stack1DView::set_auto_scale" href="#_VP.lW.kP43E.eOEPIT9YI_.o.y.g"><img border="0" src="../images/-838521982_icon.png" alt="set_auto_scale"></a>&nbsp;<a title="nsls2_data::vistools::Stack1DView::set_auto_scale" href="#_VP.lW.kP43E.eOEPIT9YI_.o.y.g">set_auto_scale</a></td><td>
+<p>
+<a name="documentationSection"></a><p>        Enable/disable autoscaling of the axes to show all data</p><p>        Parameters</p><p>        ----------</p><p>        is_autoscaling: bool</p><p>            Automatically rescale the axes to show all the data (true)</p><p>            or stop automatically rescaling the axes (false)</p></p>
+</td>
+</tr>
+<tr>
+<td class="packagedElementType"></td><td><a title="nsls2_data::vistools::Stack1DView::set_horz_offset" href="#_.y_R.nAPWOE.eO7.k.oQK.zK.fA_.w"><img border="0" src="../images/-838521982_icon.png" alt="set_horz_offset"></a>&nbsp;<a title="nsls2_data::vistools::Stack1DView::set_horz_offset" href="#_.y_R.nAPWOE.eO7.k.oQK.zK.fA_.w">set_horz_offset</a></td><td>
+<p>
+<a name="documentationSection"></a><p>        Set the horizontal offset for additional lines that are to be plotted</p><p>        Parameters</p><p>        ----------</p><p>        horz_offset : number</p><p>            The amount of horizontal shift to add to each line in the data</p><p>            stack</p></p>
+</td>
+</tr>
+<tr>
+<td class="packagedElementType"></td><td><a title="nsls2_data::vistools::Stack1DView::set_vert_offset" href="#_.s.fN.zUPWOE.eO7.k.oQK.zK.fA_.w"><img border="0" src="../images/-838521982_icon.png" alt="set_vert_offset"></a>&nbsp;<a title="nsls2_data::vistools::Stack1DView::set_vert_offset" href="#_.s.fN.zUPWOE.eO7.k.oQK.zK.fA_.w">set_vert_offset</a></td><td>
+<p>
+<a name="documentationSection"></a><p>        Set the vertical offset for additional lines that are to be plotted</p><p>        Parameters</p><p>        ----------</p><p>        vert_offset : number</p><p>            The amount of vertical shift to add to each line in the data stack</p></p>
+</td>
+</tr>
+</table>
+<p></p>
+<table class="SummaryTable" border="1">
+<tr>
+<td class="SummaryTitle" colspan="3">Operations inherited from <a title="nsls2_data::vistools::AbstractMPLDataView" href="_S.pT.dMP39E.eOXO7.uNZR.mM.pQ-content.html"><img border="0" src="../images/1644502742_icon.png" alt="nsls2_data::vistools::AbstractMPLDataView"></a>&nbsp;<a title="nsls2_data::vistools::AbstractMPLDataView" href="_S.pT.dMP39E.eOXO7.uNZR.mM.pQ-content.html">nsls2_data::vistools::AbstractMPLDataView</a></td>
+</tr>
+<tr>
+<td><a title="nsls2_data::vistools::AbstractMPLDataView::replot" href="_S.pT.dMP39E.eOXO7.uNZR.mM.pQ-content.html#_2F.x.d4PWOE.eO7.k.oQK.zK.fA_.w"><img border="0" src="../images/-838521982_icon.png" alt="replot"></a>&nbsp;<a title="nsls2_data::vistools::AbstractMPLDataView::replot" href="_S.pT.dMP39E.eOXO7.uNZR.mM.pQ-content.html#_2F.x.d4PWOE.eO7.k.oQK.zK.fA_.w">replot</a>, <a title="nsls2_data::vistools::AbstractMPLDataView::update_cmap" href="_S.pT.dMP39E.eOXO7.uNZR.mM.pQ-content.html#_.wI.t4UPWIE.eO7.k.oQK.zK.fA_.w"><img border="0" src="../images/-838521982_icon.png" alt="update_cmap"></a>&nbsp;<a title="nsls2_data::vistools::AbstractMPLDataView::update_cmap" href="_S.pT.dMP39E.eOXO7.uNZR.mM.pQ-content.html#_.wI.t4UPWIE.eO7.k.oQK.zK.fA_.w">update_cmap</a>, <a title="nsls2_data::vistools::AbstractMPLDataView::update_norm" href="_S.pT.dMP39E.eOXO7.uNZR.mM.pQ-content.html#_83M.mUP39E.eOXO7.uNZR.mM.pQ"><img border="0" src="../images/-838521982_icon.png" alt="update_norm"></a>&nbsp;<a title="nsls2_data::vistools::AbstractMPLDataView::update_norm" href="_S.pT.dMP39E.eOXO7.uNZR.mM.pQ-content.html#_83M.mUP39E.eOXO7.uNZR.mM.pQ">update_norm</a></td>
+</tr>
+</table>
+<p></p>
+<table class="SummaryTable" border="1">
+<tr>
+<td class="SummaryTitle" colspan="3">Operations inherited from <a title="nsls2_data::vistools::AbstractDataView1D" href="_4.lLHQPWIE.eO7.k.oQK.zK.fA_.w-content.html"><img border="0" src="../images/1644502742_icon.png" alt="nsls2_data::vistools::AbstractDataView1D"></a>&nbsp;<a title="nsls2_data::vistools::AbstractDataView1D" href="_4.lLHQPWIE.eO7.k.oQK.zK.fA_.w-content.html">nsls2_data::vistools::AbstractDataView1D</a></td>
+</tr>
+<tr>
+<td><a title="nsls2_data::vistools::AbstractDataView1D::add_data" href="_4.lLHQPWIE.eO7.k.oQK.zK.fA_.w-content.html#_.g.s10IP.u.yE.eO.p.e4.kD.d8R3.e.g"><img border="0" src="../images/-838521982_icon.png" alt="add_data"></a>&nbsp;<a title="nsls2_data::vistools::AbstractDataView1D::add_data" href="_4.lLHQPWIE.eO7.k.oQK.zK.fA_.w-content.html#_.g.s10IP.u.yE.eO.p.e4.kD.d8R3.e.g">add_data</a>, <a title="nsls2_data::vistools::AbstractDataView1D::append_data" href="_4.lLHQPWIE.eO7.k.oQK.zK.fA_.w-content.html#_8.cH.j.oPWIE.eO7.k.oQK.zK.fA_.w"><img border="0" src="../images/-838521982_icon.png" alt="append_data"></a>&nbsp;<a title="nsls2_data::vistools::AbstractDataView1D::append_data" href="_4.lLHQPWIE.eO7.k.oQK.zK.fA_.w-content.html#_8.cH.j.oPWIE.eO7.k.oQK.zK.fA_.w">append_data</a>, <a title="nsls2_data::vistools::AbstractDataView1D::set_data" href="_4.lLHQPWIE.eO7.k.oQK.zK.fA_.w-content.html#__JH.wMP3-E.eOXO7.uNZR.mM.pQ"><img border="0" src="../images/-838521982_icon.png" alt="set_data"></a>&nbsp;<a title="nsls2_data::vistools::AbstractDataView1D::set_data" href="_4.lLHQPWIE.eO7.k.oQK.zK.fA_.w-content.html#__JH.wMP3-E.eOXO7.uNZR.mM.pQ">set_data</a></td>
+</tr>
+</table>
+<p></p>
+<table class="SummaryTable" border="1">
+<tr>
+<td class="SummaryTitle" colspan="3">Operations inherited from <a title="nsls2_data::vistools::AbstractDataView" href="_.t.hG84PWIE.eO7.k.oQK.zK.fA_.w-content.html"><img border="0" src="../images/1644502742_icon.png" alt="nsls2_data::vistools::AbstractDataView"></a>&nbsp;<a title="nsls2_data::vistools::AbstractDataView" href="_.t.hG84PWIE.eO7.k.oQK.zK.fA_.w-content.html">nsls2_data::vistools::AbstractDataView</a></td>
+</tr>
+<tr>
+<td><a title="nsls2_data::vistools::AbstractDataView::clear_data" href="_.t.hG84PWIE.eO7.k.oQK.zK.fA_.w-content.html#_97F3AP.u.yE.eO.p.e4.kD.d8R3.e.g"><img border="0" src="../images/-838521982_icon.png" alt="clear_data"></a>&nbsp;<a title="nsls2_data::vistools::AbstractDataView::clear_data" href="_.t.hG84PWIE.eO7.k.oQK.zK.fA_.w-content.html#_97F3AP.u.yE.eO.p.e4.kD.d8R3.e.g">clear_data</a>, <a title="nsls2_data::vistools::AbstractDataView::remove_data" href="_.t.hG84PWIE.eO7.k.oQK.zK.fA_.w-content.html#_8O9RYPWIE.eO7.k.oQK.zK.fA_.w"><img border="0" src="../images/-838521982_icon.png" alt="remove_data"></a>&nbsp;<a title="nsls2_data::vistools::AbstractDataView::remove_data" href="_.t.hG84PWIE.eO7.k.oQK.zK.fA_.w-content.html#_8O9RYPWIE.eO7.k.oQK.zK.fA_.w">remove_data</a></td>
 </tr>
 </table>
 <br>
@@ -82,14 +148,258 @@
 <p></p>
 <table class="DetailsTable">
 <tr>
+<td class="DetailsTitle" colspan="2"><a name="attributeDetail">Attribute Details</a></td>
+</tr>
+</table>
+<span class="ListItem">
+<br>
+<img src="../images/2063936092_icon.png" alt="">&nbsp;<a name="_.l.j.iQ.wP44E.eOEPIT9YI_.o.y.g">_default_autoscale</a></span>
+<pre>Private&nbsp;_default_autoscale</pre>
+<dl>
+<dd></dd>
+<dt>
+<a name="attributeConstraintsTable_.l.j.iQ.wP44E.eOEPIT9YI_.o.y.g"><b>Constraints:</b></a>
+</dt>
+<dt>
+<b>Properties:</b>
+</dt>
+<dd>
+<br>
+<table class="PropertiesTable" cellpadding="4" cellspacing="0" border="1">
+<tr>
+<td class="PropertyName"><b>Aggregation</b></td><td class="PropertyValue">None</td>
+</tr>
+<tr>
+<td class="PropertyName"><b>Class</b></td><td class="PropertyValue"><a href="_.p.t6JUPWOE.eO7.k.oQK.zK.fA_.w-content.html">Stack1DView</a></td>
+</tr>
+<tr>
+<td class="PropertyName"><b>Default</b></td><td class="PropertyValue">False</td>
+</tr>
+<tr>
+<td class="PropertyName"><b>Default Value</b></td><td class="PropertyValue">(False)</td>
+</tr>
+<tr>
+<td class="PropertyName"><b>Is Composite</b></td><td class="PropertyValue">false</td>
+</tr>
+<tr>
+<td class="PropertyName"><b>Is Derived</b></td><td class="PropertyValue">false</td>
+</tr>
+<tr>
+<td class="PropertyName"><b>Is Derived Union</b></td><td class="PropertyValue">false</td>
+</tr>
+<tr>
+<td class="PropertyName"><b>Is Leaf</b></td><td class="PropertyValue">false</td>
+</tr>
+<tr>
+<td class="PropertyName"><b>Is Ordered</b></td><td class="PropertyValue">false</td>
+</tr>
+<tr>
+<td class="PropertyName"><b>Is Read Only</b></td><td class="PropertyValue">false</td>
+</tr>
+<tr>
+<td class="PropertyName"><b>Is Static</b></td><td class="PropertyValue">false</td>
+</tr>
+<tr>
+<td class="PropertyName"><b>Is Unique</b></td><td class="PropertyValue">true</td>
+</tr>
+<tr>
+<td class="PropertyName"><b>Lower</b></td><td class="PropertyValue">1</td>
+</tr>
+<tr>
+<td class="PropertyName"><b>Multiplicity</b></td><td class="PropertyValue">None (1)</td>
+</tr>
+<tr>
+<td class="PropertyName"><b>Name</b></td><td class="PropertyValue">_default_autoscale</td>
+</tr>
+<tr>
+<td class="PropertyName"><b>Namespace</b></td><td class="PropertyValue"><a href="_.p.t6JUPWOE.eO7.k.oQK.zK.fA_.w-content.html">Stack1DView</a></td>
+</tr>
+<tr>
+<td class="PropertyName"><b>Owner</b></td><td class="PropertyValue"><a href="_.p.t6JUPWOE.eO7.k.oQK.zK.fA_.w-content.html">Stack1DView</a></td>
+</tr>
+<tr>
+<td class="PropertyName"><b>Qualified Name</b></td><td class="PropertyValue">nsls2_data::vistools::Stack1DView::_default_autoscale</td>
+</tr>
+<tr>
+<td class="PropertyName"><b>Upper</b></td><td class="PropertyValue">1</td>
+</tr>
+<tr>
+<td class="PropertyName"><b>Visibility</b></td><td class="PropertyValue">Private</td>
+</tr>
+</table>
+</dd>
+</dl>
+<hr>
+<span class="ListItem">
+<br>
+<img src="../images/2063936092_icon.png" alt="">&nbsp;<a name="_.j.kK.aAP44E.eOEPIT9YI_.o.y.g">_default_horz_offset</a></span>
+<pre>Private&nbsp;_default_horz_offset</pre>
+<dl>
+<dd></dd>
+<dt>
+<a name="attributeConstraintsTable_.j.kK.aAP44E.eOEPIT9YI_.o.y.g"><b>Constraints:</b></a>
+</dt>
+<dt>
+<b>Properties:</b>
+</dt>
+<dd>
+<br>
+<table class="PropertiesTable" cellpadding="4" cellspacing="0" border="1">
+<tr>
+<td class="PropertyName"><b>Aggregation</b></td><td class="PropertyValue">None</td>
+</tr>
+<tr>
+<td class="PropertyName"><b>Class</b></td><td class="PropertyValue"><a href="_.p.t6JUPWOE.eO7.k.oQK.zK.fA_.w-content.html">Stack1DView</a></td>
+</tr>
+<tr>
+<td class="PropertyName"><b>Default</b></td><td class="PropertyValue">0</td>
+</tr>
+<tr>
+<td class="PropertyName"><b>Default Value</b></td><td class="PropertyValue">(0)</td>
+</tr>
+<tr>
+<td class="PropertyName"><b>Is Composite</b></td><td class="PropertyValue">false</td>
+</tr>
+<tr>
+<td class="PropertyName"><b>Is Derived</b></td><td class="PropertyValue">false</td>
+</tr>
+<tr>
+<td class="PropertyName"><b>Is Derived Union</b></td><td class="PropertyValue">false</td>
+</tr>
+<tr>
+<td class="PropertyName"><b>Is Leaf</b></td><td class="PropertyValue">false</td>
+</tr>
+<tr>
+<td class="PropertyName"><b>Is Ordered</b></td><td class="PropertyValue">false</td>
+</tr>
+<tr>
+<td class="PropertyName"><b>Is Read Only</b></td><td class="PropertyValue">false</td>
+</tr>
+<tr>
+<td class="PropertyName"><b>Is Static</b></td><td class="PropertyValue">false</td>
+</tr>
+<tr>
+<td class="PropertyName"><b>Is Unique</b></td><td class="PropertyValue">true</td>
+</tr>
+<tr>
+<td class="PropertyName"><b>Lower</b></td><td class="PropertyValue">1</td>
+</tr>
+<tr>
+<td class="PropertyName"><b>Multiplicity</b></td><td class="PropertyValue">None (1)</td>
+</tr>
+<tr>
+<td class="PropertyName"><b>Name</b></td><td class="PropertyValue">_default_horz_offset</td>
+</tr>
+<tr>
+<td class="PropertyName"><b>Namespace</b></td><td class="PropertyValue"><a href="_.p.t6JUPWOE.eO7.k.oQK.zK.fA_.w-content.html">Stack1DView</a></td>
+</tr>
+<tr>
+<td class="PropertyName"><b>Owner</b></td><td class="PropertyValue"><a href="_.p.t6JUPWOE.eO7.k.oQK.zK.fA_.w-content.html">Stack1DView</a></td>
+</tr>
+<tr>
+<td class="PropertyName"><b>Qualified Name</b></td><td class="PropertyValue">nsls2_data::vistools::Stack1DView::_default_horz_offset</td>
+</tr>
+<tr>
+<td class="PropertyName"><b>Upper</b></td><td class="PropertyValue">1</td>
+</tr>
+<tr>
+<td class="PropertyName"><b>Visibility</b></td><td class="PropertyValue">Private</td>
+</tr>
+</table>
+</dd>
+</dl>
+<hr>
+<span class="ListItem">
+<br>
+<img src="../images/2063936092_icon.png" alt="">&nbsp;<a name="_.k.w.b_4P44E.eOEPIT9YI_.o.y.g">_default_vert_offset</a></span>
+<pre>Private&nbsp;_default_vert_offset</pre>
+<dl>
+<dd></dd>
+<dt>
+<a name="attributeConstraintsTable_.k.w.b_4P44E.eOEPIT9YI_.o.y.g"><b>Constraints:</b></a>
+</dt>
+<dt>
+<b>Properties:</b>
+</dt>
+<dd>
+<br>
+<table class="PropertiesTable" cellpadding="4" cellspacing="0" border="1">
+<tr>
+<td class="PropertyName"><b>Aggregation</b></td><td class="PropertyValue">None</td>
+</tr>
+<tr>
+<td class="PropertyName"><b>Class</b></td><td class="PropertyValue"><a href="_.p.t6JUPWOE.eO7.k.oQK.zK.fA_.w-content.html">Stack1DView</a></td>
+</tr>
+<tr>
+<td class="PropertyName"><b>Default</b></td><td class="PropertyValue">0</td>
+</tr>
+<tr>
+<td class="PropertyName"><b>Default Value</b></td><td class="PropertyValue">(0)</td>
+</tr>
+<tr>
+<td class="PropertyName"><b>Is Composite</b></td><td class="PropertyValue">false</td>
+</tr>
+<tr>
+<td class="PropertyName"><b>Is Derived</b></td><td class="PropertyValue">false</td>
+</tr>
+<tr>
+<td class="PropertyName"><b>Is Derived Union</b></td><td class="PropertyValue">false</td>
+</tr>
+<tr>
+<td class="PropertyName"><b>Is Leaf</b></td><td class="PropertyValue">false</td>
+</tr>
+<tr>
+<td class="PropertyName"><b>Is Ordered</b></td><td class="PropertyValue">false</td>
+</tr>
+<tr>
+<td class="PropertyName"><b>Is Read Only</b></td><td class="PropertyValue">false</td>
+</tr>
+<tr>
+<td class="PropertyName"><b>Is Static</b></td><td class="PropertyValue">false</td>
+</tr>
+<tr>
+<td class="PropertyName"><b>Is Unique</b></td><td class="PropertyValue">true</td>
+</tr>
+<tr>
+<td class="PropertyName"><b>Lower</b></td><td class="PropertyValue">1</td>
+</tr>
+<tr>
+<td class="PropertyName"><b>Multiplicity</b></td><td class="PropertyValue">None (1)</td>
+</tr>
+<tr>
+<td class="PropertyName"><b>Name</b></td><td class="PropertyValue">_default_vert_offset</td>
+</tr>
+<tr>
+<td class="PropertyName"><b>Namespace</b></td><td class="PropertyValue"><a href="_.p.t6JUPWOE.eO7.k.oQK.zK.fA_.w-content.html">Stack1DView</a></td>
+</tr>
+<tr>
+<td class="PropertyName"><b>Owner</b></td><td class="PropertyValue"><a href="_.p.t6JUPWOE.eO7.k.oQK.zK.fA_.w-content.html">Stack1DView</a></td>
+</tr>
+<tr>
+<td class="PropertyName"><b>Qualified Name</b></td><td class="PropertyValue">nsls2_data::vistools::Stack1DView::_default_vert_offset</td>
+</tr>
+<tr>
+<td class="PropertyName"><b>Upper</b></td><td class="PropertyValue">1</td>
+</tr>
+<tr>
+<td class="PropertyName"><b>Visibility</b></td><td class="PropertyValue">Private</td>
+</tr>
+</table>
+</dd>
+</dl>
+<p></p>
+<table class="DetailsTable">
+<tr>
 <td class="DetailsTitle" colspan="2"><a name="operationDetail">Operation Details</a></td>
 </tr>
 </table>
 <br>
-<span class="ListItem"><img src="../images/-1710930910_icon.png" alt="">&nbsp;<a name="_.r.w.k.k.oPWOE.eO7.k.oQK.zK.fA_.w">__init__</a></span>
-<pre>Public&nbsp;__init__(Figure, List, List, List )</pre>
+<span class="ListItem"><img src="../images/-838521982_icon.png" alt="">&nbsp;<a name="_.r.w.k.k.oPWOE.eO7.k.oQK.zK.fA_.w">__init__</a></span>
+<pre>Public&nbsp;__init__(Dict, Tuple, OrderedDict, Figure, )</pre>
 <dl>
 <dd></dd>
+<p>
+<a name="documentationSection"></a><p>        __init__ docstring</p><p>        Parameters</p><p>        ----------</p><p>        fig : figure to draw the artists on</p><p>        data_dict : OrderedDict</p><p>            dictionary of k:v as name : (x,y)</p><p>        cmap : colormap that matplotlib understands</p><p>        norm : mpl.colors.Normalize</p></p>
 <dt>
 <b>Parameters:</b>
 </dt>
@@ -97,22 +407,22 @@
 <table>
 <tbody>
 <tr valign="top">
+<td>Dict </td><td>**kwargs</td><td> [None (1)]</td><td></td>
+</tr>
+<tr valign="top">
+<td>Tuple </td><td>*args</td><td> [None (1)]</td><td></td>
+</tr>
+<tr valign="top">
 <td></td><td>cmap</td><td> [None (1)]</td><td></td>
+</tr>
+<tr valign="top">
+<td>OrderedDict </td><td>data_dict</td><td> [None (1)]</td><td></td>
 </tr>
 <tr valign="top">
 <td>Figure </td><td>fig</td><td> [None (1)]</td><td></td>
 </tr>
 <tr valign="top">
-<td>List </td><td>label_datasets</td><td> [None (1)]</td><td></td>
-</tr>
-<tr valign="top">
 <td></td><td>norm</td><td> [None (1)]</td><td></td>
-</tr>
-<tr valign="top">
-<td>List </td><td>x_datasets</td><td> [None (1)]</td><td></td>
-</tr>
-<tr valign="top">
-<td>List </td><td>y_datasets</td><td> [None (1)]</td><td></td>
 </tr>
 </tbody>
 </table>
@@ -189,10 +499,12 @@
 </dl>
 <hr>
 <br>
-<span class="ListItem"><img src="../images/-1710930910_icon.png" alt="">&nbsp;<a name="_2F.x.d4PWOE.eO7.k.oQK.zK.fA_.w">replot</a></span>
-<pre>Public&nbsp;replot()</pre>
+<span class="ListItem"><img src="../images/-838521982_icon.png" alt="">&nbsp;<a name="_.uR.w.a.kP43E.eOEPIT9YI_.o.y.g">find_range</a></span>
+<pre>Public&nbsp;find_range()</pre>
 <dl>
 <dd></dd>
+<p>
+<a name="documentationSection"></a><p>        Find the min/max in x and y</p><p>        @tacaswell: I'm sure that this is functionality that matplotlib</p><p>            provides but i'm not at all sure how to do it...</p><p>        Returns</p><p>        -------</p><p>        (min_x, max_x, min_y, max_y)</p></p>
 <dt>
 <b>Parameters:</b>
 </dt>
@@ -212,7 +524,93 @@
 </dd>
 </dd>
 <dt>
-<a name="operationConstraintsTable_2F.x.d4PWOE.eO7.k.oQK.zK.fA_.w"><b>Constraints:</b></a>
+<a name="operationConstraintsTable_.uR.w.a.kP43E.eOEPIT9YI_.o.y.g"><b>Constraints:</b></a>
+</dt>
+<dt>
+<b>Raised Exceptions:</b>
+</dt>
+<dt>
+<b>Properties:</b>
+</dt>
+<dd>
+<br>
+<table class="PropertiesTable" cellpadding="4" cellspacing="0" border="1">
+<tr>
+<td class="PropertyName"><b>Class</b></td><td class="PropertyValue"><a href="_.p.t6JUPWOE.eO7.k.oQK.zK.fA_.w-content.html">Stack1DView</a></td>
+</tr>
+<tr>
+<td class="PropertyName"><b>Concurrency</b></td><td class="PropertyValue">Sequential</td>
+</tr>
+<tr>
+<td class="PropertyName"><b>Is Abstract</b></td><td class="PropertyValue">false</td>
+</tr>
+<tr>
+<td class="PropertyName"><b>Is Leaf</b></td><td class="PropertyValue">false</td>
+</tr>
+<tr>
+<td class="PropertyName"><b>Is Ordered</b></td><td class="PropertyValue">false</td>
+</tr>
+<tr>
+<td class="PropertyName"><b>Is Query</b></td><td class="PropertyValue">false</td>
+</tr>
+<tr>
+<td class="PropertyName"><b>Is Static</b></td><td class="PropertyValue">false</td>
+</tr>
+<tr>
+<td class="PropertyName"><b>Is Unique</b></td><td class="PropertyValue">true</td>
+</tr>
+<tr>
+<td class="PropertyName"><b>Lower</b></td><td class="PropertyValue">1</td>
+</tr>
+<tr>
+<td class="PropertyName"><b>Name</b></td><td class="PropertyValue">find_range</td>
+</tr>
+<tr>
+<td class="PropertyName"><b>Namespace</b></td><td class="PropertyValue"><a href="_.p.t6JUPWOE.eO7.k.oQK.zK.fA_.w-content.html">Stack1DView</a></td>
+</tr>
+<tr>
+<td class="PropertyName"><b>Owner</b></td><td class="PropertyValue"><a href="_.p.t6JUPWOE.eO7.k.oQK.zK.fA_.w-content.html">Stack1DView</a></td>
+</tr>
+<tr>
+<td class="PropertyName"><b>Qualified Name</b></td><td class="PropertyValue">nsls2_data::vistools::Stack1DView::find_range</td>
+</tr>
+<tr>
+<td class="PropertyName"><b>Upper</b></td><td class="PropertyValue">1</td>
+</tr>
+<tr>
+<td class="PropertyName"><b>Visibility</b></td><td class="PropertyValue">Public</td>
+</tr>
+</table>
+</dd>
+</dl>
+<hr>
+<br>
+<span class="ListItem"><img src="../images/-838521982_icon.png" alt="">&nbsp;<a name="_.hC.aEYP43E.eOEPIT9YI_.o.y.g">replot</a></span>
+<pre>Public&nbsp;replot()</pre>
+<dl>
+<dd></dd>
+<p>
+<a name="documentationSection"></a><p>        @Override</p><p>        Replot the data after modifying a display parameter (e.g.,</p><p>        offset or autoscaling) or adding new data</p></p>
+<dt>
+<b>Parameters:</b>
+</dt>
+<dd>
+<table>
+<tbody></tbody>
+</table>
+</dd>
+<dt>
+<b>Returns:</b>
+</dt>
+<dd>
+<dd>
+<table>
+<tbody></tbody>
+</table>
+</dd>
+</dd>
+<dt>
+<a name="operationConstraintsTable_.hC.aEYP43E.eOEPIT9YI_.o.y.g"><b>Constraints:</b></a>
 </dt>
 <dt>
 <b>Raised Exceptions:</b>
@@ -273,10 +671,12 @@
 </dl>
 <hr>
 <br>
-<span class="ListItem"><img src="../images/-1710930910_icon.png" alt="">&nbsp;<a name="_.y_R.nAPWOE.eO7.k.oQK.zK.fA_.w">set_horz_offset</a></span>
-<pre>Public&nbsp;set_horz_offset()</pre>
+<span class="ListItem"><img src="../images/-838521982_icon.png" alt="">&nbsp;<a name="_VP.lW.kP43E.eOEPIT9YI_.o.y.g">set_auto_scale</a></span>
+<pre>Public&nbsp;set_auto_scale(Boolean )</pre>
 <dl>
 <dd></dd>
+<p>
+<a name="documentationSection"></a><p>        Enable/disable autoscaling of the axes to show all data</p><p>        Parameters</p><p>        ----------</p><p>        is_autoscaling: bool</p><p>            Automatically rescale the axes to show all the data (true)</p><p>            or stop automatically rescaling the axes (false)</p></p>
 <dt>
 <b>Parameters:</b>
 </dt>
@@ -284,7 +684,97 @@
 <table>
 <tbody>
 <tr valign="top">
-<td></td><td>horz_offset</td><td> [None (1)]</td><td></td>
+<td>Boolean </td><td>is_autoscaling</td><td> [None (1)]</td><td></td>
+</tr>
+</tbody>
+</table>
+</dd>
+<dt>
+<b>Returns:</b>
+</dt>
+<dd>
+<dd>
+<table>
+<tbody></tbody>
+</table>
+</dd>
+</dd>
+<dt>
+<a name="operationConstraintsTable_VP.lW.kP43E.eOEPIT9YI_.o.y.g"><b>Constraints:</b></a>
+</dt>
+<dt>
+<b>Raised Exceptions:</b>
+</dt>
+<dt>
+<b>Properties:</b>
+</dt>
+<dd>
+<br>
+<table class="PropertiesTable" cellpadding="4" cellspacing="0" border="1">
+<tr>
+<td class="PropertyName"><b>Class</b></td><td class="PropertyValue"><a href="_.p.t6JUPWOE.eO7.k.oQK.zK.fA_.w-content.html">Stack1DView</a></td>
+</tr>
+<tr>
+<td class="PropertyName"><b>Concurrency</b></td><td class="PropertyValue">Sequential</td>
+</tr>
+<tr>
+<td class="PropertyName"><b>Is Abstract</b></td><td class="PropertyValue">false</td>
+</tr>
+<tr>
+<td class="PropertyName"><b>Is Leaf</b></td><td class="PropertyValue">false</td>
+</tr>
+<tr>
+<td class="PropertyName"><b>Is Ordered</b></td><td class="PropertyValue">false</td>
+</tr>
+<tr>
+<td class="PropertyName"><b>Is Query</b></td><td class="PropertyValue">false</td>
+</tr>
+<tr>
+<td class="PropertyName"><b>Is Static</b></td><td class="PropertyValue">false</td>
+</tr>
+<tr>
+<td class="PropertyName"><b>Is Unique</b></td><td class="PropertyValue">true</td>
+</tr>
+<tr>
+<td class="PropertyName"><b>Lower</b></td><td class="PropertyValue">1</td>
+</tr>
+<tr>
+<td class="PropertyName"><b>Name</b></td><td class="PropertyValue">set_auto_scale</td>
+</tr>
+<tr>
+<td class="PropertyName"><b>Namespace</b></td><td class="PropertyValue"><a href="_.p.t6JUPWOE.eO7.k.oQK.zK.fA_.w-content.html">Stack1DView</a></td>
+</tr>
+<tr>
+<td class="PropertyName"><b>Owner</b></td><td class="PropertyValue"><a href="_.p.t6JUPWOE.eO7.k.oQK.zK.fA_.w-content.html">Stack1DView</a></td>
+</tr>
+<tr>
+<td class="PropertyName"><b>Qualified Name</b></td><td class="PropertyValue">nsls2_data::vistools::Stack1DView::set_auto_scale</td>
+</tr>
+<tr>
+<td class="PropertyName"><b>Upper</b></td><td class="PropertyValue">1</td>
+</tr>
+<tr>
+<td class="PropertyName"><b>Visibility</b></td><td class="PropertyValue">Public</td>
+</tr>
+</table>
+</dd>
+</dl>
+<hr>
+<br>
+<span class="ListItem"><img src="../images/-838521982_icon.png" alt="">&nbsp;<a name="_.y_R.nAPWOE.eO7.k.oQK.zK.fA_.w">set_horz_offset</a></span>
+<pre>Public&nbsp;set_horz_offset(float )</pre>
+<dl>
+<dd></dd>
+<p>
+<a name="documentationSection"></a><p>        Set the horizontal offset for additional lines that are to be plotted</p><p>        Parameters</p><p>        ----------</p><p>        horz_offset : number</p><p>            The amount of horizontal shift to add to each line in the data</p><p>            stack</p></p>
+<dt>
+<b>Parameters:</b>
+</dt>
+<dd>
+<table>
+<tbody>
+<tr valign="top">
+<td>float </td><td>horz_offset</td><td> [None (1)]</td><td></td>
 </tr>
 </tbody>
 </table>
@@ -361,10 +851,12 @@
 </dl>
 <hr>
 <br>
-<span class="ListItem"><img src="../images/-1710930910_icon.png" alt="">&nbsp;<a name="_.s.fN.zUPWOE.eO7.k.oQK.zK.fA_.w">set_vert_offset</a></span>
-<pre>Public&nbsp;set_vert_offset()</pre>
+<span class="ListItem"><img src="../images/-838521982_icon.png" alt="">&nbsp;<a name="_.s.fN.zUPWOE.eO7.k.oQK.zK.fA_.w">set_vert_offset</a></span>
+<pre>Public&nbsp;set_vert_offset(float )</pre>
 <dl>
 <dd></dd>
+<p>
+<a name="documentationSection"></a><p>        Set the vertical offset for additional lines that are to be plotted</p><p>        Parameters</p><p>        ----------</p><p>        vert_offset : number</p><p>            The amount of vertical shift to add to each line in the data stack</p></p>
 <dt>
 <b>Parameters:</b>
 </dt>
@@ -372,7 +864,7 @@
 <table>
 <tbody>
 <tr valign="top">
-<td></td><td>vert_offset</td><td> [None (1)]</td><td></td>
+<td>float </td><td>vert_offset</td><td> [None (1)]</td><td></td>
 </tr>
 </tbody>
 </table>
@@ -462,7 +954,7 @@
 </table>
 <table>
 <tr class="NavBarBookMarks">
-<td class="BookMarkSections"><span class="BookMarkElements">Summary:</span><span class="BookMarkElements"><a href="#operationSummary" title="Operations">Operations</a></span><span class="BookMarkElements"><a href="#propertiesTable" title="Properties">Properties</a></span></td><td class="BookMarkSections"><span class="BookMarkElements">Detail:</span><span class="BookMarkElements"><a href="#operationDetail" title="Operations">Operations</a></span></td>
+<td class="BookMarkSections"><span class="BookMarkElements">Summary:</span><span class="BookMarkElements"><a href="#attributeSummary" title="Attributes">Attributes</a></span><span class="BookMarkElements"><a href="#operationSummary" title="Operations">Operations</a></span><span class="BookMarkElements"><a href="#propertiesTable" title="Properties">Properties</a></span></td><td class="BookMarkSections"><span class="BookMarkElements">Detail:</span><span class="BookMarkElements"><a href="#attributeDetail" title="Attributes">Attributes</a></span><span class="BookMarkElements"><a href="#operationDetail" title="Operations">Operations</a></span></td>
 </tr>
 </table>
 </body>

@@ -7,17 +7,18 @@
             title: 'Diagrams',
             top: true,
             id: '_DIAGRAMS_ROOT_NODE_',
-            icon: 'icon-1778051182',
+            icon: 'icon470100944',
             children: [
-                {_reference: '_.l.z.vJY.f.u.aE.eO.p.e4.kD.d8R3.e.g' },
-                {_reference: '_.gIPD.o.f.y.hE.eO.p.e4.kD.d8R3.e.g' },
-                {_reference: '_V8.v.bI.eL.mE.eO3.zNO.u.s.dT.lYA' },
-                {_reference: '____.nE.fF3E.eO.a.b9.bVA.s1L.tQ' },
                 {_reference: '_QE.c.yEOL.mE.eO3.zNO.u.s.dT.lYA' },
-                {_reference: '_.fN.r.yI.fF4E.eO.a.b9.bVA.s1L.tQ' },
+                {_reference: '_7QA.p4.fF3E.eO.a.b9.bVA.s1L.tQ' },
+                {_reference: '____.nE.fF3E.eO.a.b9.bVA.s1L.tQ' },
                 {_reference: '_.p7.p.yQ.f.u.gE.eO.p.e4.kD.d8R3.e.g' },
+                {_reference: '_53.wC.k.v.u.gE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_BP.q.fM.fF4E.eO.a.b9.bVA.s1L.tQ' },
+                {_reference: '_.gIPD.o.f.y.hE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_.y.h.x_E.f.y.nE.eO.p.e4.kD.d8R3.e.g' },
+                {_reference: '_.fN.r.yI.fF4E.eO.a.b9.bVA.s1L.tQ' },
+                {_reference: '_.l.z.vJY.f.u.aE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '__.x0SUPD.hE.eOTAK2HB2.e.f.nA' },
                 {_reference: '_5H6UMPD.jE.eOTAK2HB2.e.f.nA' },
                 {_reference: '_C.tSTAPD.kE.eOTAK2HB2.e.f.nA' },
@@ -29,169 +30,168 @@
                 {_reference: '_8R-3YP.y.zE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_VI-X8P0.pE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_.a_M.k.cP0.pE.eO.p.e4.kD.d8R3.e.g' },
-                {_reference: '_53.wC.k.v.u.gE.eO.p.e4.kD.d8R3.e.g' },
-                {_reference: '_7QA.p4.fF3E.eO.a.b9.bVA.s1L.tQ' }
+                {_reference: '_V8.v.bI.eL.mE.eO3.zNO.u.s.dT.lYA' }
             ]
         },
-        {
-            title: 'nsls2_data::io::Main',
-            id: '_.l.z.vJY.f.u.aE.eO.p.e4.kD.d8R3.e.g',
-            object: '_.l.z.vJY.f.u.aE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon33893144'
-        },
-	
-        {
-            title: 'nsls2_data::hooks::Main',
-            id: '_.gIPD.o.f.y.hE.eO.p.e4.kD.d8R3.e.g',
-            object: '_.gIPD.o.f.y.hE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon33893144'
-        },
-	
-        {
-            title: 'nsls2_data::NSLS2_Personnel::DevTeam::Postdocs::Main',
-            id: '_V8.v.bI.eL.mE.eO3.zNO.u.s.dT.lYA',
-            object: '_V8.v.bI.eL.mE.eO3.zNO.u.s.dT.lYA-content.html',
-            icon: 'icon33893144'
-        },
-	
-        {
-            title: 'nsls2_data::NSLS2_Personnel::DevTeam::Graduate Students::Main',
-            id: '____.nE.fF3E.eO.a.b9.bVA.s1L.tQ',
-            object: '____.nE.fF3E.eO.a.b9.bVA.s1L.tQ-content.html',
-            icon: 'icon33893144'
-        },
-	
         {
             title: 'nsls2_data::nsls2_core::Main',
             id: '_QE.c.yEOL.mE.eO3.zNO.u.s.dT.lYA',
             object: '_QE.c.yEOL.mE.eO3.zNO.u.s.dT.lYA-content.html',
-            icon: 'icon33893144'
-        },
-	
-        {
-            title: 'nsls2_data::NSLS2_Personnel::Main',
-            id: '_.fN.r.yI.fF4E.eO.a.b9.bVA.s1L.tQ',
-            object: '_.fN.r.yI.fF4E.eO.a.b9.bVA.s1L.tQ-content.html',
-            icon: 'icon33893144'
-        },
-	
-        {
-            title: 'nsls2_data::calib::Main',
-            id: '_.p7.p.yQ.f.u.gE.eO.p.e4.kD.d8R3.e.g',
-            object: '_.p7.p.yQ.f.u.gE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon33893144'
-        },
-	
-        {
-            title: 'nsls2_data::NSLS2_Personnel::DevTeam::Summer Students::Main',
-            id: '_BP.q.fM.fF4E.eO.a.b9.bVA.s1L.tQ',
-            object: '_BP.q.fM.fF4E.eO.a.b9.bVA.s1L.tQ-content.html',
-            icon: 'icon33893144'
-        },
-	
-        {
-            title: 'nsls2_data::kitchen_sink::Main',
-            id: '_.y.h.x_E.f.y.nE.eO.p.e4.kD.d8R3.e.g',
-            object: '_.y.h.x_E.f.y.nE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon33893144'
-        },
-	
-        {
-            title: 'nsls2_data::SRX Use Cases',
-            id: '__.x0SUPD.hE.eOTAK2HB2.e.f.nA',
-            object: '__.x0SUPD.hE.eOTAK2HB2.e.f.nA-content.html',
-            icon: 'icon-66775976'
-        },
-	
-        {
-            title: 'nsls2_data::Coherent Scattering Use Cases',
-            id: '_5H6UMPD.jE.eOTAK2HB2.e.f.nA',
-            object: '_5H6UMPD.jE.eOTAK2HB2.e.f.nA-content.html',
-            icon: 'icon-66775976'
-        },
-	
-        {
-            title: 'nsls2_data::HXN Use Cases',
-            id: '_C.tSTAPD.kE.eOTAK2HB2.e.f.nA',
-            object: '_C.tSTAPD.kE.eOTAK2HB2.e.f.nA-content.html',
-            icon: 'icon-66775976'
-        },
-	
-        {
-            title: 'nsls2_data::IXS Use Cases',
-            id: '_.u-RVQPD.kE.eOTAK2HB2.e.f.nA',
-            object: '_.u-RVQPD.kE.eOTAK2HB2.e.f.nA-content.html',
-            icon: 'icon-66775976'
-        },
-	
-        {
-            title: 'nsls2_data::XPD Use Cases -- October',
-            id: '_Y.w.uDEPD.mE.eOTAK2HB2.e.f.nA',
-            object: '_Y.w.uDEPD.mE.eOTAK2HB2.e.f.nA-content.html',
-            icon: 'icon-66775976'
-        },
-	
-        {
-            title: 'nsls2_data::All Beamlines Use Cases',
-            id: '_WL.d.b.kPD.nE.eOTAK2HB2.e.f.nA',
-            object: '_WL.d.b.kPD.nE.eOTAK2HB2.e.f.nA-content.html',
-            icon: 'icon-66775976'
-        },
-	
-        {
-            title: 'nsls2_data::NSLS2Widgets',
-            id: '_D.h.kH0OK7E.eOSLN.c.eY.vOJ.mA',
-            object: '_D.h.kH0OK7E.eOSLN.c.eY.vOJ.mA-content.html',
-            icon: 'icon-133880175'
-        },
-	
-        {
-            title: 'nsls2_data::External Interactions',
-            id: '_2.xHVUPF6E.eO.a.b9.bVA.s1L.tQ',
-            object: '_2.xHVUPF6E.eO.a.b9.bVA.s1L.tQ-content.html',
-            icon: 'icon-66775976'
-        },
-	
-        {
-            title: 'nsls2_data::All Use Cases',
-            id: '_8R-3YP.y.zE.eO.p.e4.kD.d8R3.e.g',
-            object: '_8R-3YP.y.zE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon-66775976'
-        },
-	
-        {
-            title: 'nsls2_data::Core Use Cases',
-            id: '_VI-X8P0.pE.eO.p.e4.kD.d8R3.e.g',
-            object: '_VI-X8P0.pE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon-66775976'
-        },
-	
-        {
-            title: 'nsls2_data::vistools Use Cases',
-            id: '_.a_M.k.cP0.pE.eO.p.e4.kD.d8R3.e.g',
-            object: '_.a_M.k.cP0.pE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon-66775976'
-        },
-	
-        {
-            title: 'nsls2_data::DataBrokerAPI::Main',
-            id: '_53.wC.k.v.u.gE.eO.p.e4.kD.d8R3.e.g',
-            object: '_53.wC.k.v.u.gE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon33893144'
+            icon: 'icon-1157288756'
         },
 	
         {
             title: 'nsls2_data::NSLS2_Personnel::DevTeam::Main',
             id: '_7QA.p4.fF3E.eO.a.b9.bVA.s1L.tQ',
             object: '_7QA.p4.fF3E.eO.a.b9.bVA.s1L.tQ-content.html',
-            icon: 'icon33893144'
+            icon: 'icon-1157288756'
+        },
+	
+        {
+            title: 'nsls2_data::NSLS2_Personnel::DevTeam::Graduate Students::Main',
+            id: '____.nE.fF3E.eO.a.b9.bVA.s1L.tQ',
+            object: '____.nE.fF3E.eO.a.b9.bVA.s1L.tQ-content.html',
+            icon: 'icon-1157288756'
+        },
+	
+        {
+            title: 'nsls2_data::calib::Main',
+            id: '_.p7.p.yQ.f.u.gE.eO.p.e4.kD.d8R3.e.g',
+            object: '_.p7.p.yQ.f.u.gE.eO.p.e4.kD.d8R3.e.g-content.html',
+            icon: 'icon-1157288756'
+        },
+	
+        {
+            title: 'nsls2_data::DataBrokerAPI::Main',
+            id: '_53.wC.k.v.u.gE.eO.p.e4.kD.d8R3.e.g',
+            object: '_53.wC.k.v.u.gE.eO.p.e4.kD.d8R3.e.g-content.html',
+            icon: 'icon-1157288756'
+        },
+	
+        {
+            title: 'nsls2_data::NSLS2_Personnel::DevTeam::Summer Students::Main',
+            id: '_BP.q.fM.fF4E.eO.a.b9.bVA.s1L.tQ',
+            object: '_BP.q.fM.fF4E.eO.a.b9.bVA.s1L.tQ-content.html',
+            icon: 'icon-1157288756'
+        },
+	
+        {
+            title: 'nsls2_data::hooks::Main',
+            id: '_.gIPD.o.f.y.hE.eO.p.e4.kD.d8R3.e.g',
+            object: '_.gIPD.o.f.y.hE.eO.p.e4.kD.d8R3.e.g-content.html',
+            icon: 'icon-1157288756'
+        },
+	
+        {
+            title: 'nsls2_data::kitchen_sink::Main',
+            id: '_.y.h.x_E.f.y.nE.eO.p.e4.kD.d8R3.e.g',
+            object: '_.y.h.x_E.f.y.nE.eO.p.e4.kD.d8R3.e.g-content.html',
+            icon: 'icon-1157288756'
+        },
+	
+        {
+            title: 'nsls2_data::NSLS2_Personnel::Main',
+            id: '_.fN.r.yI.fF4E.eO.a.b9.bVA.s1L.tQ',
+            object: '_.fN.r.yI.fF4E.eO.a.b9.bVA.s1L.tQ-content.html',
+            icon: 'icon-1157288756'
+        },
+	
+        {
+            title: 'nsls2_data::io::Main',
+            id: '_.l.z.vJY.f.u.aE.eO.p.e4.kD.d8R3.e.g',
+            object: '_.l.z.vJY.f.u.aE.eO.p.e4.kD.d8R3.e.g-content.html',
+            icon: 'icon-1157288756'
+        },
+	
+        {
+            title: 'nsls2_data::SRX Use Cases',
+            id: '__.x0SUPD.hE.eOTAK2HB2.e.f.nA',
+            object: '__.x0SUPD.hE.eOTAK2HB2.e.f.nA-content.html',
+            icon: 'icon-1794821791'
+        },
+	
+        {
+            title: 'nsls2_data::rs',
+            id: '_5H6UMPD.jE.eOTAK2HB2.e.f.nA',
+            object: '_5H6UMPD.jE.eOTAK2HB2.e.f.nA-content.html',
+            icon: 'icon-1794821791'
+        },
+	
+        {
+            title: 'nsls2_data::HXN Use Cases',
+            id: '_C.tSTAPD.kE.eOTAK2HB2.e.f.nA',
+            object: '_C.tSTAPD.kE.eOTAK2HB2.e.f.nA-content.html',
+            icon: 'icon-1794821791'
+        },
+	
+        {
+            title: 'nsls2_data::IXS Use Cases',
+            id: '_.u-RVQPD.kE.eOTAK2HB2.e.f.nA',
+            object: '_.u-RVQPD.kE.eOTAK2HB2.e.f.nA-content.html',
+            icon: 'icon-1794821791'
+        },
+	
+        {
+            title: 'nsls2_data::XPD Use Cases -- October',
+            id: '_Y.w.uDEPD.mE.eOTAK2HB2.e.f.nA',
+            object: '_Y.w.uDEPD.mE.eOTAK2HB2.e.f.nA-content.html',
+            icon: 'icon-1794821791'
+        },
+	
+        {
+            title: 'nsls2_data::All Beamlines Use Cases',
+            id: '_WL.d.b.kPD.nE.eOTAK2HB2.e.f.nA',
+            object: '_WL.d.b.kPD.nE.eOTAK2HB2.e.f.nA-content.html',
+            icon: 'icon-1794821791'
+        },
+	
+        {
+            title: 'nsls2_data::NSLS2Widgets',
+            id: '_D.h.kH0OK7E.eOSLN.c.eY.vOJ.mA',
+            object: '_D.h.kH0OK7E.eOSLN.c.eY.vOJ.mA-content.html',
+            icon: 'icon1996826366'
+        },
+	
+        {
+            title: 'nsls2_data::External Interactions',
+            id: '_2.xHVUPF6E.eO.a.b9.bVA.s1L.tQ',
+            object: '_2.xHVUPF6E.eO.a.b9.bVA.s1L.tQ-content.html',
+            icon: 'icon-1794821791'
+        },
+	
+        {
+            title: 'nsls2_data::All Use Cases',
+            id: '_8R-3YP.y.zE.eO.p.e4.kD.d8R3.e.g',
+            object: '_8R-3YP.y.zE.eO.p.e4.kD.d8R3.e.g-content.html',
+            icon: 'icon-1794821791'
+        },
+	
+        {
+            title: 'nsls2_data::Core Use Cases',
+            id: '_VI-X8P0.pE.eO.p.e4.kD.d8R3.e.g',
+            object: '_VI-X8P0.pE.eO.p.e4.kD.d8R3.e.g-content.html',
+            icon: 'icon-1794821791'
+        },
+	
+        {
+            title: 'nsls2_data::vistools Use Cases',
+            id: '_.a_M.k.cP0.pE.eO.p.e4.kD.d8R3.e.g',
+            object: '_.a_M.k.cP0.pE.eO.p.e4.kD.d8R3.e.g-content.html',
+            icon: 'icon-1794821791'
+        },
+	
+        {
+            title: 'nsls2_data::NSLS2_Personnel::DevTeam::Postdocs::Main',
+            id: '_V8.v.bI.eL.mE.eO3.zNO.u.s.dT.lYA',
+            object: '_V8.v.bI.eL.mE.eO3.zNO.u.s.dT.lYA-content.html',
+            icon: 'icon-1157288756'
         },
 	
         {
             title: 'Models',
             top: true,
             id: '_MODELS_ROOT_NODE_',
-            icon: 'icon-1778051182',
+            icon: 'icon470100944',
             children: [
                 {_reference: '_.rP7.v8OK6E.eOSLN.c.eY.vOJ.mA' }
             ]
@@ -201,7 +201,7 @@
             title: 'nsls2_data',
             id: '_.rP7.v8OK6E.eOSLN.c.eY.vOJ.mA',
             object: '_.rP7.v8OK6E.eOSLN.c.eY.vOJ.mA-top-summary.html',
-            icon: 'icon-1778051182',
+            icon: 'icon470100944',
             children: [
                 {_reference: '_.p7.pLMP.u.gE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_.l.z.s.tIP.u.aE.eO.p.e4.kD.d8R3.e.g' },
@@ -307,16 +307,7 @@
                 {_reference: '_40M.z0P.y.xE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_79PBUP.y.xE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_A.mMJ.cP.y.yE.eO.p.e4.kD.d8R3.e.g' },
-                {_reference: '_WQ6.w.gP.y.yE.eO.p.e4.kD.d8R3.e.g' },
-                {_reference: '_ZU.d.o.gP1LE.eO.p.e4.kD.d8R3.e.g' },
-                {_reference: '_.bUSLMP1LE.eO.p.e4.kD.d8R3.e.g' },
-                {_reference: '_.dX5.o.wP1LE.eO.p.e4.kD.d8R3.e.g' },
-                {_reference: '_.h.c.aAAP1LE.eO.p.e4.kD.d8R3.e.g' },
-                {_reference: '_.h74KQP1LE.eO.p.e4.kD.d8R3.e.g' },
-                {_reference: '_.w.d.i.c4P1LE.eO.p.e4.kD.d8R3.e.g' },
-                {_reference: '__.k.iRMP1LE.eO.p.e4.kD.d8R3.e.g' },
-                {_reference: '__.wRAEP1LE.eO.p.e4.kD.d8R3.e.g' },
-                {_reference: '_F.t.v1.sP1NE.eO.p.e4.kD.d8R3.e.g' }
+                {_reference: '_WQ6.w.gP.y.yE.eO.p.e4.kD.d8R3.e.g' }
             ]
         }
 		,
@@ -324,7 +315,7 @@
             title: 'calib',
             id: '_.p7.pLMP.u.gE.eO.p.e4.kD.d8R3.e.g',
             object: '_.p7.pLMP.u.gE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon-1778051182',
+            icon: 'icon470100944',
             children: [
                 {_reference: '_.q.n.u1IP.u.gE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_.r78PAP.u.gE.eO.p.e4.kD.d8R3.e.g' },
@@ -338,42 +329,42 @@
             title: 'CALIB: Detector Tilt',
             id: '_.q.n.u1IP.u.gE.eO.p.e4.kD.d8R3.e.g',
             object: '_.q.n.u1IP.u.gE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon1845831814'
+            icon: 'icon-234542445'
         }
 		,
         {
             title: 'CALIB: Find Image Center',
             id: '_.r78PAP.u.gE.eO.p.e4.kD.d8R3.e.g',
             object: '_.r78PAP.u.gE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon1845831814'
+            icon: 'icon-234542445'
         }
 		,
         {
             title: 'CALIB: Sample Distance',
             id: '_.v.lAAYP.u.gE.eO.p.e4.kD.d8R3.e.g',
             object: '_.v.lAAYP.u.gE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon1845831814'
+            icon: 'icon-234542445'
         }
 		,
         {
             title: 'CALIB: Channel to Energy',
             id: '_.m4-.nYP.yQE.eO.p.e4.kD.d8R3.e.g',
             object: '_.m4-.nYP.yQE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon1845831814'
+            icon: 'icon-234542445'
         }
 		,
         {
             title: 'CALIB: Element to energy range',
             id: '_.y.r.i.fYP.y.kE.eO.p.e4.kD.d8R3.e.g',
             object: '_.y.r.i.fYP.y.kE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon1845831814'
+            icon: 'icon-234542445'
         }
 		,
         {
             title: 'io',
             id: '_.l.z.s.tIP.u.aE.eO.p.e4.kD.d8R3.e.g',
             object: '_.l.z.s.tIP.u.aE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon-1778051182',
+            icon: 'icon470100944',
             children: [
                 {_reference: '_7M.sD8P.u.aE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '__.h4.i.kP.u.aE.eO.p.e4.kD.d8R3.e.g' },
@@ -389,70 +380,78 @@
             title: 'IN: tiff',
             id: '_7M.sD8P.u.aE.eO.p.e4.kD.d8R3.e.g',
             object: '_7M.sD8P.u.aE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon1845831814'
+            icon: 'icon-234542445'
         }
 		,
         {
             title: 'OUT: XYE',
             id: '__.h4.i.kP.u.aE.eO.p.e4.kD.d8R3.e.g',
             object: '__.h4.i.kP.u.aE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon1845831814'
+            icon: 'icon-234542445'
         }
 		,
         {
             title: 'OUT: GSAS',
             id: '_B3BN8P.u.bE.eO.p.e4.kD.d8R3.e.g',
             object: '_B3BN8P.u.bE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon1845831814'
+            icon: 'icon-234542445'
         }
 		,
         {
             title: 'OUT: CHI',
             id: '_DDR.l.sP.u.bE.eO.p.e4.kD.d8R3.e.g',
             object: '_DDR.l.sP.u.bE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon1845831814'
+            icon: 'icon-234542445'
         }
 		,
         {
             title: 'OUT: DAT',
             id: '_H.jUCYP.u.bE.eO.p.e4.kD.d8R3.e.g',
             object: '_H.jUCYP.u.bE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon1845831814'
+            icon: 'icon-234542445'
         }
 		,
         {
             title: 'IN: tiff metadata',
             id: '_1.rM.l.wP.u.kE.eO.p.e4.kD.d8R3.e.g',
             object: '_1.rM.l.wP.u.kE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon1845831814'
+            icon: 'icon-234542445'
         }
 		,
         {
             title: 'IN: Spec',
             id: '_Y.b.kNUP.x.pE.eO.p.e4.kD.d8R3.e.g',
             object: '_Y.b.kNUP.x.pE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon1845831814'
+            icon: 'icon-234542445'
         }
 		,
         {
             title: 'IXS User',
             id: '_.wI0SQPD.jE.eOTAK2HB2.e.f.nA',
             object: '_.wI0SQPD.jE.eOTAK2HB2.e.f.nA-content.html',
-            icon: 'icon-1878712191'
+            icon: 'icon1745172171'
         }
 		,
         {
             title: 'vistools',
             id: '_.l.k.c3MOL.jE.eO3.zNO.u.s.dT.lYA',
             object: '_.l.k.c3MOL.jE.eO3.zNO.u.s.dT.lYA-content.html',
-            icon: 'icon-1778051182',
+            icon: 'icon470100944',
             children: [
+                {_reference: '_S.pT.dMP39E.eOXO7.uNZR.mM.pQ' },
+                {_reference: '_X.oFBUP4.eE.eOEPIT9YI_.o.y.g' },
+                {_reference: '_.j.bI.t.wP4.gE.eOEPIT9YI_.o.y.g' },
+                {_reference: '_.w.d.i.c4P1LE.eO.p.e4.kD.d8R3.e.g' },
+                {_reference: '_F.t.v1.sP1NE.eO.p.e4.kD.d8R3.e.g' },
+                {_reference: '_ZU.d.o.gP1LE.eO.p.e4.kD.d8R3.e.g' },
+                {_reference: '__.wRAEP1LE.eO.p.e4.kD.d8R3.e.g' },
+                {_reference: '_.dX5.o.wP1LE.eO.p.e4.kD.d8R3.e.g' },
+                {_reference: '__.k.iRMP1LE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_V.pCK.gP1JE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_.o7YI.cP1KE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_.tRV.cEP1KE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_.e.l.j.kIP1KE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_79X.oIP1JE.eO.p.e4.kD.d8R3.e.g' },
-                {_reference: '_7_JUUP1KE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_.k5NQUP1GE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_.z.sT.kQP.u.xE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_.t7.vT0P.u.xE.eO.p.e4.kD.d8R3.e.g' },
@@ -495,10 +494,8 @@
                 {_reference: '_.n.sFWYPJ.rE.eO.fB.a.l87FZL.v.g' },
                 {_reference: '_.l.rB.i.sPWOE.eO7.k.oQK.zK.fA_.w' },
                 {_reference: '_.k5.h3.gPWSE.eO7.k.oQK.zK.fA_.w' },
-                {_reference: '_.rG.z18PWOE.eO7.k.oQK.zK.fA_.w' },
                 {_reference: '_NB8UIPWOE.eO7.k.oQK.zK.fA_.w' },
                 {_reference: '_.h1.i.e4PWOE.eO7.k.oQK.zK.fA_.w' },
-                {_reference: '_Q.z.kL.oPWOE.eO7.k.oQK.zK.fA_.w' },
                 {_reference: '_.d.c.cJ8PWJE.eO7.k.oQK.zK.fA_.w' },
                 {_reference: '_3.vL.l0P.u.bE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_5.oW.t8P.u.bE.eO.p.e4.kD.d8R3.e.g' },
@@ -507,16 +504,198 @@
                 {_reference: '_3.l9.b.kP.u.fE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_D.c.h.k.cP.u.hE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_Y4Y.h.sP.u.kE.eO.p.e4.kD.d8R3.e.g' },
-                {_reference: '_YW2Z.kP.u.yE.eO.p.e4.kD.d8R3.e.g' },
-                {_reference: '_GA.w.zEP.u.yE.eO.p.e4.kD.d8R3.e.g' },
-                {_reference: '_.v.q.y2.oP.u.xE.eO.p.e4.kD.d8R3.e.g' },
-                {_reference: '_0.vM.k.oP.u.xE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_.b2.aUAP.y.fE.eO.p.e4.kD.d8R3.e.g' },
-                {_reference: '_.j.w.e.w4P1KE.eO.p.e4.kD.d8R3.e.g' },
-                {_reference: '_.u-H.uAP1KE.eO.p.e4.kD.d8R3.e.g' },
-                {_reference: '_.qT.p.i8P1KE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_9.k0.cMP1LE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_IX.pQIP1NE.eO.p.e4.kD.d8R3.e.g' }
+            ]
+        }
+		,
+        {
+            title: 'AbstractMPLDataView',
+            id: '_S.pT.dMP39E.eOXO7.uNZR.mM.pQ',
+            object: '_S.pT.dMP39E.eOXO7.uNZR.mM.pQ-content.html',
+            icon: 'icon1644502742',
+            children: [
+                {_reference: '_X1JP8P39E.eOXO7.uNZR.mM.pQ' },
+                {_reference: '_.dTA.xYP3-E.eOXO7.uNZR.mM.pQ' },
+                {_reference: '_.d8F.j.kP3-E.eOXO7.uNZR.mM.pQ' },
+                {_reference: '_83.zMAP45E.eOEPIT9YI_.o.y.g' },
+                {_reference: '_-.aSS.cP45E.eOEPIT9YI_.o.y.g' },
+                {_reference: '_2F.x.d4PWOE.eO7.k.oQK.zK.fA_.w' },
+                {_reference: '_.wI.t4UPWIE.eO7.k.oQK.zK.fA_.w' },
+                {_reference: '_83M.mUP39E.eOXO7.uNZR.mM.pQ' }
+            ]
+        }
+		,
+        {
+            title: '_fig',
+            id: '_X1JP8P39E.eOXO7.uNZR.mM.pQ',
+            object: '_S.pT.dMP39E.eOXO7.uNZR.mM.pQ-content.html#_X1JP8P39E.eOXO7.uNZR.mM.pQ',
+            icon: 'icon2063936092'
+        }
+		,
+        {
+            title: '_norm',
+            id: '_.dTA.xYP3-E.eOXO7.uNZR.mM.pQ',
+            object: '_S.pT.dMP39E.eOXO7.uNZR.mM.pQ-content.html#_.dTA.xYP3-E.eOXO7.uNZR.mM.pQ',
+            icon: 'icon2063936092'
+        }
+		,
+        {
+            title: '_cmap',
+            id: '_.d8F.j.kP3-E.eOXO7.uNZR.mM.pQ',
+            object: '_S.pT.dMP39E.eOXO7.uNZR.mM.pQ-content.html#_.d8F.j.kP3-E.eOXO7.uNZR.mM.pQ',
+            icon: 'icon2063936092'
+        }
+		,
+        {
+            title: '_default_cmap',
+            id: '_83.zMAP45E.eOEPIT9YI_.o.y.g',
+            object: '_S.pT.dMP39E.eOXO7.uNZR.mM.pQ-content.html#_83.zMAP45E.eOEPIT9YI_.o.y.g',
+            icon: 'icon2063936092',
+            children: [
+                {_reference: '_-L87.gP45E.eOEPIT9YI_.o.y.g' }
+            ]
+        }
+		,
+        {
+            title: '',
+            id: '_-L87.gP45E.eOEPIT9YI_.o.y.g',
+            object: '_-L87.gP45E.eOEPIT9YI_.o.y.g-content.html',
+            icon: 'icon1392848270'
+        }
+		,
+        {
+            title: '_default_norm',
+            id: '_-.aSS.cP45E.eOEPIT9YI_.o.y.g',
+            object: '_S.pT.dMP39E.eOXO7.uNZR.mM.pQ-content.html#_-.aSS.cP45E.eOEPIT9YI_.o.y.g',
+            icon: 'icon2063936092',
+            children: [
+                {_reference: '__.y.x.vYP45E.eOEPIT9YI_.o.y.g' }
+            ]
+        }
+		,
+        {
+            title: '',
+            id: '__.y.x.vYP45E.eOEPIT9YI_.o.y.g',
+            object: '__.y.x.vYP45E.eOEPIT9YI_.o.y.g-content.html',
+            icon: 'icon1392848270'
+        }
+		,
+        {
+            title: 'replot',
+            id: '_2F.x.d4PWOE.eO7.k.oQK.zK.fA_.w',
+            object: '_S.pT.dMP39E.eOXO7.uNZR.mM.pQ-content.html#_2F.x.d4PWOE.eO7.k.oQK.zK.fA_.w',
+            icon: 'icon-838521982'
+        }
+		,
+        {
+            title: 'update_cmap',
+            id: '_.wI.t4UPWIE.eO7.k.oQK.zK.fA_.w',
+            object: '_S.pT.dMP39E.eOXO7.uNZR.mM.pQ-content.html#_.wI.t4UPWIE.eO7.k.oQK.zK.fA_.w',
+            icon: 'icon-838521982'
+        }
+		,
+        {
+            title: 'update_norm',
+            id: '_83M.mUP39E.eOXO7.uNZR.mM.pQ',
+            object: '_S.pT.dMP39E.eOXO7.uNZR.mM.pQ-content.html#_83M.mUP39E.eOXO7.uNZR.mM.pQ',
+            icon: 'icon-838521982'
+        }
+		,
+        {
+            title: 'AbstractMPLMessenger',
+            id: '_X.oFBUP4.eE.eOEPIT9YI_.o.y.g',
+            object: '_X.oFBUP4.eE.eOEPIT9YI_.o.y.g-content.html',
+            icon: 'icon1644502742',
+            children: [
+                {_reference: '_F.cUOQPWIE.eO7.k.oQK.zK.fA_.w' },
+                {_reference: '_F.b4.r.wP4.gE.eOEPIT9YI_.o.y.g' }
+            ]
+        }
+		,
+        {
+            title: 'sl_update_color_map',
+            id: '_F.cUOQPWIE.eO7.k.oQK.zK.fA_.w',
+            object: '_X.oFBUP4.eE.eOEPIT9YI_.o.y.g-content.html#_F.cUOQPWIE.eO7.k.oQK.zK.fA_.w',
+            icon: 'icon-838521982'
+        }
+		,
+        {
+            title: 'sl_update_norm',
+            id: '_F.b4.r.wP4.gE.eOEPIT9YI_.o.y.g',
+            object: '_X.oFBUP4.eE.eOEPIT9YI_.o.y.g-content.html#_F.b4.r.wP4.gE.eOEPIT9YI_.o.y.g',
+            icon: 'icon-838521982'
+        }
+		,
+        {
+            title: 'CrossSection1DView',
+            id: '_.j.bI.t.wP4.gE.eOEPIT9YI_.o.y.g',
+            object: '_.j.bI.t.wP4.gE.eOEPIT9YI_.o.y.g-content.html',
+            icon: 'icon1644502742',
+            children: [
+            ]
+        }
+		,
+        {
+            title: 'AbstractMessengerROI',
+            id: '_.w.d.i.c4P1LE.eO.p.e4.kD.d8R3.e.g',
+            object: '_.w.d.i.c4P1LE.eO.p.e4.kD.d8R3.e.g-content.html',
+            icon: 'icon1644502742',
+            children: [
+            ]
+        }
+		,
+        {
+            title: 'ControlWidgetBucket',
+            id: '_F.t.v1.sP1NE.eO.p.e4.kD.d8R3.e.g',
+            object: '_F.t.v1.sP1NE.eO.p.e4.kD.d8R3.e.g-content.html',
+            icon: 'icon1644502742',
+            children: [
+                {_reference: '_.gI7UAP1NE.eO.p.e4.kD.d8R3.e.g' }
+            ]
+        }
+		,
+        {
+            title: '_ctrl_boxes',
+            id: '_.gI7UAP1NE.eO.p.e4.kD.d8R3.e.g',
+            object: '_F.t.v1.sP1NE.eO.p.e4.kD.d8R3.e.g-content.html#_.gI7UAP1NE.eO.p.e4.kD.d8R3.e.g',
+            icon: 'icon2063936092'
+        }
+		,
+        {
+            title: 'ROI1D',
+            id: '_ZU.d.o.gP1LE.eO.p.e4.kD.d8R3.e.g',
+            object: '_ZU.d.o.gP1LE.eO.p.e4.kD.d8R3.e.g-content.html',
+            icon: 'icon1644502742',
+            children: [
+            ]
+        }
+		,
+        {
+            title: 'ROI1DShapeMessenger',
+            id: '__.wRAEP1LE.eO.p.e4.kD.d8R3.e.g',
+            object: '__.wRAEP1LE.eO.p.e4.kD.d8R3.e.g-content.html',
+            icon: 'icon1644502742',
+            children: [
+            ]
+        }
+		,
+        {
+            title: 'ROI2DShape',
+            id: '_.dX5.o.wP1LE.eO.p.e4.kD.d8R3.e.g',
+            object: '_.dX5.o.wP1LE.eO.p.e4.kD.d8R3.e.g-content.html',
+            icon: 'icon1644502742',
+            children: [
+            ]
+        }
+		,
+        {
+            title: 'ROI2DShapeMessenger',
+            id: '__.k.iRMP1LE.eO.p.e4.kD.d8R3.e.g',
+            object: '__.k.iRMP1LE.eO.p.e4.kD.d8R3.e.g-content.html',
+            icon: 'icon1644502742',
+            children: [
             ]
         }
 		,
@@ -524,7 +703,7 @@
             title: 'AbstractMessenger3D',
             id: '_V.pCK.gP1JE.eO.p.e4.kD.d8R3.e.g',
             object: '_V.pCK.gP1JE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon151331783',
+            icon: 'icon1644502742',
             children: [
             ]
         }
@@ -533,21 +712,41 @@
             title: 'CrossSection1DMessenger',
             id: '_.o7YI.cP1KE.eO.p.e4.kD.d8R3.e.g',
             object: '_.o7YI.cP1KE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon151331783'
+            icon: 'icon1644502742',
+            children: [
+                {_reference: '_.f7.p.vIP4.gE.eOEPIT9YI_.o.y.g' }
+            ]
+        }
+		,
+        {
+            title: '_view',
+            id: '_.f7.p.vIP4.gE.eOEPIT9YI_.o.y.g',
+            object: '_.o7YI.cP1KE.eO.p.e4.kD.d8R3.e.g-content.html#_.f7.p.vIP4.gE.eOEPIT9YI_.o.y.g',
+            icon: 'icon2063936092'
         }
 		,
         {
             title: 'CrossSection2DMessenger',
             id: '_.tRV.cEP1KE.eO.p.e4.kD.d8R3.e.g',
             object: '_.tRV.cEP1KE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon151331783'
+            icon: 'icon1644502742',
+            children: [
+                {_reference: '_.eG.e9QP4.gE.eOEPIT9YI_.o.y.g' }
+            ]
+        }
+		,
+        {
+            title: '_view',
+            id: '_.eG.e9QP4.gE.eOEPIT9YI_.o.y.g',
+            object: '_.tRV.cEP1KE.eO.p.e4.kD.d8R3.e.g-content.html#_.eG.e9QP4.gE.eOEPIT9YI_.o.y.g',
+            icon: 'icon2063936092'
         }
 		,
         {
             title: 'CrossSection2DView',
             id: '_.e.l.j.kIP1KE.eO.p.e4.kD.d8R3.e.g',
             object: '_.e.l.j.kIP1KE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon151331783',
+            icon: 'icon1644502742',
             children: [
             ]
         }
@@ -556,23 +755,16 @@
             title: 'Line3DMessenger',
             id: '_79X.oIP1JE.eO.p.e4.kD.d8R3.e.g',
             object: '_79X.oIP1JE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon151331783',
+            icon: 'icon1644502742',
             children: [
             ]
-        }
-		,
-        {
-            title: 'AbstractMessengerROI',
-            id: '_7_JUUP1KE.eO.p.e4.kD.d8R3.e.g',
-            object: '_7_JUUP1KE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon151331783'
         }
 		,
         {
             title: 'OtherDisplayWidget',
             id: '_.k5NQUP1GE.eO.p.e4.kD.d8R3.e.g',
             object: '_.k5NQUP1GE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon151331783',
+            icon: 'icon1644502742',
             children: [
             ]
         }
@@ -581,42 +773,100 @@
             title: 'ContourMessenger',
             id: '_.z.sT.kQP.u.xE.eO.p.e4.kD.d8R3.e.g',
             object: '_.z.sT.kQP.u.xE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon151331783'
+            icon: 'icon1644502742',
+            children: [
+                {_reference: '_.rKIZ.wP4.gE.eOEPIT9YI_.o.y.g' }
+            ]
+        }
+		,
+        {
+            title: '_view',
+            id: '_.rKIZ.wP4.gE.eOEPIT9YI_.o.y.g',
+            object: '_.z.sT.kQP.u.xE.eO.p.e4.kD.d8R3.e.g-content.html#_.rKIZ.wP4.gE.eOEPIT9YI_.o.y.g',
+            icon: 'icon2063936092'
         }
 		,
         {
             title: 'ContourView',
             id: '_.t7.vT0P.u.xE.eO.p.e4.kD.d8R3.e.g',
             object: '_.t7.vT0P.u.xE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon151331783'
+            icon: 'icon1644502742',
+            children: [
+                {_reference: '_.g.pS.kUP44E.eOEPIT9YI_.o.y.g' },
+                {_reference: '_.t.cETQP44E.eOEPIT9YI_.o.y.g' }
+            ]
+        }
+		,
+        {
+            title: '__init__',
+            id: '_.g.pS.kUP44E.eOEPIT9YI_.o.y.g',
+            object: '_.t7.vT0P.u.xE.eO.p.e4.kD.d8R3.e.g-content.html#_.g.pS.kUP44E.eOEPIT9YI_.o.y.g',
+            icon: 'icon-838521982',
+            children: [
+                {_reference: '_.g.zW.fQ.f44E.eOEPIT9YI_.o.y.g' },
+                {_reference: '_.g.zXGU.f44E.eOEPIT9YI_.o.y.g' }
+            ]
+        }
+		,
+        {
+            title: '',
+            id: '_.g.zW.fQ.f44E.eOEPIT9YI_.o.y.g',
+            object: '_.g.zW.fQ.f44E.eOEPIT9YI_.o.y.g-content.html',
+            icon: 'icon1392848270'
+        }
+		,
+        {
+            title: '',
+            id: '_.g.zXGU.f44E.eOEPIT9YI_.o.y.g',
+            object: '_.g.zXGU.f44E.eOEPIT9YI_.o.y.g-content.html',
+            icon: 'icon1392848270'
+        }
+		,
+        {
+            title: 'replot',
+            id: '_.t.cETQP44E.eOEPIT9YI_.o.y.g',
+            object: '_.t7.vT0P.u.xE.eO.p.e4.kD.d8R3.e.g-content.html#_.t.cETQP44E.eOEPIT9YI_.o.y.g',
+            icon: 'icon-838521982'
         }
 		,
         {
             title: 'ImshowMessenger',
             id: '__7.m.y.sP.u.xE.eO.p.e4.kD.d8R3.e.g',
             object: '__7.m.y.sP.u.xE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon151331783'
+            icon: 'icon1644502742',
+            children: [
+                {_reference: '_.p.v.lHUP4.gE.eOEPIT9YI_.o.y.g' }
+            ]
+        }
+		,
+        {
+            title: '_view',
+            id: '_.p.v.lHUP4.gE.eOEPIT9YI_.o.y.g',
+            object: '__7.m.y.sP.u.xE.eO.p.e4.kD.d8R3.e.g-content.html#_.p.v.lHUP4.gE.eOEPIT9YI_.o.y.g',
+            icon: 'icon2063936092'
         }
 		,
         {
             title: 'ImshowView',
             id: '_VUHBUP.u.yE.eO.p.e4.kD.d8R3.e.g',
             object: '_VUHBUP.u.yE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon151331783'
+            icon: 'icon1644502742',
+            children: [
+            ]
         }
 		,
         {
             title: 'VIS: ROI 2D',
             id: '_.fE.q.pUP.u.aE.eO.p.e4.kD.d8R3.e.g',
             object: '_.fE.q.pUP.u.aE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon1845831814'
+            icon: 'icon-234542445'
         }
 		,
         {
-            title: 'DisplayWidget',
+            title: 'AbstractDisplayWidget',
             id: '__.c-.g8PZWE.eO.y4--P.rP.u9.pA',
             object: '__.c-.g8PZWE.eO.y4--P.rP.u9.pA-content.html',
-            icon: 'icon151331783',
+            icon: 'icon1644502742',
             children: [
             ]
         }
@@ -625,15 +875,14 @@
             title: 'AbstractMessenger',
             id: '_D.c57QPWIE.eO7.k.oQK.zK.fA_.w',
             object: '_D.c57QPWIE.eO7.k.oQK.zK.fA_.w-content.html',
-            icon: 'icon151331783',
+            icon: 'icon1644502742',
             children: [
                 {_reference: '_.d.c.dYEPWJE.eO7.k.oQK.zK.fA_.w' },
-                {_reference: '_2J.i.eUPZ.kE.eO.y4--P.rP.u9.pA' },
                 {_reference: '_9.k1.qUP1LE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_.k5.jF.oPWSE.eO7.k.oQK.zK.fA_.w' },
-                {_reference: '_F.cUOQPWIE.eO7.k.oQK.zK.fA_.w' },
                 {_reference: '_F.hM.uQPWIE.eO7.k.oQK.zK.fA_.w' },
-                {_reference: '_F.kQ.pUPWIE.eO7.k.oQK.zK.fA_.w' }
+                {_reference: '_F.kQ.pUPWIE.eO7.k.oQK.zK.fA_.w' },
+                {_reference: '_.f.w-E8P4.nE.eOEPIT9YI_.o.y.g' }
             ]
         }
 		,
@@ -641,164 +890,120 @@
             title: 'abstractDataView',
             id: '_.d.c.dYEPWJE.eO7.k.oQK.zK.fA_.w',
             object: '_D.c57QPWIE.eO7.k.oQK.zK.fA_.w-content.html#_.d.c.dYEPWJE.eO7.k.oQK.zK.fA_.w',
-            icon: 'icon470099028'
-        }
-		,
-        {
-            title: '_viewer',
-            id: '_2J.i.eUPZ.kE.eO.y4--P.rP.u9.pA',
-            object: '_D.c57QPWIE.eO7.k.oQK.zK.fA_.w-content.html#_2J.i.eUPZ.kE.eO.y4--P.rP.u9.pA',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: 'abstractMessengerROI',
             id: '_9.k1.qUP1LE.eO.p.e4.kD.d8R3.e.g',
             object: '_D.c57QPWIE.eO7.k.oQK.zK.fA_.w-content.html#_9.k1.qUP1LE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: 'control_widget',
             id: '_.k5.jF.oPWSE.eO7.k.oQK.zK.fA_.w',
             object: '_D.c57QPWIE.eO7.k.oQK.zK.fA_.w-content.html#_.k5.jF.oPWSE.eO7.k.oQK.zK.fA_.w',
-            icon: 'icon470099028'
-        }
-		,
-        {
-            title: 'sl_update_color_map',
-            id: '_F.cUOQPWIE.eO7.k.oQK.zK.fA_.w',
-            object: '_D.c57QPWIE.eO7.k.oQK.zK.fA_.w-content.html#_F.cUOQPWIE.eO7.k.oQK.zK.fA_.w',
-            icon: 'icon-1710930910'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: 'sl_clear_data',
             id: '_F.hM.uQPWIE.eO7.k.oQK.zK.fA_.w',
             object: '_D.c57QPWIE.eO7.k.oQK.zK.fA_.w-content.html#_F.hM.uQPWIE.eO7.k.oQK.zK.fA_.w',
-            icon: 'icon-1710930910'
+            icon: 'icon-838521982'
         }
 		,
         {
             title: 'sl_remove_dataset',
             id: '_F.kQ.pUPWIE.eO7.k.oQK.zK.fA_.w',
             object: '_D.c57QPWIE.eO7.k.oQK.zK.fA_.w-content.html#_F.kQ.pUPWIE.eO7.k.oQK.zK.fA_.w',
-            icon: 'icon-1710930910'
+            icon: 'icon-838521982'
+        }
+		,
+        {
+            title: '_build_control_widget',
+            id: '_.f.w-E8P4.nE.eOEPIT9YI_.o.y.g',
+            object: '_D.c57QPWIE.eO7.k.oQK.zK.fA_.w-content.html#_.f.w-E8P4.nE.eOEPIT9YI_.o.y.g',
+            icon: 'icon-838521982'
         }
 		,
         {
             title: 'AbstractMessenger1D',
             id: '_.eEP.mQPWIE.eO7.k.oQK.zK.fA_.w',
             object: '_.eEP.mQPWIE.eO7.k.oQK.zK.fA_.w-content.html',
-            icon: 'icon151331783',
+            icon: 'icon1644502742',
             children: [
-                {_reference: '_8QWE.gPZ.kE.eO.y4--P.rP.u9.pA' },
-                {_reference: '_.g.wSV.wPWIE.eO7.k.oQK.zK.fA_.w' },
                 {_reference: '_.g0.s7.sPWIE.eO7.k.oQK.zK.fA_.w' },
-                {_reference: '_.g4.cMMPWIE.eO7.k.oQK.zK.fA_.w' }
+                {_reference: '_.g4.cMMPWIE.eO7.k.oQK.zK.fA_.w' },
+                {_reference: '_KT.s50P4.hE.eOEPIT9YI_.o.y.g' }
             ]
-        }
-		,
-        {
-            title: '_view',
-            id: '_8QWE.gPZ.kE.eO.y4--P.rP.u9.pA',
-            object: '_.eEP.mQPWIE.eO7.k.oQK.zK.fA_.w-content.html#_8QWE.gPZ.kE.eO.y4--P.rP.u9.pA',
-            icon: 'icon470099028'
-        }
-		,
-        {
-            title: '__init__',
-            id: '_.g.wSV.wPWIE.eO7.k.oQK.zK.fA_.w',
-            object: '_.eEP.mQPWIE.eO7.k.oQK.zK.fA_.w-content.html#_.g.wSV.wPWIE.eO7.k.oQK.zK.fA_.w',
-            icon: 'icon-1710930910',
-            children: [
-                {_reference: '_.i8XL.w.fWIE.eO7.k.oQK.zK.fA_.w' },
-                {_reference: '_.i8X.y0.fWIE.eO7.k.oQK.zK.fA_.w' },
-                {_reference: '_.i8YZ4PWIE.eO7.k.oQK.zK.fA_.w' }
-            ]
-        }
-		,
-        {
-            title: '',
-            id: '_.i8XL.w.fWIE.eO7.k.oQK.zK.fA_.w',
-            object: '_.i8XL.w.fWIE.eO7.k.oQK.zK.fA_.w-content.html',
-            icon: 'icon1694829448'
-        }
-		,
-        {
-            title: '',
-            id: '_.i8X.y0.fWIE.eO7.k.oQK.zK.fA_.w',
-            object: '_.i8X.y0.fWIE.eO7.k.oQK.zK.fA_.w-content.html',
-            icon: 'icon1694829448'
-        }
-		,
-        {
-            title: '',
-            id: '_.i8YZ4PWIE.eO7.k.oQK.zK.fA_.w',
-            object: '_.i8YZ4PWIE.eO7.k.oQK.zK.fA_.w-content.html',
-            icon: 'icon1694829448'
         }
 		,
         {
             title: 'sl_add_data',
             id: '_.g0.s7.sPWIE.eO7.k.oQK.zK.fA_.w',
             object: '_.eEP.mQPWIE.eO7.k.oQK.zK.fA_.w-content.html#_.g0.s7.sPWIE.eO7.k.oQK.zK.fA_.w',
-            icon: 'icon-1710930910'
+            icon: 'icon-838521982'
         }
 		,
         {
             title: 'sl_append_data',
             id: '_.g4.cMMPWIE.eO7.k.oQK.zK.fA_.w',
             object: '_.eEP.mQPWIE.eO7.k.oQK.zK.fA_.w-content.html#_.g4.cMMPWIE.eO7.k.oQK.zK.fA_.w',
-            icon: 'icon-1710930910'
+            icon: 'icon-838521982'
+        }
+		,
+        {
+            title: 'sl_set_data',
+            id: '_KT.s50P4.hE.eOEPIT9YI_.o.y.g',
+            object: '_.eEP.mQPWIE.eO7.k.oQK.zK.fA_.w-content.html#_KT.s50P4.hE.eOEPIT9YI_.o.y.g',
+            icon: 'icon-838521982'
         }
 		,
         {
             title: 'AbstractMessenger2D',
             id: '_.o.n.dGUPWIE.eO7.k.oQK.zK.fA_.w',
             object: '_.o.n.dGUPWIE.eO7.k.oQK.zK.fA_.w-content.html',
-            icon: 'icon151331783',
+            icon: 'icon1644502742',
             children: [
-                {_reference: '_5.o.s.s0PZ.kE.eO.y4--P.rP.u9.pA' },
-                {_reference: '_.p.i7.jIPZ.kE.eO.y4--P.rP.u9.pA' },
+                {_reference: '_N.nN5AP4.hE.eOEPIT9YI_.o.y.g' },
+                {_reference: '_P.s3W4P4.hE.eOEPIT9YI_.o.y.g' },
                 {_reference: '_.qIKXIPZ.kE.eO.y4--P.rP.u9.pA' }
             ]
         }
 		,
         {
-            title: '_view',
-            id: '_5.o.s.s0PZ.kE.eO.y4--P.rP.u9.pA',
-            object: '_.o.n.dGUPWIE.eO7.k.oQK.zK.fA_.w-content.html#_5.o.s.s0PZ.kE.eO.y4--P.rP.u9.pA',
-            icon: 'icon470099028'
+            title: '_sl_add_data',
+            id: '_N.nN5AP4.hE.eOEPIT9YI_.o.y.g',
+            object: '_.o.n.dGUPWIE.eO7.k.oQK.zK.fA_.w-content.html#_N.nN5AP4.hE.eOEPIT9YI_.o.y.g',
+            icon: 'icon-838521982'
         }
 		,
         {
-            title: '__init__',
-            id: '_.p.i7.jIPZ.kE.eO.y4--P.rP.u9.pA',
-            object: '_.o.n.dGUPWIE.eO7.k.oQK.zK.fA_.w-content.html#_.p.i7.jIPZ.kE.eO.y4--P.rP.u9.pA',
-            icon: 'icon-1710930910'
+            title: '_sl_append_data',
+            id: '_P.s3W4P4.hE.eOEPIT9YI_.o.y.g',
+            object: '_.o.n.dGUPWIE.eO7.k.oQK.zK.fA_.w-content.html#_P.s3W4P4.hE.eOEPIT9YI_.o.y.g',
+            icon: 'icon-838521982'
         }
 		,
         {
             title: '_sl_set_data',
             id: '_.qIKXIPZ.kE.eO.y4--P.rP.u9.pA',
             object: '_.o.n.dGUPWIE.eO7.k.oQK.zK.fA_.w-content.html#_.qIKXIPZ.kE.eO.y4--P.rP.u9.pA',
-            icon: 'icon-1710930910'
+            icon: 'icon-838521982'
         }
 		,
         {
             title: 'AbstractDataView',
             id: '_.t.hG84PWIE.eO7.k.oQK.zK.fA_.w',
             object: '_.t.hG84PWIE.eO7.k.oQK.zK.fA_.w-content.html',
-            icon: 'icon151331783',
+            icon: 'icon1644502742',
             children: [
                 {_reference: '_.m.xK.d.gP.cRE.eO5.p.s.m.v1CZ.k0Q' },
-                {_reference: '_.qY-4.wP.cRE.eO5.p.s.m.v1CZ.k0Q' },
-                {_reference: '_.wFVX.kP.cRE.eO5.p.s.m.v1CZ.k0Q' },
                 {_reference: '_.n.q.oUEPD.aE.eO2.f.tSKF.b4W.oQ' },
-                {_reference: '_.wI.t4UPWIE.eO7.k.oQK.zK.fA_.w' },
-                {_reference: '_-.t.vA8PWIE.eO7.k.oQK.zK.fA_.w' },
-                {_reference: '_97F3AP.u.yE.eO.p.e4.kD.d8R3.e.g' }
+                {_reference: '_97F3AP.u.yE.eO.p.e4.kD.d8R3.e.g' },
+                {_reference: '_8O9RYPWIE.eO7.k.oQK.zK.fA_.w' }
             ]
         }
 		,
@@ -806,183 +1011,111 @@
             title: '_data',
             id: '_.m.xK.d.gP.cRE.eO5.p.s.m.v1CZ.k0Q',
             object: '_.t.hG84PWIE.eO7.k.oQK.zK.fA_.w-content.html#_.m.xK.d.gP.cRE.eO5.p.s.m.v1CZ.k0Q',
-            icon: 'icon470099028'
-        }
-		,
-        {
-            title: 'sig_update_data',
-            id: '_.qY-4.wP.cRE.eO5.p.s.m.v1CZ.k0Q',
-            object: '_.t.hG84PWIE.eO7.k.oQK.zK.fA_.w-content.html#_.qY-4.wP.cRE.eO5.p.s.m.v1CZ.k0Q',
-            icon: 'icon470099028'
-        }
-		,
-        {
-            title: 'sig_update_display',
-            id: '_.wFVX.kP.cRE.eO5.p.s.m.v1CZ.k0Q',
-            object: '_.t.hG84PWIE.eO7.k.oQK.zK.fA_.w-content.html#_.wFVX.kP.cRE.eO5.p.s.m.v1CZ.k0Q',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: 'roi_overlay',
             id: '_.n.q.oUEPD.aE.eO2.f.tSKF.b4W.oQ',
             object: '_.t.hG84PWIE.eO7.k.oQK.zK.fA_.w-content.html#_.n.q.oUEPD.aE.eO2.f.tSKF.b4W.oQ',
-            icon: 'icon470099028'
-        }
-		,
-        {
-            title: 'update_colormap',
-            id: '_.wI.t4UPWIE.eO7.k.oQK.zK.fA_.w',
-            object: '_.t.hG84PWIE.eO7.k.oQK.zK.fA_.w-content.html#_.wI.t4UPWIE.eO7.k.oQK.zK.fA_.w',
-            icon: 'icon-1710930910'
-        }
-		,
-        {
-            title: 'replot',
-            id: '_-.t.vA8PWIE.eO7.k.oQK.zK.fA_.w',
-            object: '_.t.hG84PWIE.eO7.k.oQK.zK.fA_.w-content.html#_-.t.vA8PWIE.eO7.k.oQK.zK.fA_.w',
-            icon: 'icon-1710930910'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: 'clear_data',
             id: '_97F3AP.u.yE.eO.p.e4.kD.d8R3.e.g',
             object: '_.t.hG84PWIE.eO7.k.oQK.zK.fA_.w-content.html#_97F3AP.u.yE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon-1710930910'
+            icon: 'icon-838521982'
+        }
+		,
+        {
+            title: 'remove_data',
+            id: '_8O9RYPWIE.eO7.k.oQK.zK.fA_.w',
+            object: '_.t.hG84PWIE.eO7.k.oQK.zK.fA_.w-content.html#_8O9RYPWIE.eO7.k.oQK.zK.fA_.w',
+            icon: 'icon-838521982'
         }
 		,
         {
             title: 'AbstractDataView1D',
             id: '_4.lLHQPWIE.eO7.k.oQK.zK.fA_.w',
             object: '_4.lLHQPWIE.eO7.k.oQK.zK.fA_.w-content.html',
-            icon: 'icon151331783',
+            icon: 'icon1644502742',
             children: [
-                {_reference: '_6W.qTAPWIE.eO7.k.oQK.zK.fA_.w' },
-                {_reference: '_8O9RYPWIE.eO7.k.oQK.zK.fA_.w' },
+                {_reference: '_.g.s10IP.u.yE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_8.cH.j.oPWIE.eO7.k.oQK.zK.fA_.w' },
-                {_reference: '_.g.s10IP.u.yE.eO.p.e4.kD.d8R3.e.g' }
+                {_reference: '__JH.wMP3-E.eOXO7.uNZR.mM.pQ' }
             ]
-        }
-		,
-        {
-            title: '__init__',
-            id: '_6W.qTAPWIE.eO7.k.oQK.zK.fA_.w',
-            object: '_4.lLHQPWIE.eO7.k.oQK.zK.fA_.w-content.html#_6W.qTAPWIE.eO7.k.oQK.zK.fA_.w',
-            icon: 'icon-1710930910',
-            children: [
-                {_reference: '_C00.yI.fWJE.eO7.k.oQK.zK.fA_.w' },
-                {_reference: '_C01ZM.fWJE.eO7.k.oQK.zK.fA_.w' }
-            ]
-        }
-		,
-        {
-            title: '',
-            id: '_C00.yI.fWJE.eO7.k.oQK.zK.fA_.w',
-            object: '_C00.yI.fWJE.eO7.k.oQK.zK.fA_.w-content.html',
-            icon: 'icon1694829448'
-        }
-		,
-        {
-            title: '',
-            id: '_C01ZM.fWJE.eO7.k.oQK.zK.fA_.w',
-            object: '_C01ZM.fWJE.eO7.k.oQK.zK.fA_.w-content.html',
-            icon: 'icon1694829448'
-        }
-		,
-        {
-            title: 'remove_data',
-            id: '_8O9RYPWIE.eO7.k.oQK.zK.fA_.w',
-            object: '_4.lLHQPWIE.eO7.k.oQK.zK.fA_.w-content.html#_8O9RYPWIE.eO7.k.oQK.zK.fA_.w',
-            icon: 'icon-1710930910'
-        }
-		,
-        {
-            title: 'append_data',
-            id: '_8.cH.j.oPWIE.eO7.k.oQK.zK.fA_.w',
-            object: '_4.lLHQPWIE.eO7.k.oQK.zK.fA_.w-content.html#_8.cH.j.oPWIE.eO7.k.oQK.zK.fA_.w',
-            icon: 'icon-1710930910'
         }
 		,
         {
             title: 'add_data',
             id: '_.g.s10IP.u.yE.eO.p.e4.kD.d8R3.e.g',
             object: '_4.lLHQPWIE.eO7.k.oQK.zK.fA_.w-content.html#_.g.s10IP.u.yE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon-1710930910'
+            icon: 'icon-838521982'
+        }
+		,
+        {
+            title: 'append_data',
+            id: '_8.cH.j.oPWIE.eO7.k.oQK.zK.fA_.w',
+            object: '_4.lLHQPWIE.eO7.k.oQK.zK.fA_.w-content.html#_8.cH.j.oPWIE.eO7.k.oQK.zK.fA_.w',
+            icon: 'icon-838521982'
+        }
+		,
+        {
+            title: 'set_data',
+            id: '__JH.wMP3-E.eOXO7.uNZR.mM.pQ',
+            object: '_4.lLHQPWIE.eO7.k.oQK.zK.fA_.w-content.html#__JH.wMP3-E.eOXO7.uNZR.mM.pQ',
+            icon: 'icon-838521982'
         }
 		,
         {
             title: 'AbstractDataView2D',
             id: '_L2TZ.sPWJE.eO7.k.oQK.zK.fA_.w',
             object: '_L2TZ.sPWJE.eO7.k.oQK.zK.fA_.w-content.html',
-            icon: 'icon151331783',
+            icon: 'icon1644502742',
             children: [
-                {_reference: '_KE.vB.cPZ.lE.eO.y4--P.rP.u9.pA' },
-                {_reference: '_MT.mF.sPZ.lE.eO.y4--P.rP.u9.pA' },
-                {_reference: '_.dCMHUP.u.yE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_.kT.y.s.sP.u.yE.eO.p.e4.kD.d8R3.e.g' },
-                {_reference: '_DNTX.gP.u.zE.eO.p.e4.kD.d8R3.e.g' }
+                {_reference: '_.dCMHUP.u.yE.eO.p.e4.kD.d8R3.e.g' },
+                {_reference: '_MT.mF.sPZ.lE.eO.y4--P.rP.u9.pA' },
+                {_reference: '_4.n.i.tMP44E.eOEPIT9YI_.o.y.g' }
             ]
-        }
-		,
-        {
-            title: '__init__',
-            id: '_KE.vB.cPZ.lE.eO.y4--P.rP.u9.pA',
-            object: '_L2TZ.sPWJE.eO7.k.oQK.zK.fA_.w-content.html#_KE.vB.cPZ.lE.eO.y4--P.rP.u9.pA',
-            icon: 'icon-1710930910',
-            children: [
-                {_reference: '_S.dIP.wPZ.lE.eO.y4--P.rP.u9.pA' },
-                {_reference: '_S.dKE8PZ.lE.eO.y4--P.rP.u9.pA' }
-            ]
-        }
-		,
-        {
-            title: '',
-            id: '_S.dIP.wPZ.lE.eO.y4--P.rP.u9.pA',
-            object: '_S.dIP.wPZ.lE.eO.y4--P.rP.u9.pA-content.html',
-            icon: 'icon1694829448'
-        }
-		,
-        {
-            title: '',
-            id: '_S.dKE8PZ.lE.eO.y4--P.rP.u9.pA',
-            object: '_S.dKE8PZ.lE.eO.y4--P.rP.u9.pA-content.html',
-            icon: 'icon1694829448'
-        }
-		,
-        {
-            title: 'set_data',
-            id: '_MT.mF.sPZ.lE.eO.y4--P.rP.u9.pA',
-            object: '_L2TZ.sPWJE.eO7.k.oQK.zK.fA_.w-content.html#_MT.mF.sPZ.lE.eO.y4--P.rP.u9.pA',
-            icon: 'icon-1710930910'
-        }
-		,
-        {
-            title: 'append_data',
-            id: '_.dCMHUP.u.yE.eO.p.e4.kD.d8R3.e.g',
-            object: '_L2TZ.sPWJE.eO7.k.oQK.zK.fA_.w-content.html#_.dCMHUP.u.yE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon-1710930910'
         }
 		,
         {
             title: 'add_data',
             id: '_.kT.y.s.sP.u.yE.eO.p.e4.kD.d8R3.e.g',
             object: '_L2TZ.sPWJE.eO7.k.oQK.zK.fA_.w-content.html#_.kT.y.s.sP.u.yE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon-1710930910'
+            icon: 'icon-838521982'
         }
 		,
         {
-            title: 'remove_data',
-            id: '_DNTX.gP.u.zE.eO.p.e4.kD.d8R3.e.g',
-            object: '_L2TZ.sPWJE.eO7.k.oQK.zK.fA_.w-content.html#_DNTX.gP.u.zE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon-1710930910'
+            title: 'append_data',
+            id: '_.dCMHUP.u.yE.eO.p.e4.kD.d8R3.e.g',
+            object: '_L2TZ.sPWJE.eO7.k.oQK.zK.fA_.w-content.html#_.dCMHUP.u.yE.eO.p.e4.kD.d8R3.e.g',
+            icon: 'icon-838521982'
+        }
+		,
+        {
+            title: 'set_data',
+            id: '_MT.mF.sPZ.lE.eO.y4--P.rP.u9.pA',
+            object: '_L2TZ.sPWJE.eO7.k.oQK.zK.fA_.w-content.html#_MT.mF.sPZ.lE.eO.y4--P.rP.u9.pA',
+            icon: 'icon-838521982'
+        }
+		,
+        {
+            title: 'add_datum',
+            id: '_4.n.i.tMP44E.eOEPIT9YI_.o.y.g',
+            object: '_L2TZ.sPWJE.eO7.k.oQK.zK.fA_.w-content.html#_4.n.i.tMP44E.eOEPIT9YI_.o.y.g',
+            icon: 'icon-838521982'
         }
 		,
         {
             title: 'Stack1DMessenger',
             id: '_.i.u0C.gPWJE.eO7.k.oQK.zK.fA_.w',
             object: '_.i.u0C.gPWJE.eO7.k.oQK.zK.fA_.w-content.html',
-            icon: 'icon151331783',
+            icon: 'icon1644502742',
             children: [
+                {_reference: '_S5I7EP4.gE.eOEPIT9YI_.o.y.g' },
                 {_reference: '_.h.z.t.y.kPWRE.eO7.k.oQK.zK.fA_.w' },
                 {_reference: '_.h6PRUPWRE.eO7.k.oQK.zK.fA_.w' },
                 {_reference: '_.h-W8UPWRE.eO7.k.oQK.zK.fA_.w' },
@@ -991,55 +1124,62 @@
         }
 		,
         {
+            title: '_view',
+            id: '_S5I7EP4.gE.eOEPIT9YI_.o.y.g',
+            object: '_.i.u0C.gPWJE.eO7.k.oQK.zK.fA_.w-content.html#_S5I7EP4.gE.eOEPIT9YI_.o.y.g',
+            icon: 'icon2063936092'
+        }
+		,
+        {
             title: '__init__',
             id: '_.h.z.t.y.kPWRE.eO7.k.oQK.zK.fA_.w',
             object: '_.i.u0C.gPWJE.eO7.k.oQK.zK.fA_.w-content.html#_.h.z.t.y.kPWRE.eO7.k.oQK.zK.fA_.w',
-            icon: 'icon-1710930910',
+            icon: 'icon-838521982',
             children: [
-                {_reference: '_.j3.d.zA.fWRE.eO7.k.oQK.zK.fA_.w' }
+                {_reference: '_4ZJ_0P4.gE.eOEPIT9YI_.o.y.g' }
             ]
         }
 		,
         {
             title: '',
-            id: '_.j3.d.zA.fWRE.eO7.k.oQK.zK.fA_.w',
-            object: '_.j3.d.zA.fWRE.eO7.k.oQK.zK.fA_.w-content.html',
-            icon: 'icon1694829448'
+            id: '_4ZJ_0P4.gE.eOEPIT9YI_.o.y.g',
+            object: '_4ZJ_0P4.gE.eOEPIT9YI_.o.y.g-content.html',
+            icon: 'icon1392848270'
         }
 		,
         {
             title: 'sl_update_x_offset',
             id: '_.h6PRUPWRE.eO7.k.oQK.zK.fA_.w',
             object: '_.i.u0C.gPWJE.eO7.k.oQK.zK.fA_.w-content.html#_.h6PRUPWRE.eO7.k.oQK.zK.fA_.w',
-            icon: 'icon-1710930910'
+            icon: 'icon-838521982'
         }
 		,
         {
             title: 'sl_update_y_offset',
             id: '_.h-W8UPWRE.eO7.k.oQK.zK.fA_.w',
             object: '_.i.u0C.gPWJE.eO7.k.oQK.zK.fA_.w-content.html#_.h-W8UPWRE.eO7.k.oQK.zK.fA_.w',
-            icon: 'icon-1710930910'
+            icon: 'icon-838521982'
         }
 		,
         {
             title: 'sl_update_autoscaling',
             id: '_.iCO.v.sPWRE.eO7.k.oQK.zK.fA_.w',
             object: '_.i.u0C.gPWJE.eO7.k.oQK.zK.fA_.w-content.html#_.iCO.v.sPWRE.eO7.k.oQK.zK.fA_.w',
-            icon: 'icon-1710930910'
+            icon: 'icon-838521982'
         }
 		,
         {
             title: 'OneDimStackControlWidget',
             id: '_.gN.hYMPWOE.eO7.k.oQK.zK.fA_.w',
             object: '_.gN.hYMPWOE.eO7.k.oQK.zK.fA_.w-content.html',
-            icon: 'icon151331783'
+            icon: 'icon1644502742'
         }
 		,
         {
             title: 'OneDimStackMainWindow',
             id: '_AC.h3YPWOE.eO7.k.oQK.zK.fA_.w',
             object: '_AC.h3YPWOE.eO7.k.oQK.zK.fA_.w-content.html',
-            icon: 'icon151331783',
+            icon: 'icon1644502742',
             children: [
             ]
         }
@@ -1048,20 +1188,56 @@
             title: 'Stack1DView',
             id: '_.p.t6JUPWOE.eO7.k.oQK.zK.fA_.w',
             object: '_.p.t6JUPWOE.eO7.k.oQK.zK.fA_.w-content.html',
-            icon: 'icon151331783',
+            icon: 'icon1644502742',
             children: [
+                {_reference: '_.j.kK.aAP44E.eOEPIT9YI_.o.y.g' },
+                {_reference: '_.k.w.b_4P44E.eOEPIT9YI_.o.y.g' },
+                {_reference: '_.l.j.iQ.wP44E.eOEPIT9YI_.o.y.g' },
                 {_reference: '_.r.w.k.k.oPWOE.eO7.k.oQK.zK.fA_.w' },
                 {_reference: '_.y_R.nAPWOE.eO7.k.oQK.zK.fA_.w' },
                 {_reference: '_.s.fN.zUPWOE.eO7.k.oQK.zK.fA_.w' },
-                {_reference: '_2F.x.d4PWOE.eO7.k.oQK.zK.fA_.w' }
+                {_reference: '_VP.lW.kP43E.eOEPIT9YI_.o.y.g' },
+                {_reference: '_.hC.aEYP43E.eOEPIT9YI_.o.y.g' },
+                {_reference: '_.uR.w.a.kP43E.eOEPIT9YI_.o.y.g' }
             ]
+        }
+		,
+        {
+            title: '_default_horz_offset',
+            id: '_.j.kK.aAP44E.eOEPIT9YI_.o.y.g',
+            object: '_.p.t6JUPWOE.eO7.k.oQK.zK.fA_.w-content.html#_.j.kK.aAP44E.eOEPIT9YI_.o.y.g',
+            icon: 'icon2063936092'
+        }
+		,
+        {
+            title: '_default_vert_offset',
+            id: '_.k.w.b_4P44E.eOEPIT9YI_.o.y.g',
+            object: '_.p.t6JUPWOE.eO7.k.oQK.zK.fA_.w-content.html#_.k.w.b_4P44E.eOEPIT9YI_.o.y.g',
+            icon: 'icon2063936092'
+        }
+		,
+        {
+            title: '_default_autoscale',
+            id: '_.l.j.iQ.wP44E.eOEPIT9YI_.o.y.g',
+            object: '_.p.t6JUPWOE.eO7.k.oQK.zK.fA_.w-content.html#_.l.j.iQ.wP44E.eOEPIT9YI_.o.y.g',
+            icon: 'icon2063936092',
+            children: [
+                {_reference: '_.mK7.n8P44E.eOEPIT9YI_.o.y.g' }
+            ]
+        }
+		,
+        {
+            title: '',
+            id: '_.mK7.n8P44E.eOEPIT9YI_.o.y.g',
+            object: '_.mK7.n8P44E.eOEPIT9YI_.o.y.g-content.html',
+            icon: 'icon1392848270'
         }
 		,
         {
             title: '__init__',
             id: '_.r.w.k.k.oPWOE.eO7.k.oQK.zK.fA_.w',
             object: '_.p.t6JUPWOE.eO7.k.oQK.zK.fA_.w-content.html#_.r.w.k.k.oPWOE.eO7.k.oQK.zK.fA_.w',
-            icon: 'icon-1710930910',
+            icon: 'icon-838521982',
             children: [
                 {_reference: '_.vFJT.wPWOE.eO7.k.oQK.zK.fA_.w' },
                 {_reference: '_.vFJ60PWOE.eO7.k.oQK.zK.fA_.w' }
@@ -1072,42 +1248,56 @@
             title: '',
             id: '_.vFJT.wPWOE.eO7.k.oQK.zK.fA_.w',
             object: '_.vFJT.wPWOE.eO7.k.oQK.zK.fA_.w-content.html',
-            icon: 'icon1694829448'
+            icon: 'icon1392848270'
         }
 		,
         {
             title: '',
             id: '_.vFJ60PWOE.eO7.k.oQK.zK.fA_.w',
             object: '_.vFJ60PWOE.eO7.k.oQK.zK.fA_.w-content.html',
-            icon: 'icon1694829448'
+            icon: 'icon1392848270'
         }
 		,
         {
             title: 'set_horz_offset',
             id: '_.y_R.nAPWOE.eO7.k.oQK.zK.fA_.w',
             object: '_.p.t6JUPWOE.eO7.k.oQK.zK.fA_.w-content.html#_.y_R.nAPWOE.eO7.k.oQK.zK.fA_.w',
-            icon: 'icon-1710930910'
+            icon: 'icon-838521982'
         }
 		,
         {
             title: 'set_vert_offset',
             id: '_.s.fN.zUPWOE.eO7.k.oQK.zK.fA_.w',
             object: '_.p.t6JUPWOE.eO7.k.oQK.zK.fA_.w-content.html#_.s.fN.zUPWOE.eO7.k.oQK.zK.fA_.w',
-            icon: 'icon-1710930910'
+            icon: 'icon-838521982'
+        }
+		,
+        {
+            title: 'set_auto_scale',
+            id: '_VP.lW.kP43E.eOEPIT9YI_.o.y.g',
+            object: '_.p.t6JUPWOE.eO7.k.oQK.zK.fA_.w-content.html#_VP.lW.kP43E.eOEPIT9YI_.o.y.g',
+            icon: 'icon-838521982'
         }
 		,
         {
             title: 'replot',
-            id: '_2F.x.d4PWOE.eO7.k.oQK.zK.fA_.w',
-            object: '_.p.t6JUPWOE.eO7.k.oQK.zK.fA_.w-content.html#_2F.x.d4PWOE.eO7.k.oQK.zK.fA_.w',
-            icon: 'icon-1710930910'
+            id: '_.hC.aEYP43E.eOEPIT9YI_.o.y.g',
+            object: '_.p.t6JUPWOE.eO7.k.oQK.zK.fA_.w-content.html#_.hC.aEYP43E.eOEPIT9YI_.o.y.g',
+            icon: 'icon-838521982'
+        }
+		,
+        {
+            title: 'find_range',
+            id: '_.uR.w.a.kP43E.eOEPIT9YI_.o.y.g',
+            object: '_.p.t6JUPWOE.eO7.k.oQK.zK.fA_.w-content.html#_.uR.w.a.kP43E.eOEPIT9YI_.o.y.g',
+            icon: 'icon-838521982'
         }
 		,
         {
             title: 'VIS: 1D',
             id: '_NM_B.gPD.jE.eOTAK2HB2.e.f.nA',
             object: '_NM_B.gPD.jE.eOTAK2HB2.e.f.nA-content.html',
-            icon: 'icon1845831814',
+            icon: 'icon-234542445',
             children: [
             ]
         }
@@ -1116,21 +1306,21 @@
             title: 'VIS: 2D Stack',
             id: '_K.h.v_.wPD.iE.eOTAK2HB2.e.f.nA',
             object: '_K.h.v_.wPD.iE.eOTAK2HB2.e.f.nA-content.html',
-            icon: 'icon1845831814'
+            icon: 'icon-234542445'
         }
 		,
         {
             title: 'VIS: 3D Stack',
             id: '_I.q.f.jMPD.iE.eOTAK2HB2.e.f.nA',
             object: '_I.q.f.jMPD.iE.eOTAK2HB2.e.f.nA-content.html',
-            icon: 'icon1845831814'
+            icon: 'icon-234542445'
         }
 		,
         {
             title: 'VTKDisplayWidget',
             id: '_R.f4RQOLFE.eODPYE.z606T.b.w',
             object: '_R.f4RQOLFE.eODPYE.z606T.b.w-content.html',
-            icon: 'icon151331783',
+            icon: 'icon1644502742',
             children: [
             ]
         }
@@ -1139,7 +1329,7 @@
             title: 'ControlWidget',
             id: '_AL_.kEOLEE.eODPYE.z606T.b.w',
             object: '_AL_.kEOLEE.eODPYE.z606T.b.w-content.html',
-            icon: 'icon151331783',
+            icon: 'icon1644502742',
             children: [
                 {_reference: '_.m.dFO.gOLGE.eODPYE.z606T.b.w' },
                 {_reference: '_.a.oSEMPY.hE.eOV.nI.rG-.v.q7.gQ' },
@@ -1154,28 +1344,28 @@
             title: 'viewWidget',
             id: '_.m.dFO.gOLGE.eODPYE.z606T.b.w',
             object: '_AL_.kEOLEE.eODPYE.z606T.b.w-content.html#_.m.dFO.gOLGE.eODPYE.z606T.b.w',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: '_widgets',
             id: '_.a.oSEMPY.hE.eOV.nI.rG-.v.q7.gQ',
             object: '_AL_.kEOLEE.eODPYE.z606T.b.w-content.html#_.a.oSEMPY.hE.eOV.nI.rG-.v.q7.gQ',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: '_signals',
             id: '_L3H.rEPY.jE.eOV.nI.rG-.v.q7.gQ',
             object: '_AL_.kEOLEE.eODPYE.z606T.b.w-content.html#_L3H.rEPY.jE.eOV.nI.rG-.v.q7.gQ',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: 'add_spinbox',
             id: '_.hD.c.w0PY.hE.eOV.nI.rG-.v.q7.gQ',
             object: '_AL_.kEOLEE.eODPYE.z606T.b.w-content.html#_.hD.c.w0PY.hE.eOV.nI.rG-.v.q7.gQ',
-            icon: 'icon-1710930910',
+            icon: 'icon-838521982',
             children: [
                 {_reference: '_.kH.yE.gPY.hE.eOV.nI.rG-.v.q7.gQ' }
             ]
@@ -1185,28 +1375,28 @@
             title: '',
             id: '_.kH.yE.gPY.hE.eOV.nI.rG-.v.q7.gQ',
             object: '_.kH.yE.gPY.hE.eOV.nI.rG-.v.q7.gQ-content.html',
-            icon: 'icon1694829448'
+            icon: 'icon1392848270'
         }
 		,
         {
             title: 'add_checkbox',
             id: '_.mZ.z.x.gPY.hE.eOV.nI.rG-.v.q7.gQ',
             object: '_AL_.kEOLEE.eODPYE.z606T.b.w-content.html#_.mZ.z.x.gPY.hE.eOV.nI.rG-.v.q7.gQ',
-            icon: 'icon-1710930910'
+            icon: 'icon-838521982'
         }
 		,
         {
             title: 'add_widget',
             id: '_.oRM.w8PY.hE.eOV.nI.rG-.v.q7.gQ',
             object: '_AL_.kEOLEE.eODPYE.z606T.b.w-content.html#_.oRM.w8PY.hE.eOV.nI.rG-.v.q7.gQ',
-            icon: 'icon-1710930910'
+            icon: 'icon-838521982'
         }
 		,
         {
             title: 'MatplotlibWidget',
             id: '_-.u43.cOLEE.eODPYE.z606T.b.w',
             object: '_-.u43.cOLEE.eODPYE.z606T.b.w-content.html',
-            icon: 'icon151331783',
+            icon: 'icon1644502742',
             children: [
             ]
         }
@@ -1215,7 +1405,7 @@
             title: 'NSLS2Widget',
             id: '_.s.y.cV.cOLDE.eODPYE.z606T.b.w',
             object: '_.s.y.cV.cOLDE.eODPYE.z606T.b.w-content.html',
-            icon: 'icon151331783',
+            icon: 'icon1644502742',
             children: [
                 {_reference: '_L.e8.fAOLEE.eODPYE.z606T.b.w' },
                 {_reference: '_CT3R8PD.aE.eO2.f.tSKF.b4W.oQ' },
@@ -1223,6 +1413,7 @@
                 {_reference: '_5TSI.cPW.eE.eO7.k.oQK.zK.fA_.w' },
                 {_reference: '_.n.sIZ.sPJ.rE.eO.fB.a.l87FZL.v.g' },
                 {_reference: '_IX.q.eQP1NE.eO.p.e4.kD.d8R3.e.g' },
+                {_reference: '_RM-3EP4.nE.eOEPIT9YI_.o.y.g' },
                 {_reference: '_.nTA6.wPDZE.eO2.f.tSKF.b4W.oQ' },
                 {_reference: '_.nY2.dAPDZE.eO2.f.tSKF.b4W.oQ' }
             ]
@@ -1232,56 +1423,63 @@
             title: 'view_widget',
             id: '_L.e8.fAOLEE.eODPYE.z606T.b.w',
             object: '_.s.y.cV.cOLDE.eODPYE.z606T.b.w-content.html#_L.e8.fAOLEE.eODPYE.z606T.b.w',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: 'sig_data_changed',
             id: '_CT3R8PD.aE.eO2.f.tSKF.b4W.oQ',
             object: '_.s.y.cV.cOLDE.eODPYE.z606T.b.w-content.html#_CT3R8PD.aE.eO2.f.tSKF.b4W.oQ',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: '_ctrl',
             id: '_.v.r.dS.kPW.eE.eO7.k.oQK.zK.fA_.w',
             object: '_.s.y.cV.cOLDE.eODPYE.z606T.b.w-content.html#_.v.r.dS.kPW.eE.eO7.k.oQK.zK.fA_.w',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: '_disp',
             id: '_5TSI.cPW.eE.eO7.k.oQK.zK.fA_.w',
             object: '_.s.y.cV.cOLDE.eODPYE.z606T.b.w-content.html#_5TSI.cPW.eE.eO7.k.oQK.zK.fA_.w',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: 'figureCanvas',
             id: '_.n.sIZ.sPJ.rE.eO.fB.a.l87FZL.v.g',
             object: '_.s.y.cV.cOLDE.eODPYE.z606T.b.w-content.html#_.n.sIZ.sPJ.rE.eO.fB.a.l87FZL.v.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: 'controlWidgetBucket',
             id: '_IX.q.eQP1NE.eO.p.e4.kD.d8R3.e.g',
             object: '_.s.y.cV.cOLDE.eODPYE.z606T.b.w-content.html#_IX.q.eQP1NE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
+        }
+		,
+        {
+            title: '_messenger',
+            id: '_RM-3EP4.nE.eOEPIT9YI_.o.y.g',
+            object: '_.s.y.cV.cOLDE.eODPYE.z606T.b.w-content.html#_RM-3EP4.nE.eOEPIT9YI_.o.y.g',
+            icon: 'icon2063936092'
         }
 		,
         {
             title: 'set_data',
             id: '_.nTA6.wPDZE.eO2.f.tSKF.b4W.oQ',
             object: '_.s.y.cV.cOLDE.eODPYE.z606T.b.w-content.html#_.nTA6.wPDZE.eO2.f.tSKF.b4W.oQ',
-            icon: 'icon-1710930910'
+            icon: 'icon-838521982'
         }
 		,
         {
             title: '__init__',
             id: '_.nY2.dAPDZE.eO2.f.tSKF.b4W.oQ',
             object: '_.s.y.cV.cOLDE.eODPYE.z606T.b.w-content.html#_.nY2.dAPDZE.eO2.f.tSKF.b4W.oQ',
-            icon: 'icon-1710930910',
+            icon: 'icon-838521982',
             children: [
                 {_reference: '_.gS.q-.sPY.iE.eOV.nI.rG-.v.q7.gQ' },
                 {_reference: '_.gS.r.l.w.fY.iE.eOV.nI.rG-.v.q7.gQ' },
@@ -1293,28 +1491,28 @@
             title: '',
             id: '_.gS.q-.sPY.iE.eOV.nI.rG-.v.q7.gQ',
             object: '_.gS.q-.sPY.iE.eOV.nI.rG-.v.q7.gQ-content.html',
-            icon: 'icon1694829448'
+            icon: 'icon1392848270'
         }
 		,
         {
             title: '',
             id: '_.gS.r.l.w.fY.iE.eOV.nI.rG-.v.q7.gQ',
             object: '_.gS.r.l.w.fY.iE.eOV.nI.rG-.v.q7.gQ-content.html',
-            icon: 'icon1694829448'
+            icon: 'icon1392848270'
         }
 		,
         {
             title: '',
             id: '_3O90.wP1IE.eO.p.e4.kD.d8R3.e.g',
             object: '_3O90.wP1IE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon1694829448'
+            icon: 'icon1392848270'
         }
 		,
         {
             title: 'OneDimStackWidget',
             id: '_.z70E.gOLGE.eODPYE.z606T.b.w',
             object: '_.z70E.gOLGE.eODPYE.z606T.b.w-content.html',
-            icon: 'icon151331783',
+            icon: 'icon1644502742',
             children: [
                 {_reference: '_9.m.m.a4PZ.mE.eO.y4--P.rP.u9.pA' },
                 {_reference: '_.uY.cBIPD.gE.eOTAK2HB2.e.f.nA' }
@@ -1325,14 +1523,14 @@
             title: '_canvas',
             id: '_9.m.m.a4PZ.mE.eO.y4--P.rP.u9.pA',
             object: '_.z70E.gOLGE.eODPYE.z606T.b.w-content.html#_9.m.m.a4PZ.mE.eO.y4--P.rP.u9.pA',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: '__init__',
             id: '_.uY.cBIPD.gE.eOTAK2HB2.e.f.nA',
             object: '_.z70E.gOLGE.eODPYE.z606T.b.w-content.html#_.uY.cBIPD.gE.eOTAK2HB2.e.f.nA',
-            icon: 'icon-1710930910',
+            icon: 'icon-838521982',
             children: [
                 {_reference: '_5.j7.cQPWNE.eO7.k.oQK.zK.fA_.w' }
             ]
@@ -1342,14 +1540,14 @@
             title: '',
             id: '_5.j7.cQPWNE.eO7.k.oQK.zK.fA_.w',
             object: '_5.j7.cQPWNE.eO7.k.oQK.zK.fA_.w-content.html',
-            icon: 'icon1694829448'
+            icon: 'icon1392848270'
         }
 		,
         {
             title: 'Plot2D',
             id: '_.hR.m.oIOLGE.eODPYE.z606T.b.w',
             object: '_.hR.m.oIOLGE.eODPYE.z606T.b.w-content.html',
-            icon: 'icon151331783',
+            icon: 'icon1644502742',
             children: [
             ]
         }
@@ -1358,7 +1556,7 @@
             title: 'Plot3D',
             id: '_.x.f.tD4OLFE.eODPYE.z606T.b.w',
             object: '_.x.f.tD4OLFE.eODPYE.z606T.b.w-content.html',
-            icon: 'icon151331783',
+            icon: 'icon1644502742',
             children: [
             ]
         }
@@ -1367,7 +1565,7 @@
             title: 'PublicationQualityPlots',
             id: '_N.wWE.cOLFE.eODPYE.z606T.b.w',
             object: '_N.wWE.cOLFE.eODPYE.z606T.b.w-content.html',
-            icon: 'icon151331783',
+            icon: 'icon1644502742',
             children: [
             ]
         }
@@ -1376,11 +1574,9 @@
             title: 'AbstractROIOverlay',
             id: '_1F.g.s8OLFE.eODPYE.z606T.b.w',
             object: '_1F.g.s8OLFE.eODPYE.z606T.b.w-content.html',
-            icon: 'icon151331783',
+            icon: 'icon1644502742',
             children: [
-                {_reference: '_.n.q.lQ.wPD.aE.eO2.f.tSKF.b4W.oQ' },
-                {_reference: '_.cL.o.dAPD.hE.eOTAK2HB2.e.f.nA' },
-                {_reference: '_9O.lNYOL.nE.eO3.zNO.u.s.dT.lYA' }
+                {_reference: '_.n.q.lQ.wPD.aE.eO2.f.tSKF.b4W.oQ' }
             ]
         }
 		,
@@ -1388,28 +1584,14 @@
             title: 'mpl_widget',
             id: '_.n.q.lQ.wPD.aE.eO2.f.tSKF.b4W.oQ',
             object: '_1F.g.s8OLFE.eODPYE.z606T.b.w-content.html#_.n.q.lQ.wPD.aE.eO2.f.tSKF.b4W.oQ',
-            icon: 'icon470099028'
-        }
-		,
-        {
-            title: 'sig_ROI_changedI',
-            id: '_.cL.o.dAPD.hE.eOTAK2HB2.e.f.nA',
-            object: '_1F.g.s8OLFE.eODPYE.z606T.b.w-content.html#_.cL.o.dAPD.hE.eOTAK2HB2.e.f.nA',
-            icon: 'icon470099028'
-        }
-		,
-        {
-            title: 'show_overlay',
-            id: '_9O.lNYOL.nE.eO3.zNO.u.s.dT.lYA',
-            object: '_1F.g.s8OLFE.eODPYE.z606T.b.w-content.html#_9O.lNYOL.nE.eO3.zNO.u.s.dT.lYA',
-            icon: 'icon-1710930910'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: 'StackScannerWidget',
             id: '_38EDUOLFE.eODPYE.z606T.b.w',
             object: '_38EDUOLFE.eODPYE.z606T.b.w-content.html',
-            icon: 'icon151331783',
+            icon: 'icon1644502742',
             children: [
                 {_reference: '_N.sCO.oPD.bE.eO2.f.tSKF.b4W.oQ' },
                 {_reference: '_C3AHEOL.rE.eO3.zNO.u.s.dT.lYA' },
@@ -1431,14 +1613,14 @@
             title: 'canvas',
             id: '_N.sCO.oPD.bE.eO2.f.tSKF.b4W.oQ',
             object: '_38EDUOLFE.eODPYE.z606T.b.w-content.html#_N.sCO.oPD.bE.eO2.f.tSKF.b4W.oQ',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: '__init__',
             id: '_C3AHEOL.rE.eO3.zNO.u.s.dT.lYA',
             object: '_38EDUOLFE.eODPYE.z606T.b.w-content.html#_C3AHEOL.rE.eO3.zNO.u.s.dT.lYA',
-            icon: 'icon-1710930910',
+            icon: 'icon-838521982',
             children: [
                 {_reference: '_.y9Y.a.sPD.aE.eO2.f.tSKF.b4W.oQ' }
             ]
@@ -1448,91 +1630,91 @@
             title: '',
             id: '_.y9Y.a.sPD.aE.eO2.f.tSKF.b4W.oQ',
             object: '_.y9Y.a.sPD.aE.eO2.f.tSKF.b4W.oQ-content.html',
-            icon: 'icon1694829448'
+            icon: 'icon1392848270'
         }
 		,
         {
             title: 'set_normalization',
             id: '_.z.k.v8.sPD.aE.eO2.f.tSKF.b4W.oQ',
             object: '_38EDUOLFE.eODPYE.z606T.b.w-content.html#_.z.k.v8.sPD.aE.eO2.f.tSKF.b4W.oQ',
-            icon: 'icon-1710930910'
+            icon: 'icon-838521982'
         }
 		,
         {
             title: 'set_image_intensity_behavior',
             id: '_.z.n.kAIPD.aE.eO2.f.tSKF.b4W.oQ',
             object: '_38EDUOLFE.eODPYE.z606T.b.w-content.html#_.z.n.kAIPD.aE.eO2.f.tSKF.b4W.oQ',
-            icon: 'icon-1710930910'
+            icon: 'icon-838521982'
         }
 		,
         {
             title: 'spinbox_enabler',
             id: '_.z.pTF.gPD.aE.eO2.f.tSKF.b4W.oQ',
             object: '_38EDUOLFE.eODPYE.z606T.b.w-content.html#_.z.pTF.gPD.aE.eO2.f.tSKF.b4W.oQ',
-            icon: 'icon-1710930910'
+            icon: 'icon-838521982'
         }
 		,
         {
             title: 'no_limit_config',
             id: '_.z.rF1QPD.aE.eO2.f.tSKF.b4W.oQ',
             object: '_38EDUOLFE.eODPYE.z606T.b.w-content.html#_.z.rF1QPD.aE.eO2.f.tSKF.b4W.oQ',
-            icon: 'icon-1710930910'
+            icon: 'icon-838521982'
         }
 		,
         {
             title: 'percentile_config',
             id: '_.z.s.r.w.sPD.aE.eO2.f.tSKF.b4W.oQ',
             object: '_38EDUOLFE.eODPYE.z606T.b.w-content.html#_.z.s.r.w.sPD.aE.eO2.f.tSKF.b4W.oQ',
-            icon: 'icon-1710930910'
+            icon: 'icon-838521982'
         }
 		,
         {
             title: 'absolute_limit_config',
             id: '_.z.uM.z.oPD.aE.eO2.f.tSKF.b4W.oQ',
             object: '_38EDUOLFE.eODPYE.z606T.b.w-content.html#_.z.uM.z.oPD.aE.eO2.f.tSKF.b4W.oQ',
-            icon: 'icon-1710930910'
+            icon: 'icon-838521982'
         }
 		,
         {
             title: 'set_spinbox_limits',
             id: '_D.k4Y.cPD.bE.eO2.f.tSKF.b4W.oQ',
             object: '_38EDUOLFE.eODPYE.z606T.b.w-content.html#_D.k4Y.cPD.bE.eO2.f.tSKF.b4W.oQ',
-            icon: 'icon-1710930910'
+            icon: 'icon-838521982'
         }
 		,
         {
             title: 'set_intensity_step',
             id: '_D.m.w.n.wPD.bE.eO2.f.tSKF.b4W.oQ',
             object: '_38EDUOLFE.eODPYE.z606T.b.w-content.html#_D.m.w.n.wPD.bE.eO2.f.tSKF.b4W.oQ',
-            icon: 'icon-1710930910'
+            icon: 'icon-838521982'
         }
 		,
         {
             title: 'set_min_intensity_limit',
             id: '_D.o.dQ4PD.bE.eO2.f.tSKF.b4W.oQ',
             object: '_38EDUOLFE.eODPYE.z606T.b.w-content.html#_D.o.dQ4PD.bE.eO2.f.tSKF.b4W.oQ',
-            icon: 'icon-1710930910'
+            icon: 'icon-838521982'
         }
 		,
         {
             title: 'set_max_intensity_limit',
             id: '_D.qO.y.gPD.bE.eO2.f.tSKF.b4W.oQ',
             object: '_38EDUOLFE.eODPYE.z606T.b.w-content.html#_D.qO.y.gPD.bE.eO2.f.tSKF.b4W.oQ',
-            icon: 'icon-1710930910'
+            icon: 'icon-838521982'
         }
 		,
         {
             title: 'set_limits',
             id: '_D.xGP.gPD.bE.eO2.f.tSKF.b4W.oQ',
             object: '_38EDUOLFE.eODPYE.z606T.b.w-content.html#_D.xGP.gPD.bE.eO2.f.tSKF.b4W.oQ',
-            icon: 'icon-1710930910'
+            icon: 'icon-838521982'
         }
 		,
         {
             title: 'MPLDisplayWidget',
             id: '_I.z.rL.kOLEE.eODPYE.z606T.b.w',
             object: '_I.z.rL.kOLEE.eODPYE.z606T.b.w-content.html',
-            icon: 'icon151331783',
+            icon: 'icon1644502742',
             children: [
                 {_reference: '_.m.dK.uEOLGE.eODPYE.z606T.b.w' },
                 {_reference: '_VNOD.wPW.fE.eO7.k.oQK.zK.fA_.w' },
@@ -1544,28 +1726,38 @@
             title: 'controlWidget',
             id: '_.m.dK.uEOLGE.eODPYE.z606T.b.w',
             object: '_I.z.rL.kOLEE.eODPYE.z606T.b.w-content.html#_.m.dK.uEOLGE.eODPYE.z606T.b.w',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: '_figure',
             id: '_VNOD.wPW.fE.eO7.k.oQK.zK.fA_.w',
             object: '_I.z.rL.kOLEE.eODPYE.z606T.b.w-content.html#_VNOD.wPW.fE.eO7.k.oQK.zK.fA_.w',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: '__init__',
             id: '_D.lXREP1GE.eO.p.e4.kD.d8R3.e.g',
             object: '_I.z.rL.kOLEE.eODPYE.z606T.b.w-content.html#_D.lXREP1GE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon-1710930910'
+            icon: 'icon-838521982',
+            children: [
+                {_reference: '_.gF.lU8.f4.lE.eOEPIT9YI_.o.y.g' }
+            ]
+        }
+		,
+        {
+            title: '',
+            id: '_.gF.lU8.f4.lE.eOEPIT9YI_.o.y.g',
+            object: '_.gF.lU8.f4.lE.eOEPIT9YI_.o.y.g-content.html',
+            icon: 'icon1392848270'
         }
 		,
         {
             title: '',
             id: '_L.e.zVEOLEE.eODPYE.z606T.b.w',
             object: '_L.e.zVEOLEE.eODPYE.z606T.b.w-content.html',
-            icon: 'icon1409622367',
+            icon: 'icon453323247',
             children: [
                 {_reference: '_L.fRPIOLEE.eODPYE.z606T.b.w' }
             ]
@@ -1575,28 +1767,28 @@
             title: '',
             id: '_L.fRPIOLEE.eODPYE.z606T.b.w',
             object: '_L.e.zVEOLEE.eODPYE.z606T.b.w-content.html#_L.fRPIOLEE.eODPYE.z606T.b.w',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: '',
             id: '_.m.dCLMOLGE.eODPYE.z606T.b.w',
             object: '_.m.dCLMOLGE.eODPYE.z606T.b.w-content.html',
-            icon: 'icon-1660611489'
+            icon: 'icon-1090176878'
         }
 		,
         {
             title: '',
             id: '_.n.q.i0.gPD.aE.eO2.f.tSKF.b4W.oQ',
             object: '_.n.q.i0.gPD.aE.eO2.f.tSKF.b4W.oQ-content.html',
-            icon: 'icon1409622367'
+            icon: 'icon453323247'
         }
 		,
         {
             title: 'CrossSectionCanvas',
             id: '_L.x2Z4PD.bE.eO2.f.tSKF.b4W.oQ',
             object: '_L.x2Z4PD.bE.eO2.f.tSKF.b4W.oQ-content.html',
-            icon: 'icon151331783',
+            icon: 'icon1644502742',
             children: [
                 {_reference: '_.e.x.sIAPD.bE.eO2.f.tSKF.b4W.oQ' },
                 {_reference: '_R3I9IPD.bE.eO2.f.tSKF.b4W.oQ' },
@@ -1613,14 +1805,14 @@
             title: 'viewer',
             id: '_.e.x.sIAPD.bE.eO2.f.tSKF.b4W.oQ',
             object: '_L.x2Z4PD.bE.eO2.f.tSKF.b4W.oQ-content.html#_.e.x.sIAPD.bE.eO2.f.tSKF.b4W.oQ',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: '__init__',
             id: '_R3I9IPD.bE.eO2.f.tSKF.b4W.oQ',
             object: '_L.x2Z4PD.bE.eO2.f.tSKF.b4W.oQ-content.html#_R3I9IPD.bE.eO2.f.tSKF.b4W.oQ',
-            icon: 'icon-1710930910',
+            icon: 'icon-838521982',
             children: [
                 {_reference: '_T.q.s.l.c.fD.bE.eO2.f.tSKF.b4W.oQ' }
             ]
@@ -1630,56 +1822,56 @@
             title: '',
             id: '_T.q.s.l.c.fD.bE.eO2.f.tSKF.b4W.oQ',
             object: '_T.q.s.l.c.fD.bE.eO2.f.tSKF.b4W.oQ-content.html',
-            icon: 'icon1694829448'
+            icon: 'icon1392848270'
         }
 		,
         {
             title: 'sl_update_colormap',
             id: '_R487APD.bE.eO2.f.tSKF.b4W.oQ',
             object: '_L.x2Z4PD.bE.eO2.f.tSKF.b4W.oQ-content.html#_R487APD.bE.eO2.f.tSKF.b4W.oQ',
-            icon: 'icon-1710930910'
+            icon: 'icon-838521982'
         }
 		,
         {
             title: 'sl_update_image',
             id: '_R7P.aAPD.bE.eO2.f.tSKF.b4W.oQ',
             object: '_L.x2Z4PD.bE.eO2.f.tSKF.b4W.oQ-content.html#_R7P.aAPD.bE.eO2.f.tSKF.b4W.oQ',
-            icon: 'icon-1710930910'
+            icon: 'icon-838521982'
         }
 		,
         {
             title: 'sl_replace_image',
             id: '_SAKWQPD.bE.eO2.f.tSKF.b4W.oQ',
             object: '_L.x2Z4PD.bE.eO2.f.tSKF.b4W.oQ-content.html#_SAKWQPD.bE.eO2.f.tSKF.b4W.oQ',
-            icon: 'icon-1710930910'
+            icon: 'icon-838521982'
         }
 		,
         {
             title: 'sl_update_norm',
             id: '_SC.t7APD.bE.eO2.f.tSKF.b4W.oQ',
             object: '_L.x2Z4PD.bE.eO2.f.tSKF.b4W.oQ-content.html#_SC.t7APD.bE.eO2.f.tSKF.b4W.oQ',
-            icon: 'icon-1710930910'
+            icon: 'icon-838521982'
         }
 		,
         {
             title: 'sl_update_limit_func',
             id: '_SE6TYPD.bE.eO2.f.tSKF.b4W.oQ',
             object: '_L.x2Z4PD.bE.eO2.f.tSKF.b4W.oQ-content.html#_SE6TYPD.bE.eO2.f.tSKF.b4W.oQ',
-            icon: 'icon-1710930910'
+            icon: 'icon-838521982'
         }
 		,
         {
             title: 'sl_update_color_limits',
             id: '_.b59F4PD.bE.eO2.f.tSKF.b4W.oQ',
             object: '_L.x2Z4PD.bE.eO2.f.tSKF.b4W.oQ-content.html#_.b59F4PD.bE.eO2.f.tSKF.b4W.oQ',
-            icon: 'icon-1710930910'
+            icon: 'icon-838521982'
         }
 		,
         {
             title: '',
             id: '_N.sBA.gPD.bE.eO2.f.tSKF.b4W.oQ',
             object: '_N.sBA.gPD.bE.eO2.f.tSKF.b4W.oQ-content.html',
-            icon: 'icon1409622367',
+            icon: 'icon453323247',
             children: [
                 {_reference: '_N.sE.q4PD.bE.eO2.f.tSKF.b4W.oQ' }
             ]
@@ -1689,14 +1881,14 @@
             title: '',
             id: '_N.sE.q4PD.bE.eO2.f.tSKF.b4W.oQ',
             object: '_N.sBA.gPD.bE.eO2.f.tSKF.b4W.oQ-content.html#_N.sE.q4PD.bE.eO2.f.tSKF.b4W.oQ',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: 'CrossSectionViewer',
             id: '_.d.n.v.dYPD.bE.eO2.f.tSKF.b4W.oQ',
             object: '_.d.n.v.dYPD.bE.eO2.f.tSKF.b4W.oQ-content.html',
-            icon: 'icon151331783',
+            icon: 'icon1644502742',
             children: [
                 {_reference: '_.gX5Q0PD.bE.eO2.f.tSKF.b4W.oQ' },
                 {_reference: '_.hAPDMPD.bE.eO2.f.tSKF.b4W.oQ' },
@@ -1711,7 +1903,7 @@
             title: '__init__',
             id: '_.gX5Q0PD.bE.eO2.f.tSKF.b4W.oQ',
             object: '_.d.n.v.dYPD.bE.eO2.f.tSKF.b4W.oQ-content.html#_.gX5Q0PD.bE.eO2.f.tSKF.b4W.oQ',
-            icon: 'icon-1710930910',
+            icon: 'icon-838521982',
             children: [
                 {_reference: '_.j.j-LQPD.bE.eO2.f.tSKF.b4W.oQ' },
                 {_reference: '_.j.j-LQ.vD.bE.eO2.f.tSKF.b4W.oQ' },
@@ -1724,56 +1916,56 @@
             title: '',
             id: '_.j.j-LQPD.bE.eO2.f.tSKF.b4W.oQ',
             object: '_.j.j-LQPD.bE.eO2.f.tSKF.b4W.oQ-content.html',
-            icon: 'icon1694829448'
+            icon: 'icon1392848270'
         }
 		,
         {
             title: '',
             id: '_.j.j-LQ.vD.bE.eO2.f.tSKF.b4W.oQ',
             object: '_.j.j-LQ.vD.bE.eO2.f.tSKF.b4W.oQ-content.html',
-            icon: 'icon1694829448'
+            icon: 'icon1392848270'
         }
 		,
         {
             title: '',
             id: '_.j.j-.yU.fD.bE.eO2.f.tSKF.b4W.oQ',
             object: '_.j.j-.yU.fD.bE.eO2.f.tSKF.b4W.oQ-content.html',
-            icon: 'icon1694829448'
+            icon: 'icon1392848270'
         }
 		,
         {
             title: '',
             id: '_.j.j_ZYPD.bE.eO2.f.tSKF.b4W.oQ',
             object: '_.j.j_ZYPD.bE.eO2.f.tSKF.b4W.oQ-content.html',
-            icon: 'icon1694829448'
+            icon: 'icon1392848270'
         }
 		,
         {
             title: 'update_image',
             id: '_.hAPDMPD.bE.eO2.f.tSKF.b4W.oQ',
             object: '_.d.n.v.dYPD.bE.eO2.f.tSKF.b4W.oQ-content.html#_.hAPDMPD.bE.eO2.f.tSKF.b4W.oQ',
-            icon: 'icon-1710930910'
+            icon: 'icon-838521982'
         }
 		,
         {
             title: 'update_colormap',
             id: '_.hQNY4PD.bE.eO2.f.tSKF.b4W.oQ',
             object: '_.d.n.v.dYPD.bE.eO2.f.tSKF.b4W.oQ-content.html#_.hQNY4PD.bE.eO2.f.tSKF.b4W.oQ',
-            icon: 'icon-1710930910'
+            icon: 'icon-838521982'
         }
 		,
         {
             title: 'update_norm',
             id: '_.hVH.uEPD.bE.eO2.f.tSKF.b4W.oQ',
             object: '_.d.n.v.dYPD.bE.eO2.f.tSKF.b4W.oQ-content.html#_.hVH.uEPD.bE.eO2.f.tSKF.b4W.oQ',
-            icon: 'icon-1710930910'
+            icon: 'icon-838521982'
         }
 		,
         {
             title: 'update_color_limits',
             id: '_.hYPT.gPD.bE.eO2.f.tSKF.b4W.oQ',
             object: '_.d.n.v.dYPD.bE.eO2.f.tSKF.b4W.oQ-content.html#_.hYPT.gPD.bE.eO2.f.tSKF.b4W.oQ',
-            icon: 'icon-1710930910',
+            icon: 'icon-838521982',
             children: [
                 {_reference: '_.r.f-Y.gPD.bE.eO2.f.tSKF.b4W.oQ' }
             ]
@@ -1783,21 +1975,21 @@
             title: '',
             id: '_.r.f-Y.gPD.bE.eO2.f.tSKF.b4W.oQ',
             object: '_.r.f-Y.gPD.bE.eO2.f.tSKF.b4W.oQ-content.html',
-            icon: 'icon1694829448'
+            icon: 'icon1392848270'
         }
 		,
         {
             title: 'set_limit_func',
             id: '_.h.c6YIPD.bE.eO2.f.tSKF.b4W.oQ',
             object: '_.d.n.v.dYPD.bE.eO2.f.tSKF.b4W.oQ-content.html#_.h.c6YIPD.bE.eO2.f.tSKF.b4W.oQ',
-            icon: 'icon-1710930910'
+            icon: 'icon-838521982'
         }
 		,
         {
             title: '',
             id: '_.e.x.q54PD.bE.eO2.f.tSKF.b4W.oQ',
             object: '_.e.x.q54PD.bE.eO2.f.tSKF.b4W.oQ-content.html',
-            icon: 'icon1409622367',
+            icon: 'icon453323247',
             children: [
                 {_reference: '_.e.x.u.kQPD.bE.eO2.f.tSKF.b4W.oQ' }
             ]
@@ -1807,14 +1999,14 @@
             title: '',
             id: '_.e.x.u.kQPD.bE.eO2.f.tSKF.b4W.oQ',
             object: '_.e.x.q54PD.bE.eO2.f.tSKF.b4W.oQ-content.html#_.e.x.u.kQPD.bE.eO2.f.tSKF.b4W.oQ',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: 'MplArtistManager',
             id: '_.sBZRQPD.gE.eOTAK2HB2.e.f.nA',
             object: '_.sBZRQPD.gE.eOTAK2HB2.e.f.nA-content.html',
-            icon: 'icon151331783',
+            icon: 'icon1644502742',
             children: [
                 {_reference: '_.y.g_K4PD.gE.eOTAK2HB2.e.f.nA' },
                 {_reference: '_.y.lFA.sPD.gE.eOTAK2HB2.e.f.nA' },
@@ -1829,49 +2021,49 @@
             title: 'add_curve',
             id: '_.y.g_K4PD.gE.eOTAK2HB2.e.f.nA',
             object: '_.sBZRQPD.gE.eOTAK2HB2.e.f.nA-content.html#_.y.g_K4PD.gE.eOTAK2HB2.e.f.nA',
-            icon: 'icon-1710930910'
+            icon: 'icon-838521982'
         }
 		,
         {
             title: 'add_stack',
             id: '_.y.lFA.sPD.gE.eOTAK2HB2.e.f.nA',
             object: '_.sBZRQPD.gE.eOTAK2HB2.e.f.nA-content.html#_.y.lFA.sPD.gE.eOTAK2HB2.e.f.nA',
-            icon: 'icon-1710930910'
+            icon: 'icon-838521982'
         }
 		,
         {
             title: 'set_offset',
             id: '_.y.m2.iUPD.gE.eOTAK2HB2.e.f.nA',
             object: '_.sBZRQPD.gE.eOTAK2HB2.e.f.nA-content.html#_.y.m2.iUPD.gE.eOTAK2HB2.e.f.nA',
-            icon: 'icon-1710930910'
+            icon: 'icon-838521982'
         }
 		,
         {
             title: 'remove_curve',
             id: '_.y.o.x08PD.gE.eOTAK2HB2.e.f.nA',
             object: '_.sBZRQPD.gE.eOTAK2HB2.e.f.nA-content.html#_.y.o.x08PD.gE.eOTAK2HB2.e.f.nA',
-            icon: 'icon-1710930910'
+            icon: 'icon-838521982'
         }
 		,
         {
             title: 'set_curve_data',
             id: '_1.z.l.kEPD.gE.eOTAK2HB2.e.f.nA',
             object: '_.sBZRQPD.gE.eOTAK2HB2.e.f.nA-content.html#_1.z.l.kEPD.gE.eOTAK2HB2.e.f.nA',
-            icon: 'icon-1710930910'
+            icon: 'icon-838521982'
         }
 		,
         {
             title: 'set_curve_properties',
             id: '_11X.s.wPD.gE.eOTAK2HB2.e.f.nA',
             object: '_.sBZRQPD.gE.eOTAK2HB2.e.f.nA-content.html#_11X.s.wPD.gE.eOTAK2HB2.e.f.nA',
-            icon: 'icon-1710930910'
+            icon: 'icon-838521982'
         }
 		,
         {
             title: '',
             id: '_.n.sFWYPJ.rE.eO.fB.a.l87FZL.v.g',
             object: '_.n.sFWYPJ.rE.eO.fB.a.l87FZL.v.g-content.html',
-            icon: 'icon1409622367',
+            icon: 'icon453323247',
             children: [
                 {_reference: '_.n.sNSMPJ.rE.eO.fB.a.l87FZL.v.g' }
             ]
@@ -1881,21 +2073,21 @@
             title: '',
             id: '_.n.sNSMPJ.rE.eO.fB.a.l87FZL.v.g',
             object: '_.n.sFWYPJ.rE.eO.fB.a.l87FZL.v.g-content.html#_.n.sNSMPJ.rE.eO.fB.a.l87FZL.v.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: '',
             id: '_.l.rB.i.sPWOE.eO7.k.oQK.zK.fA_.w',
             object: '_.l.rB.i.sPWOE.eO7.k.oQK.zK.fA_.w-content.html',
-            icon: 'icon33898957'
+            icon: 'icon-2063259145'
         }
 		,
         {
             title: '',
             id: '_.k5.h3.gPWSE.eO7.k.oQK.zK.fA_.w',
             object: '_.k5.h3.gPWSE.eO7.k.oQK.zK.fA_.w-content.html',
-            icon: 'icon1409622367',
+            icon: 'icon453323247',
             children: [
                 {_reference: '_.k5.kT.wPWSE.eO7.k.oQK.zK.fA_.w' }
             ]
@@ -1905,42 +2097,28 @@
             title: '',
             id: '_.k5.kT.wPWSE.eO7.k.oQK.zK.fA_.w',
             object: '_.k5.h3.gPWSE.eO7.k.oQK.zK.fA_.w-content.html#_.k5.kT.wPWSE.eO7.k.oQK.zK.fA_.w',
-            icon: 'icon470099028'
-        }
-		,
-        {
-            title: '',
-            id: '_.rG.z18PWOE.eO7.k.oQK.zK.fA_.w',
-            object: '_.rG.z18PWOE.eO7.k.oQK.zK.fA_.w-content.html',
-            icon: 'icon33898957'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: '',
             id: '_NB8UIPWOE.eO7.k.oQK.zK.fA_.w',
             object: '_NB8UIPWOE.eO7.k.oQK.zK.fA_.w-content.html',
-            icon: 'icon33898957'
+            icon: 'icon-2063259145'
         }
 		,
         {
             title: '',
             id: '_.h1.i.e4PWOE.eO7.k.oQK.zK.fA_.w',
             object: '_.h1.i.e4PWOE.eO7.k.oQK.zK.fA_.w-content.html',
-            icon: 'icon33898957'
-        }
-		,
-        {
-            title: '',
-            id: '_Q.z.kL.oPWOE.eO7.k.oQK.zK.fA_.w',
-            object: '_Q.z.kL.oPWOE.eO7.k.oQK.zK.fA_.w-content.html',
-            icon: 'icon33898957'
+            icon: 'icon-2063259145'
         }
 		,
         {
             title: '',
             id: '_.d.c.cJ8PWJE.eO7.k.oQK.zK.fA_.w',
             object: '_.d.c.cJ8PWJE.eO7.k.oQK.zK.fA_.w-content.html',
-            icon: 'icon1409622367',
+            icon: 'icon453323247',
             children: [
                 {_reference: '_.d.c.k.s0PWJE.eO7.k.oQK.zK.fA_.w' }
             ]
@@ -1950,119 +2128,70 @@
             title: '',
             id: '_.d.c.k.s0PWJE.eO7.k.oQK.zK.fA_.w',
             object: '_.d.c.cJ8PWJE.eO7.k.oQK.zK.fA_.w-content.html#_.d.c.k.s0PWJE.eO7.k.oQK.zK.fA_.w',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: 'VIS: Contour',
             id: '_3.vL.l0P.u.bE.eO.p.e4.kD.d8R3.e.g',
             object: '_3.vL.l0P.u.bE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon1845831814'
+            icon: 'icon-234542445'
         }
 		,
         {
             title: 'VIS: 3D Line',
             id: '_5.oW.t8P.u.bE.eO.p.e4.kD.d8R3.e.g',
             object: '_5.oW.t8P.u.bE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon1845831814'
+            icon: 'icon-234542445'
         }
 		,
         {
             title: 'VIS: Remove elements from dataset',
             id: '_.p.k.c.wAP.u.cE.eO.p.e4.kD.d8R3.e.g',
             object: '_.p.k.c.wAP.u.cE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon1845831814'
+            icon: 'icon-234542445'
         }
 		,
         {
             title: 'VIS: ROI Cake',
             id: '_1.rP.bUP.u.fE.eO.p.e4.kD.d8R3.e.g',
             object: '_1.rP.bUP.u.fE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon1845831814'
+            icon: 'icon-234542445'
         }
 		,
         {
             title: 'VIS: ROI 1D',
             id: '_3.l9.b.kP.u.fE.eO.p.e4.kD.d8R3.e.g',
             object: '_3.l9.b.kP.u.fE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon1845831814'
+            icon: 'icon-234542445'
         }
 		,
         {
             title: 'VIS: 2D movie',
             id: '_D.c.h.k.cP.u.hE.eO.p.e4.kD.d8R3.e.g',
             object: '_D.c.h.k.cP.u.hE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon1845831814'
+            icon: 'icon-234542445'
         }
 		,
         {
             title: 'VIS: 1D Stack',
             id: '_Y4Y.h.sP.u.kE.eO.p.e4.kD.d8R3.e.g',
             object: '_Y4Y.h.sP.u.kE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon1845831814'
-        }
-		,
-        {
-            title: '',
-            id: '_YW2Z.kP.u.yE.eO.p.e4.kD.d8R3.e.g',
-            object: '_YW2Z.kP.u.yE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon33898957'
-        }
-		,
-        {
-            title: '',
-            id: '_GA.w.zEP.u.yE.eO.p.e4.kD.d8R3.e.g',
-            object: '_GA.w.zEP.u.yE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon33898957'
-        }
-		,
-        {
-            title: '',
-            id: '_.v.q.y2.oP.u.xE.eO.p.e4.kD.d8R3.e.g',
-            object: '_.v.q.y2.oP.u.xE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon33898957'
-        }
-		,
-        {
-            title: '',
-            id: '_0.vM.k.oP.u.xE.eO.p.e4.kD.d8R3.e.g',
-            object: '_0.vM.k.oP.u.xE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon33898957'
+            icon: 'icon-234542445'
         }
 		,
         {
             title: 'VIS: 3D Overlay',
             id: '_.b2.aUAP.y.fE.eO.p.e4.kD.d8R3.e.g',
             object: '_.b2.aUAP.y.fE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon1845831814'
-        }
-		,
-        {
-            title: '',
-            id: '_.j.w.e.w4P1KE.eO.p.e4.kD.d8R3.e.g',
-            object: '_.j.w.e.w4P1KE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon33898957'
-        }
-		,
-        {
-            title: '',
-            id: '_.u-H.uAP1KE.eO.p.e4.kD.d8R3.e.g',
-            object: '_.u-H.uAP1KE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon33898957'
-        }
-		,
-        {
-            title: '',
-            id: '_.qT.p.i8P1KE.eO.p.e4.kD.d8R3.e.g',
-            object: '_.qT.p.i8P1KE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon33898957'
+            icon: 'icon-234542445'
         }
 		,
         {
             title: '',
             id: '_9.k0.cMP1LE.eO.p.e4.kD.d8R3.e.g',
             object: '_9.k0.cMP1LE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon1409622367',
+            icon: 'icon453323247',
             children: [
                 {_reference: '_9.k3.f.gP1LE.eO.p.e4.kD.d8R3.e.g' }
             ]
@@ -2072,14 +2201,14 @@
             title: '',
             id: '_9.k3.f.gP1LE.eO.p.e4.kD.d8R3.e.g',
             object: '_9.k0.cMP1LE.eO.p.e4.kD.d8R3.e.g-content.html#_9.k3.f.gP1LE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: '',
             id: '_IX.pQIP1NE.eO.p.e4.kD.d8R3.e.g',
             object: '_IX.pQIP1NE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon1409622367',
+            icon: 'icon453323247',
             children: [
                 {_reference: '_IX.sT.cP1NE.eO.p.e4.kD.d8R3.e.g' }
             ]
@@ -2089,98 +2218,98 @@
             title: '',
             id: '_IX.sT.cP1NE.eO.p.e4.kD.d8R3.e.g',
             object: '_IX.pQIP1NE.eO.p.e4.kD.d8R3.e.g-content.html#_IX.sT.cP1NE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: 'SendOperationEvent1',
             id: '_F.j.y.sMOL.lE.eO3.zNO.u.s.dT.lYA',
             object: '_F.j.y.sMOL.lE.eO3.zNO.u.s.dT.lYA-content.html',
-            icon: 'icon-1476064077'
+            icon: 'icon-972741280'
         }
 		,
         {
             title: 'ReceiveOperationEvent1',
             id: '_F.j0.hYOL.lE.eO3.zNO.u.s.dT.lYA',
             object: '_F.j0.hYOL.lE.eO3.zNO.u.s.dT.lYA-content.html',
-            icon: 'icon755316796'
+            icon: 'icon-1392170968'
         }
 		,
         {
             title: 'SendOperationEvent2',
             id: '_VF.i.i0OL.lE.eO3.zNO.u.s.dT.lYA',
             object: '_VF.i.i0OL.lE.eO3.zNO.u.s.dT.lYA-content.html',
-            icon: 'icon-1476064077'
+            icon: 'icon-972741280'
         }
 		,
         {
             title: 'ReceiveOperationEvent2',
             id: '_VF.i.i0.eL.lE.eO3.zNO.u.s.dT.lYA',
             object: '_VF.i.i0.eL.lE.eO3.zNO.u.s.dT.lYA-content.html',
-            icon: 'icon755316796'
+            icon: 'icon-1392170968'
         }
 		,
         {
             title: 'SendOperationEvent3',
             id: '_.j.q.rAMOL.lE.eO3.zNO.u.s.dT.lYA',
             object: '_.j.q.rAMOL.lE.eO3.zNO.u.s.dT.lYA-content.html',
-            icon: 'icon-1476064077'
+            icon: 'icon-972741280'
         }
 		,
         {
             title: 'ReceiveOperationEvent3',
             id: '_.j.q.rAM.eL.lE.eO3.zNO.u.s.dT.lYA',
             object: '_.j.q.rAM.eL.lE.eO3.zNO.u.s.dT.lYA-content.html',
-            icon: 'icon755316796'
+            icon: 'icon-1392170968'
         }
 		,
         {
             title: 'SendOperationEvent4',
             id: '_.z.zG.cUOL.lE.eO3.zNO.u.s.dT.lYA',
             object: '_.z.zG.cUOL.lE.eO3.zNO.u.s.dT.lYA-content.html',
-            icon: 'icon-1476064077'
+            icon: 'icon-972741280'
         }
 		,
         {
             title: 'ReceiveOperationEvent4',
             id: '_.z.zHDYOL.lE.eO3.zNO.u.s.dT.lYA',
             object: '_.z.zHDYOL.lE.eO3.zNO.u.s.dT.lYA-content.html',
-            icon: 'icon755316796'
+            icon: 'icon-1392170968'
         }
 		,
         {
             title: 'SendOperationEvent5',
             id: '_91.h.j.gOL.lE.eO3.zNO.u.s.dT.lYA',
             object: '_91.h.j.gOL.lE.eO3.zNO.u.s.dT.lYA-content.html',
-            icon: 'icon-1476064077'
+            icon: 'icon-972741280'
         }
 		,
         {
             title: 'ReceiveOperationEvent5',
             id: '_91.h.j.g.eL.lE.eO3.zNO.u.s.dT.lYA',
             object: '_91.h.j.g.eL.lE.eO3.zNO.u.s.dT.lYA-content.html',
-            icon: 'icon755316796'
+            icon: 'icon-1392170968'
         }
 		,
         {
             title: 'SendOperationEvent6',
             id: '_JI.v.kMOL.mE.eO3.zNO.u.s.dT.lYA',
             object: '_JI.v.kMOL.mE.eO3.zNO.u.s.dT.lYA-content.html',
-            icon: 'icon-1476064077'
+            icon: 'icon-972741280'
         }
 		,
         {
             title: 'ReceiveOperationEvent6',
             id: '_JI.wLQOL.mE.eO3.zNO.u.s.dT.lYA',
             object: '_JI.wLQOL.mE.eO3.zNO.u.s.dT.lYA-content.html',
-            icon: 'icon755316796'
+            icon: 'icon-1392170968'
         }
 		,
         {
             title: 'nsls2_core',
             id: '_QE.a84OL.mE.eO3.zNO.u.s.dT.lYA',
             object: '_QE.a84OL.mE.eO3.zNO.u.s.dT.lYA-content.html',
-            icon: 'icon-1778051182',
+            icon: 'icon470100944',
             children: [
                 {_reference: '_.h.v45.cP.u.aE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_2.p.p.z.sPGAE.eO7V.b.dN.g.f.fXRQ' },
@@ -2215,63 +2344,63 @@
             title: 'CALC: Automated Masking',
             id: '_.h.v45.cP.u.aE.eO.p.e4.kD.d8R3.e.g',
             object: '_.h.v45.cP.u.aE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon1845831814'
+            icon: 'icon-234542445'
         }
 		,
         {
             title: 'CALC: Fluorescence Tomogrpahy',
             id: '_2.p.p.z.sPGAE.eO7V.b.dN.g.f.fXRQ',
             object: '_2.p.p.z.sPGAE.eO7V.b.dN.g.f.fXRQ-content.html',
-            icon: 'icon1845831814'
+            icon: 'icon-234542445'
         }
 		,
         {
             title: 'CALC: Apply ROI to data stack',
             id: '_.bU.bV8PD.mE.eOTAK2HB2.e.f.nA',
             object: '_.bU.bV8PD.mE.eOTAK2HB2.e.f.nA-content.html',
-            icon: 'icon1845831814'
+            icon: 'icon-234542445'
         }
 		,
         {
             title: 'CALC: Register 1-D Curves (scale +shift)',
             id: '_JSD.yIPD.lE.eOTAK2HB2.e.f.nA',
             object: '_JSD.yIPD.lE.eOTAK2HB2.e.f.nA-content.html',
-            icon: 'icon1845831814'
+            icon: 'icon-234542445'
         }
 		,
         {
             title: 'CALC: 3D reconstruction (binning)',
             id: '_X.hE.rAPD.kE.eOTAK2HB2.e.f.nA',
             object: '_X.hE.rAPD.kE.eOTAK2HB2.e.f.nA-content.html',
-            icon: 'icon1845831814'
+            icon: 'icon-234542445'
         }
 		,
         {
             title: 'CALC: Convert to reciprocal space',
             id: '_T.gPS0PD.kE.eOTAK2HB2.e.f.nA',
             object: '_T.gPS0PD.kE.eOTAK2HB2.e.f.nA-content.html',
-            icon: 'icon1845831814'
+            icon: 'icon-234542445'
         }
 		,
         {
             title: 'CALC: 2D XANES',
             id: '_L.xNAAPD.jE.eOTAK2HB2.e.f.nA',
             object: '_L.xNAAPD.jE.eOTAK2HB2.e.f.nA-content.html',
-            icon: 'icon1845831814'
+            icon: 'icon-234542445'
         }
 		,
         {
             title: 'CALC: Absorption Tomography',
             id: '_JVR.wIPD.jE.eOTAK2HB2.e.f.nA',
             object: '_JVR.wIPD.jE.eOTAK2HB2.e.f.nA-content.html',
-            icon: 'icon1845831814'
+            icon: 'icon-234542445'
         }
 		,
         {
             title: 'DataBroker',
             id: '_S.u7.tQOL.kE.eO3.zNO.u.s.dT.lYA',
             object: '_S.u7.tQOL.kE.eO3.zNO.u.s.dT.lYA-content.html',
-            icon: 'icon151331783',
+            icon: 'icon1644502742',
             children: [
                 {_reference: '_F.j.r-.gOL.lE.eO3.zNO.u.s.dT.lYA' },
                 {_reference: '_VF.h7.wOL.lE.eO3.zNO.u.s.dT.lYA' }
@@ -2282,21 +2411,21 @@
             title: 'broker.getLastRun()',
             id: '_F.j.r-.gOL.lE.eO3.zNO.u.s.dT.lYA',
             object: '_S.u7.tQOL.kE.eO3.zNO.u.s.dT.lYA-content.html#_F.j.r-.gOL.lE.eO3.zNO.u.s.dT.lYA',
-            icon: 'icon-1710930910'
+            icon: 'icon-838521982'
         }
 		,
         {
             title: 'getLastRun()',
             id: '_VF.h7.wOL.lE.eO3.zNO.u.s.dT.lYA',
             object: '_S.u7.tQOL.kE.eO3.zNO.u.s.dT.lYA-content.html#_VF.h7.wOL.lE.eO3.zNO.u.s.dT.lYA',
-            icon: 'icon-1710930910'
+            icon: 'icon-838521982'
         }
 		,
         {
             title: 'NSLS2_Core',
             id: '_X1.eJQOL.kE.eO3.zNO.u.s.dT.lYA',
             object: '_X1.eJQOL.kE.eO3.zNO.u.s.dT.lYA-content.html',
-            icon: 'icon151331783',
+            icon: 'icon1644502742',
             children: [
                 {_reference: '_JI.u9IOL.mE.eO3.zNO.u.s.dT.lYA' }
             ]
@@ -2306,203 +2435,203 @@
             title: 'stuff',
             id: '_JI.u9IOL.mE.eO3.zNO.u.s.dT.lYA',
             object: '_X1.eJQOL.kE.eO3.zNO.u.s.dT.lYA-content.html#_JI.u9IOL.mE.eO3.zNO.u.s.dT.lYA',
-            icon: 'icon-1710930910'
+            icon: 'icon-838521982'
         }
 		,
         {
             title: 'RegionOfInterest',
             id: '_T6-C.kOL.kE.eO3.zNO.u.s.dT.lYA',
             object: '_T6-C.kOL.kE.eO3.zNO.u.s.dT.lYA-content.html',
-            icon: 'icon151331783'
+            icon: 'icon1644502742'
         }
 		,
         {
             title: 'SRX_Fluorescence_Script',
             id: '_5NIR.gOL.kE.eO3.zNO.u.s.dT.lYA',
             object: '_5NIR.gOL.kE.eO3.zNO.u.s.dT.lYA-content.html',
-            icon: 'icon151331783'
+            icon: 'icon1644502742'
         }
 		,
         {
             title: 'CALC: Find beam center',
             id: '_.wB.uM.gPF3E.eO.a.b9.bVA.s1L.tQ',
             object: '_.wB.uM.gPF3E.eO.a.b9.bVA.s1L.tQ-content.html',
-            icon: 'icon1845831814'
+            icon: 'icon-234542445'
         }
 		,
         {
             title: 'CALC: Reduce dataset to single datum',
             id: '_1V.s.w.gP.u.cE.eO.p.e4.kD.d8R3.e.g',
             object: '_1V.s.w.gP.u.cE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon1845831814'
+            icon: 'icon-234542445'
         }
 		,
         {
             title: 'CALC: 1D Fitting',
             id: '_U.kB.i0P.u.fE.eO.p.e4.kD.d8R3.e.g',
             object: '_U.kB.i0P.u.fE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon1845831814'
+            icon: 'icon-234542445'
         }
 		,
         {
             title: 'CALC: 1D Peak Finding',
             id: '_XQ.p.hIP.u.fE.eO.p.e4.kD.d8R3.e.g',
             object: '_XQ.p.hIP.u.fE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon1845831814'
+            icon: 'icon-234542445'
         }
 		,
         {
             title: 'CALC: Azimuthal Integration',
             id: '_.bA.j.hYP.u.fE.eO.p.e4.kD.d8R3.e.g',
             object: '_.bA.j.hYP.u.fE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon1845831814'
+            icon: 'icon-234542445'
         }
 		,
         {
             title: 'CALC: Cake',
             id: '_.d.a.sB.gP.u.fE.eO.p.e4.kD.d8R3.e.g',
             object: '_.d.a.sB.gP.u.fE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon1845831814'
+            icon: 'icon-234542445'
         }
 		,
         {
             title: 'CALC: Array Algebra',
             id: '_55TXMP.u.fE.eO.p.e4.kD.d8R3.e.g',
             object: '_55TXMP.u.fE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon1845831814'
+            icon: 'icon-234542445'
         }
 		,
         {
             title: 'CALC: Image Corrections',
             id: '_AH.c7.gP.u.gE.eO.p.e4.kD.d8R3.e.g',
             object: '_AH.c7.gP.u.gE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon1845831814'
+            icon: 'icon-234542445'
         }
 		,
         {
             title: 'CALC: Masking',
             id: '_.b.u.fI8P.u.gE.eO.p.e4.kD.d8R3.e.g',
             object: '_.b.u.fI8P.u.gE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon1845831814'
+            icon: 'icon-234542445'
         }
 		,
         {
             title: 'CALC: Slice dataset',
             id: '_.k8N.c.wP.u.gE.eO.p.e4.kD.d8R3.e.g',
             object: '_.k8N.c.wP.u.gE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon1845831814'
+            icon: 'icon-234542445'
         }
 		,
         {
             title: 'CALC: Automatic sample alignment',
             id: '_27Y.oIP.y.dE.eO.p.e4.kD.d8R3.e.g',
             object: '_27Y.oIP.y.dE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon1845831814'
+            icon: 'icon-234542445'
         }
 		,
         {
             title: 'CALC: Fourier Transform',
             id: '_6.m.c.yYP.y.iE.eO.p.e4.kD.d8R3.e.g',
             object: '_6.m.c.yYP.y.iE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon1845831814'
+            icon: 'icon-234542445'
         }
 		,
         {
             title: 'CALC: Image Correlation',
             id: '_OAL.f0P.y.mE.eO.p.e4.kD.d8R3.e.g',
             object: '_OAL.f0P.y.mE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon1845831814'
+            icon: 'icon-234542445'
         }
 		,
         {
             title: 'CALC: Image Registration',
             id: '_PE.sQ0P.y.mE.eO.p.e4.kD.d8R3.e.g',
             object: '_PE.sQ0P.y.mE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon1845831814'
+            icon: 'icon-234542445'
         }
 		,
         {
             title: 'SendOperationEvent7',
             id: '_.xTY.m.sOL.nE.eO3.zNO.u.s.dT.lYA',
             object: '_.xTY.m.sOL.nE.eO3.zNO.u.s.dT.lYA-content.html',
-            icon: 'icon-1476064077'
+            icon: 'icon-972741280'
         }
 		,
         {
             title: 'ReceiveOperationEvent7',
             id: '_.xTZN.wOL.nE.eO3.zNO.u.s.dT.lYA',
             object: '_.xTZN.wOL.nE.eO3.zNO.u.s.dT.lYA-content.html',
-            icon: 'icon755316796'
+            icon: 'icon-1392170968'
         }
 		,
         {
             title: 'SendOperationEvent8',
             id: '_7.oFJ.oOL.nE.eO3.zNO.u.s.dT.lYA',
             object: '_7.oFJ.oOL.nE.eO3.zNO.u.s.dT.lYA-content.html',
-            icon: 'icon-1476064077'
+            icon: 'icon-972741280'
         }
 		,
         {
             title: 'ReceiveOperationEvent8',
             id: '_7.oF.w.sOL.nE.eO3.zNO.u.s.dT.lYA',
             object: '_7.oF.w.sOL.nE.eO3.zNO.u.s.dT.lYA-content.html',
-            icon: 'icon755316796'
+            icon: 'icon-1392170968'
         }
 		,
         {
             title: 'SendOperationEvent9',
             id: '_8.pK.zMOL.nE.eO3.zNO.u.s.dT.lYA',
             object: '_8.pK.zMOL.nE.eO3.zNO.u.s.dT.lYA-content.html',
-            icon: 'icon-1476064077'
+            icon: 'icon-972741280'
         }
 		,
         {
             title: 'ReceiveOperationEvent9',
             id: '_8.pK.zM.eL.nE.eO3.zNO.u.s.dT.lYA',
             object: '_8.pK.zM.eL.nE.eO3.zNO.u.s.dT.lYA-content.html',
-            icon: 'icon755316796'
+            icon: 'icon-1392170968'
         }
 		,
         {
             title: 'SendOperationEvent10',
             id: '_9O.l0.cOL.nE.eO3.zNO.u.s.dT.lYA',
             object: '_9O.l0.cOL.nE.eO3.zNO.u.s.dT.lYA-content.html',
-            icon: 'icon-1476064077'
+            icon: 'icon-972741280'
         }
 		,
         {
             title: 'ReceiveOperationEvent10',
             id: '_9O.l0.c.eL.nE.eO3.zNO.u.s.dT.lYA',
             object: '_9O.l0.c.eL.nE.eO3.zNO.u.s.dT.lYA-content.html',
-            icon: 'icon755316796'
+            icon: 'icon-1392170968'
         }
 		,
         {
             title: 'SendOperationEvent11',
             id: '_.w.u_D.sOL.oE.eO3.zNO.u.s.dT.lYA',
             object: '_.w.u_D.sOL.oE.eO3.zNO.u.s.dT.lYA-content.html',
-            icon: 'icon-1476064077'
+            icon: 'icon-972741280'
         }
 		,
         {
             title: 'ReceiveOperationEvent11',
             id: '_.w.u_.q.wOL.oE.eO3.zNO.u.s.dT.lYA',
             object: '_.w.u_.q.wOL.oE.eO3.zNO.u.s.dT.lYA-content.html',
-            icon: 'icon755316796'
+            icon: 'icon-1392170968'
         }
 		,
         {
             title: 'SRX User',
             id: '_G.l.oI.cPD.iE.eOTAK2HB2.e.f.nA',
             object: '_G.l.oI.cPD.iE.eOTAK2HB2.e.f.nA-content.html',
-            icon: 'icon-1878712191'
+            icon: 'icon1745172171'
         }
 		,
         {
             title: '',
             id: '_.a.e0D8PD.jE.eOTAK2HB2.e.f.nA',
             object: '_.a.e0D8PD.jE.eOTAK2HB2.e.f.nA-content.html',
-            icon: 'icon-1660611489',
+            icon: 'icon-1090176878',
             children: [
                 {_reference: '_.a.e1SEPD.jE.eOTAK2HB2.e.f.nA' },
                 {_reference: '_.a.e3.uUPD.jE.eOTAK2HB2.e.f.nA' }
@@ -2513,21 +2642,21 @@
             title: 'cALC: Fluorescence CT Reconstruction',
             id: '_.a.e1SEPD.jE.eOTAK2HB2.e.f.nA',
             object: '_.a.e0D8PD.jE.eOTAK2HB2.e.f.nA-content.html#_.a.e1SEPD.jE.eOTAK2HB2.e.f.nA',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: 'sRX Scientist',
             id: '_.a.e3.uUPD.jE.eOTAK2HB2.e.f.nA',
             object: '_.a.e0D8PD.jE.eOTAK2HB2.e.f.nA-content.html#_.a.e3.uUPD.jE.eOTAK2HB2.e.f.nA',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: '',
             id: '_.b_OG.wPD.jE.eOTAK2HB2.e.f.nA',
             object: '_.b_OG.wPD.jE.eOTAK2HB2.e.f.nA-content.html',
-            icon: 'icon-1660611489',
+            icon: 'icon-1090176878',
             children: [
                 {_reference: '_.b_P78PD.jE.eOTAK2HB2.e.f.nA' },
                 {_reference: '_.b_R.xIPD.jE.eOTAK2HB2.e.f.nA' }
@@ -2538,42 +2667,42 @@
             title: 'cALC: 2D XANES',
             id: '_.b_P78PD.jE.eOTAK2HB2.e.f.nA',
             object: '_.b_OG.wPD.jE.eOTAK2HB2.e.f.nA-content.html#_.b_P78PD.jE.eOTAK2HB2.e.f.nA',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: 'sRX Scientist',
             id: '_.b_R.xIPD.jE.eOTAK2HB2.e.f.nA',
             object: '_.b_OG.wPD.jE.eOTAK2HB2.e.f.nA-content.html#_.b_R.xIPD.jE.eOTAK2HB2.e.f.nA',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: 'XPD User',
             id: '_.w9URUPD.jE.eOTAK2HB2.e.f.nA',
             object: '_.w9URUPD.jE.eOTAK2HB2.e.f.nA-content.html',
-            icon: 'icon-1878712191'
+            icon: 'icon1745172171'
         }
 		,
         {
             title: 'Coherent Scattering User',
             id: '_2.lW34PD.jE.eOTAK2HB2.e.f.nA',
             object: '_2.lW34PD.jE.eOTAK2HB2.e.f.nA-content.html',
-            icon: 'icon-1878712191'
+            icon: 'icon1745172171'
         }
 		,
         {
             title: 'HXN User',
             id: '_3.p.tQ0PD.jE.eOTAK2HB2.e.f.nA',
             object: '_3.p.tQ0PD.jE.eOTAK2HB2.e.f.nA-content.html',
-            icon: 'icon-1878712191'
+            icon: 'icon1745172171'
         }
 		,
         {
             title: '',
             id: '_.cQM.s.kPD.kE.eOTAK2HB2.e.f.nA',
             object: '_.cQM.s.kPD.kE.eOTAK2HB2.e.f.nA-content.html',
-            icon: 'icon-1660611489',
+            icon: 'icon-1090176878',
             children: [
                 {_reference: '_.cQNT.oPD.kE.eOTAK2HB2.e.f.nA' },
                 {_reference: '_.cQP.v4PD.kE.eOTAK2HB2.e.f.nA' }
@@ -2584,21 +2713,21 @@
             title: 'cALC: Convert to reciprocal space',
             id: '_.cQNT.oPD.kE.eOTAK2HB2.e.f.nA',
             object: '_.cQM.s.kPD.kE.eOTAK2HB2.e.f.nA-content.html#_.cQNT.oPD.kE.eOTAK2HB2.e.f.nA',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: 'cSX User',
             id: '_.cQP.v4PD.kE.eOTAK2HB2.e.f.nA',
             object: '_.cQM.s.kPD.kE.eOTAK2HB2.e.f.nA-content.html#_.cQP.v4PD.kE.eOTAK2HB2.e.f.nA',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: '',
             id: '_.d.j6XMPD.kE.eOTAK2HB2.e.f.nA',
             object: '_.d.j6XMPD.kE.eOTAK2HB2.e.f.nA-content.html',
-            icon: 'icon-1660611489',
+            icon: 'icon-1090176878',
             children: [
                 {_reference: '_.d.j7.lUPD.kE.eOTAK2HB2.e.f.nA' },
                 {_reference: '_.d.j9.a.gPD.kE.eOTAK2HB2.e.f.nA' }
@@ -2609,21 +2738,21 @@
             title: 'cALC: 3-D reconstruction (binning)',
             id: '_.d.j7.lUPD.kE.eOTAK2HB2.e.f.nA',
             object: '_.d.j6XMPD.kE.eOTAK2HB2.e.f.nA-content.html#_.d.j7.lUPD.kE.eOTAK2HB2.e.f.nA',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: 'cSX User',
             id: '_.d.j9.a.gPD.kE.eOTAK2HB2.e.f.nA',
             object: '_.d.j6XMPD.kE.eOTAK2HB2.e.f.nA-content.html#_.d.j9.a.gPD.kE.eOTAK2HB2.e.f.nA',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: '',
             id: '_.gUF.jUPD.lE.eOTAK2HB2.e.f.nA',
             object: '_.gUF.jUPD.lE.eOTAK2HB2.e.f.nA-content.html',
-            icon: 'icon-1660611489',
+            icon: 'icon-1090176878',
             children: [
                 {_reference: '_.gUGKYPD.lE.eOTAK2HB2.e.f.nA' },
                 {_reference: '_.gUI.m.oPD.lE.eOTAK2HB2.e.f.nA' }
@@ -2634,21 +2763,21 @@
             title: 'cALC: Register 1-D Curves (scale +shift)',
             id: '_.gUGKYPD.lE.eOTAK2HB2.e.f.nA',
             object: '_.gUF.jUPD.lE.eOTAK2HB2.e.f.nA-content.html#_.gUGKYPD.lE.eOTAK2HB2.e.f.nA',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: 'iXS User',
             id: '_.gUI.m.oPD.lE.eOTAK2HB2.e.f.nA',
             object: '_.gUF.jUPD.lE.eOTAK2HB2.e.f.nA-content.html#_.gUI.m.oPD.lE.eOTAK2HB2.e.f.nA',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: 'NSLS2_Personnel',
             id: '_.fN.rLEPF4E.eO.a.b9.bVA.s1L.tQ',
             object: '_.fN.rLEPF4E.eO.a.b9.bVA.s1L.tQ-content.html',
-            icon: 'icon-1778051182',
+            icon: 'icon470100944',
             children: [
                 {_reference: '_7P-0.sPF3E.eO.a.b9.bVA.s1L.tQ' },
                 {_reference: '_.uKY.a8PF4E.eO.a.b9.bVA.s1L.tQ' }
@@ -2659,7 +2788,7 @@
             title: 'DevTeam',
             id: '_7P-0.sPF3E.eO.a.b9.bVA.s1L.tQ',
             object: '_7P-0.sPF3E.eO.a.b9.bVA.s1L.tQ-content.html',
-            icon: 'icon-1778051182',
+            icon: 'icon470100944',
             children: [
                 {_reference: '_V8.t.l8OL.mE.eO3.zNO.u.s.dT.lYA' },
                 {_reference: '____AAPF3E.eO.a.b9.bVA.s1L.tQ' },
@@ -2672,7 +2801,7 @@
             title: 'Postdocs',
             id: '_V8.t.l8OL.mE.eO3.zNO.u.s.dT.lYA',
             object: '_V8.t.l8OL.mE.eO3.zNO.u.s.dT.lYA-content.html',
-            icon: 'icon-1778051182',
+            icon: 'icon470100944',
             children: [
                 {_reference: '_80.vMAPF3E.eO.a.b9.bVA.s1L.tQ' },
                 {_reference: '_8I.h.mQPF3E.eO.a.b9.bVA.s1L.tQ' },
@@ -2686,49 +2815,49 @@
             title: 'Eric Dill',
             id: '_80.vMAPF3E.eO.a.b9.bVA.s1L.tQ',
             object: '_80.vMAPF3E.eO.a.b9.bVA.s1L.tQ-content.html',
-            icon: 'icon-1878712191'
+            icon: 'icon1745172171'
         }
 		,
         {
             title: 'Thomas Caswell',
             id: '_8I.h.mQPF3E.eO.a.b9.bVA.s1L.tQ',
             object: '_8I.h.mQPF3E.eO.a.b9.bVA.s1L.tQ-content.html',
-            icon: 'icon-1878712191'
+            icon: 'icon1745172171'
         }
 		,
         {
             title: 'Gabriel Iltis',
             id: '_.bC7.o8PF4E.eO.a.b9.bVA.s1L.tQ',
             object: '_.bC7.o8PF4E.eO.a.b9.bVA.s1L.tQ-content.html',
-            icon: 'icon-1878712191'
+            icon: 'icon1745172171'
         }
 		,
         {
             title: 'Sameera Abeykoon',
             id: '_.d.z.e.d8PF4E.eO.a.b9.bVA.s1L.tQ',
             object: '_.d.z.e.d8PF4E.eO.a.b9.bVA.s1L.tQ-content.html',
-            icon: 'icon-1878712191'
+            icon: 'icon1745172171'
         }
 		,
         {
             title: 'provides direction',
             id: '_Z.qQB8PF8E.eO.a.b9.bVA.s1L.tQ',
             object: '_Z.qQB8PF8E.eO.a.b9.bVA.s1L.tQ-content.html',
-            icon: 'icon486876450'
+            icon: 'icon990194348'
         }
 		,
         {
             title: 'Graduate Students',
             id: '____AAPF3E.eO.a.b9.bVA.s1L.tQ',
             object: '____AAPF3E.eO.a.b9.bVA.s1L.tQ-content.html',
-            icon: 'icon-1778051182'
+            icon: 'icon470100944'
         }
 		,
         {
             title: 'Summer Students',
             id: '_BP.p4IPF4E.eO.a.b9.bVA.s1L.tQ',
             object: '_BP.p4IPF4E.eO.a.b9.bVA.s1L.tQ-content.html',
-            icon: 'icon-1778051182',
+            icon: 'icon470100944',
             children: [
                 {_reference: '_EB.q.s.wPF4E.eO.a.b9.bVA.s1L.tQ' }
             ]
@@ -2738,21 +2867,21 @@
             title: 'James McClintock',
             id: '_EB.q.s.wPF4E.eO.a.b9.bVA.s1L.tQ',
             object: '_EB.q.s.wPF4E.eO.a.b9.bVA.s1L.tQ-content.html',
-            icon: 'icon-1878712191'
+            icon: 'icon1745172171'
         }
 		,
         {
             title: 'UseCase1',
             id: '_.v.cXVUPF6E.eO.a.b9.bVA.s1L.tQ',
             object: '_.v.cXVUPF6E.eO.a.b9.bVA.s1L.tQ-content.html',
-            icon: 'icon1845831814'
+            icon: 'icon-234542445'
         }
 		,
         {
             title: 'Beamline Personnel',
             id: '_.uKY.a8PF4E.eO.a.b9.bVA.s1L.tQ',
             object: '_.uKY.a8PF4E.eO.a.b9.bVA.s1L.tQ-content.html',
-            icon: 'icon-1778051182',
+            icon: 'icon470100944',
             children: [
                 {_reference: '_3.g1QIPF8E.eO.a.b9.bVA.s1L.tQ' },
                 {_reference: '_.t.w4O.cPF7E.eO.a.b9.bVA.s1L.tQ' },
@@ -2779,7 +2908,7 @@
             title: 'Sanjit Ghose',
             id: '_3.g1QIPF8E.eO.a.b9.bVA.s1L.tQ',
             object: '_3.g1QIPF8E.eO.a.b9.bVA.s1L.tQ-content.html',
-            icon: 'icon-1878712191',
+            icon: 'icon1745172171',
             children: [
             ]
         }
@@ -2788,91 +2917,91 @@
             title: 'IXS Contact',
             id: '_.t.w4O.cPF7E.eO.a.b9.bVA.s1L.tQ',
             object: '_.t.w4O.cPF7E.eO.a.b9.bVA.s1L.tQ-content.html',
-            icon: 'icon-1878712191'
+            icon: 'icon1745172171'
         }
 		,
         {
             title: 'HXN Contact',
             id: '_.j.j.o-YPF7E.eO.a.b9.bVA.s1L.tQ',
             object: '_.j.j.o-YPF7E.eO.a.b9.bVA.s1L.tQ-content.html',
-            icon: 'icon-1878712191'
+            icon: 'icon1745172171'
         }
 		,
         {
             title: 'CSX Contact',
             id: '_.k.wP7.cPF7E.eO.a.b9.bVA.s1L.tQ',
             object: '_.k.wP7.cPF7E.eO.a.b9.bVA.s1L.tQ-content.html',
-            icon: 'icon-1878712191'
+            icon: 'icon1745172171'
         }
 		,
         {
             title: 'CHX Contact',
             id: '_.mA.x.vMPF7E.eO.a.b9.bVA.s1L.tQ',
             object: '_.mA.x.vMPF7E.eO.a.b9.bVA.s1L.tQ-content.html',
-            icon: 'icon-1878712191'
+            icon: 'icon1745172171'
         }
 		,
         {
             title: 'XPD Contact',
             id: '_.n.d.i.oIPF7E.eO.a.b9.bVA.s1L.tQ',
             object: '_.n.d.i.oIPF7E.eO.a.b9.bVA.s1L.tQ-content.html',
-            icon: 'icon-1878712191'
+            icon: 'icon1745172171'
         }
 		,
         {
             title: 'SRX Contact',
             id: '_.p.z.p.j4PF7E.eO.a.b9.bVA.s1L.tQ',
             object: '_.p.z.p.j4PF7E.eO.a.b9.bVA.s1L.tQ-content.html',
-            icon: 'icon-1878712191'
+            icon: 'icon1745172171'
         }
 		,
         {
             title: 'Describe data analysis problem(s)',
             id: '_3GY.lQPF7E.eO.a.b9.bVA.s1L.tQ',
             object: '_3GY.lQPF7E.eO.a.b9.bVA.s1L.tQ-content.html',
-            icon: 'icon486876450'
+            icon: 'icon990194348'
         }
 		,
         {
             title: 'Describe data analysis problem(s)',
             id: '_8.d.sBIPF7E.eO.a.b9.bVA.s1L.tQ',
             object: '_8.d.sBIPF7E.eO.a.b9.bVA.s1L.tQ-content.html',
-            icon: 'icon486876450'
+            icon: 'icon990194348'
         }
 		,
         {
             title: 'Describe data analysis problem(s)',
             id: '_9.zLNYPF7E.eO.a.b9.bVA.s1L.tQ',
             object: '_9.zLNYPF7E.eO.a.b9.bVA.s1L.tQ-content.html',
-            icon: 'icon486876450'
+            icon: 'icon990194348'
         }
 		,
         {
             title: 'Describe data analysis problem(s)',
             id: '_-.xQ.mQPF7E.eO.a.b9.bVA.s1L.tQ',
             object: '_-.xQ.mQPF7E.eO.a.b9.bVA.s1L.tQ-content.html',
-            icon: 'icon486876450'
+            icon: 'icon990194348'
         }
 		,
         {
             title: 'Describe data analysis problem(s)',
             id: '_AD.p.bMPF8E.eO.a.b9.bVA.s1L.tQ',
             object: '_AD.p.bMPF8E.eO.a.b9.bVA.s1L.tQ-content.html',
-            icon: 'icon486876450'
+            icon: 'icon990194348'
         }
 		,
         {
             title: 'Describe data analysis problem(s)',
             id: '_BTBYYPF8E.eO.a.b9.bVA.s1L.tQ',
             object: '_BTBYYPF8E.eO.a.b9.bVA.s1L.tQ-content.html',
-            icon: 'icon486876450'
+            icon: 'icon990194348'
         }
 		,
         {
             title: 'Stuart Wilkins',
             id: '_.o.oLZ0PF8E.eO.a.b9.bVA.s1L.tQ',
             object: '_.o.oLZ0PF8E.eO.a.b9.bVA.s1L.tQ-content.html',
-            icon: 'icon-1878712191',
+            icon: 'icon1745172171',
             children: [
             ]
         }
@@ -2881,7 +3010,7 @@
             title: 'Andrei Fluerasu',
             id: '_.y_.p.j8PF8E.eO.a.b9.bVA.s1L.tQ',
             object: '_.y_.p.j8PF8E.eO.a.b9.bVA.s1L.tQ-content.html',
-            icon: 'icon-1878712191',
+            icon: 'icon1745172171',
             children: [
             ]
         }
@@ -2890,7 +3019,7 @@
             title: 'Karen Chen-Wiegart',
             id: '_C.y.yF.gPF9E.eO.a.b9.bVA.s1L.tQ',
             object: '_C.y.yF.gPF9E.eO.a.b9.bVA.s1L.tQ-content.html',
-            icon: 'icon-1878712191',
+            icon: 'icon1745172171',
             children: [
             ]
         }
@@ -2899,7 +3028,7 @@
             title: 'Yong Cai',
             id: '_F.nB.u.wPF9E.eO.a.b9.bVA.s1L.tQ',
             object: '_F.nB.u.wPF9E.eO.a.b9.bVA.s1L.tQ-content.html',
-            icon: 'icon-1878712191',
+            icon: 'icon1745172171',
             children: [
             ]
         }
@@ -2908,7 +3037,7 @@
             title: 'Yong Chu',
             id: '_HJ-.vQPF9E.eO.a.b9.bVA.s1L.tQ',
             object: '_HJ-.vQPF9E.eO.a.b9.bVA.s1L.tQ-content.html',
-            icon: 'icon-1878712191',
+            icon: 'icon1745172171',
             children: [
             ]
         }
@@ -2917,7 +3046,7 @@
             title: '',
             id: '_G6.pP.kPF5E.eO.a.b9.bVA.s1L.tQ',
             object: '_G6.pP.kPF5E.eO.a.b9.bVA.s1L.tQ-content.html',
-            icon: 'icon-1660611489',
+            icon: 'icon-1090176878',
             children: [
                 {_reference: '_G6.q.d.sPF5E.eO.a.b9.bVA.s1L.tQ' },
                 {_reference: '_G6.sS4PF5E.eO.a.b9.bVA.s1L.tQ' }
@@ -2928,21 +3057,21 @@
             title: 'cALC: Find beam center',
             id: '_G6.q.d.sPF5E.eO.a.b9.bVA.s1L.tQ',
             object: '_G6.pP.kPF5E.eO.a.b9.bVA.s1L.tQ-content.html#_G6.q.d.sPF5E.eO.a.b9.bVA.s1L.tQ',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: 'coherent Scattering User',
             id: '_G6.sS4PF5E.eO.a.b9.bVA.s1L.tQ',
             object: '_G6.pP.kPF5E.eO.a.b9.bVA.s1L.tQ-content.html#_G6.sS4PF5E.eO.a.b9.bVA.s1L.tQ',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: '',
             id: '_6.n.gJUPGAE.eO7V.b.dN.g.f.fXRQ',
             object: '_6.n.gJUPGAE.eO7V.b.dN.g.f.fXRQ-content.html',
-            icon: 'icon-1660611489',
+            icon: 'icon-1090176878',
             children: [
                 {_reference: '_6.n.mP8PGAE.eO7V.b.dN.g.f.fXRQ' },
                 {_reference: '_6.n.q.hYPGAE.eO7V.b.dN.g.f.fXRQ' }
@@ -2953,21 +3082,21 @@
             title: 'cALC: Fluorescence Tomogrpahy',
             id: '_6.n.mP8PGAE.eO7V.b.dN.g.f.fXRQ',
             object: '_6.n.gJUPGAE.eO7V.b.dN.g.f.fXRQ-content.html#_6.n.mP8PGAE.eO7V.b.dN.g.f.fXRQ',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: 'sRX User',
             id: '_6.n.q.hYPGAE.eO7V.b.dN.g.f.fXRQ',
             object: '_6.n.gJUPGAE.eO7V.b.dN.g.f.fXRQ-content.html#_6.n.q.hYPGAE.eO7V.b.dN.g.f.fXRQ',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: '',
             id: '_.o0QU.sPGBE.eO7V.b.dN.g.f.fXRQ',
             object: '_.o0QU.sPGBE.eO7V.b.dN.g.f.fXRQ-content.html',
-            icon: 'icon-1660611489',
+            icon: 'icon-1090176878',
             children: [
                 {_reference: '_.o0SJ4PGBE.eO7V.b.dN.g.f.fXRQ' },
                 {_reference: '_.o0T_EPGBE.eO7V.b.dN.g.f.fXRQ' }
@@ -2978,21 +3107,21 @@
             title: 'cALC: Phase Contrast',
             id: '_.o0SJ4PGBE.eO7V.b.dN.g.f.fXRQ',
             object: '_.o0QU.sPGBE.eO7V.b.dN.g.f.fXRQ-content.html#_.o0SJ4PGBE.eO7V.b.dN.g.f.fXRQ',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: 'hXN User',
             id: '_.o0T_EPGBE.eO7V.b.dN.g.f.fXRQ',
             object: '_.o0QU.sPGBE.eO7V.b.dN.g.f.fXRQ-content.html#_.o0T_EPGBE.eO7V.b.dN.g.f.fXRQ',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: 'DataBrokerAPI',
             id: '_53.wC.kP.u.gE.eO.p.e4.kD.d8R3.e.g',
             object: '_53.wC.kP.u.gE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon-1778051182',
+            icon: 'icon470100944',
             children: [
                 {_reference: '_9RD.g.sP.u.gE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_W.uCE8P.y.fE.eO.p.e4.kD.d8R3.e.g' }
@@ -3003,21 +3132,21 @@
             title: 'DB: Export',
             id: '_9RD.g.sP.u.gE.eO.p.e4.kD.d8R3.e.g',
             object: '_9RD.g.sP.u.gE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon1845831814'
+            icon: 'icon-234542445'
         }
 		,
         {
             title: 'DB: Utilize metadata',
             id: '_W.uCE8P.y.fE.eO.p.e4.kD.d8R3.e.g',
             object: '_W.uCE8P.y.fE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon1845831814'
+            icon: 'icon-234542445'
         }
 		,
         {
             title: '',
             id: '_8SBI.wP.u.kE.eO.p.e4.kD.d8R3.e.g',
             object: '_8SBI.wP.u.kE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon-1660611489',
+            icon: 'icon-1090176878',
             children: [
                 {_reference: '_8SCW4P.u.kE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_8SEMEP.u.kE.eO.p.e4.kD.d8R3.e.g' }
@@ -3028,21 +3157,21 @@
             title: 'cALC: Cake',
             id: '_8SCW4P.u.kE.eO.p.e4.kD.d8R3.e.g',
             object: '_8SBI.wP.u.kE.eO.p.e4.kD.d8R3.e.g-content.html#_8SCW4P.u.kE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: 'xPD User',
             id: '_8SEMEP.u.kE.eO.p.e4.kD.d8R3.e.g',
             object: '_8SBI.wP.u.kE.eO.p.e4.kD.d8R3.e.g-content.html#_8SEMEP.u.kE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: '',
             id: '_.cK.qVQP.x.pE.eO.p.e4.kD.d8R3.e.g',
             object: '_.cK.qVQP.x.pE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon-1660611489',
+            icon: 'icon-1090176878',
             children: [
                 {_reference: '_.cK.r.jYP.x.pE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_.cK.tY.kP.x.pE.eO.p.e4.kD.d8R3.e.g' }
@@ -3053,21 +3182,21 @@
             title: 'cALIB: Detector Tilt',
             id: '_.cK.r.jYP.x.pE.eO.p.e4.kD.d8R3.e.g',
             object: '_.cK.qVQP.x.pE.eO.p.e4.kD.d8R3.e.g-content.html#_.cK.r.jYP.x.pE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: 'coherent Scattering User',
             id: '_.cK.tY.kP.x.pE.eO.p.e4.kD.d8R3.e.g',
             object: '_.cK.qVQP.x.pE.eO.p.e4.kD.d8R3.e.g-content.html#_.cK.tY.kP.x.pE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: '',
             id: '_.c.k3.lAP.x.pE.eO.p.e4.kD.d8R3.e.g',
             object: '_.c.k3.lAP.x.pE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon-1660611489',
+            icon: 'icon-1090176878',
             children: [
                 {_reference: '_.c.k4.zIP.x.pE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_.c.k6BQP.x.pE.eO.p.e4.kD.d8R3.e.g' }
@@ -3078,21 +3207,21 @@
             title: 'cALIB: Find Image Center',
             id: '_.c.k4.zIP.x.pE.eO.p.e4.kD.d8R3.e.g',
             object: '_.c.k3.lAP.x.pE.eO.p.e4.kD.d8R3.e.g-content.html#_.c.k4.zIP.x.pE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: 'coherent Scattering User',
             id: '_.c.k6BQP.x.pE.eO.p.e4.kD.d8R3.e.g',
             object: '_.c.k3.lAP.x.pE.eO.p.e4.kD.d8R3.e.g-content.html#_.c.k6BQP.x.pE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: '',
             id: '_.c-P.uUP.x.pE.eO.p.e4.kD.d8R3.e.g',
             object: '_.c-P.uUP.x.pE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon-1660611489',
+            icon: 'icon-1090176878',
             children: [
                 {_reference: '_.c-Q8.cP.x.pE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_.c-S.x.oP.x.pE.eO.p.e4.kD.d8R3.e.g' }
@@ -3103,21 +3232,21 @@
             title: 'cALIB: Sample Distance',
             id: '_.c-Q8.cP.x.pE.eO.p.e4.kD.d8R3.e.g',
             object: '_.c-P.uUP.x.pE.eO.p.e4.kD.d8R3.e.g-content.html#_.c-Q8.cP.x.pE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: 'coherent Scattering User',
             id: '_.c-S.x.oP.x.pE.eO.p.e4.kD.d8R3.e.g',
             object: '_.c-P.uUP.x.pE.eO.p.e4.kD.d8R3.e.g-content.html#_.c-S.x.oP.x.pE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: '',
             id: '_.j.v9.oAP.yQE.eO.p.e4.kD.d8R3.e.g',
             object: '_.j.v9.oAP.yQE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon-1660611489',
+            icon: 'icon-1090176878',
             children: [
                 {_reference: '_.j.v-2IP.yQE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_.j.wAEQP.yQE.eO.p.e4.kD.d8R3.e.g' }
@@ -3128,21 +3257,21 @@
             title: 'dB: Export',
             id: '_.j.v-2IP.yQE.eO.p.e4.kD.d8R3.e.g',
             object: '_.j.v9.oAP.yQE.eO.p.e4.kD.d8R3.e.g-content.html#_.j.v-2IP.yQE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: 'sRX User',
             id: '_.j.wAEQP.yQE.eO.p.e4.kD.d8R3.e.g',
             object: '_.j.v9.oAP.yQE.eO.p.e4.kD.d8R3.e.g-content.html#_.j.wAEQP.yQE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: '',
             id: '_.pE.nY.gP.yQE.eO.p.e4.kD.d8R3.e.g',
             object: '_.pE.nY.gP.yQE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon-1660611489',
+            icon: 'icon-1090176878',
             children: [
                 {_reference: '_.pE.n_.kP.yQE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_.pE.p0.wP.yQE.eO.p.e4.kD.d8R3.e.g' }
@@ -3153,21 +3282,21 @@
             title: 'cALIB: Multi-channel to Energy',
             id: '_.pE.n_.kP.yQE.eO.p.e4.kD.d8R3.e.g',
             object: '_.pE.nY.gP.yQE.eO.p.e4.kD.d8R3.e.g-content.html#_.pE.n_.kP.yQE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: 'sRX User',
             id: '_.pE.p0.wP.yQE.eO.p.e4.kD.d8R3.e.g',
             object: '_.pE.nY.gP.yQE.eO.p.e4.kD.d8R3.e.g-content.html#_.pE.p0.wP.yQE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: '',
             id: '_.c.o.q.jQP.ySE.eO.p.e4.kD.d8R3.e.g',
             object: '_.c.o.q.jQP.ySE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon-1660611489',
+            icon: 'icon-1090176878',
             children: [
                 {_reference: '_.c.o.r.xYP.ySE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_.c.o.t.m.kP.ySE.eO.p.e4.kD.d8R3.e.g' }
@@ -3178,21 +3307,21 @@
             title: 'cALIB: Channel to Energy',
             id: '_.c.o.r.xYP.ySE.eO.p.e4.kD.d8R3.e.g',
             object: '_.c.o.q.jQP.ySE.eO.p.e4.kD.d8R3.e.g-content.html#_.c.o.r.xYP.ySE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: 'iXS User',
             id: '_.c.o.t.m.kP.ySE.eO.p.e4.kD.d8R3.e.g',
             object: '_.c.o.q.jQP.ySE.eO.p.e4.kD.d8R3.e.g-content.html#_.c.o.t.m.kP.ySE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: '',
             id: '_.wC.sL.oP.yVE.eO.p.e4.kD.d8R3.e.g',
             object: '_.wC.sL.oP.yVE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon-1660611489',
+            icon: 'icon-1090176878',
             children: [
                 {_reference: '_.wC.tZ.wP.yVE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_.wC.vO8P.yVE.eO.p.e4.kD.d8R3.e.g' }
@@ -3203,21 +3332,21 @@
             title: 'cALC: 1D Fitting',
             id: '_.wC.tZ.wP.yVE.eO.p.e4.kD.d8R3.e.g',
             object: '_.wC.sL.oP.yVE.eO.p.e4.kD.d8R3.e.g-content.html#_.wC.tZ.wP.yVE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: 'iXS User',
             id: '_.wC.vO8P.yVE.eO.p.e4.kD.d8R3.e.g',
             object: '_.wC.sL.oP.yVE.eO.p.e4.kD.d8R3.e.g-content.html#_.wC.vO8P.yVE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: '',
             id: '_BP-XAP.yWE.eO.p.e4.kD.d8R3.e.g',
             object: '_BP-XAP.yWE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon-1660611489',
+            icon: 'icon-1090176878',
             children: [
                 {_reference: '_BP_.lIP.yWE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_BQB.aUP.yWE.eO.p.e4.kD.d8R3.e.g' }
@@ -3228,21 +3357,21 @@
             title: 'cALC: 1D Peak Finding',
             id: '_BP_.lIP.yWE.eO.p.e4.kD.d8R3.e.g',
             object: '_BP-XAP.yWE.eO.p.e4.kD.d8R3.e.g-content.html#_BP_.lIP.yWE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: 'iXS User',
             id: '_BQB.aUP.yWE.eO.p.e4.kD.d8R3.e.g',
             object: '_BP-XAP.yWE.eO.p.e4.kD.d8R3.e.g-content.html#_BQB.aUP.yWE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: '',
             id: '_DJ.uG4P.yWE.eO.p.e4.kD.d8R3.e.g',
             object: '_DJ.uG4P.yWE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon-1660611489',
+            icon: 'icon-1090176878',
             children: [
                 {_reference: '_DJ.u.t8P.yWE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_DJ.w.jIP.yWE.eO.p.e4.kD.d8R3.e.g' }
@@ -3253,21 +3382,21 @@
             title: 'dB: Export',
             id: '_DJ.u.t8P.yWE.eO.p.e4.kD.d8R3.e.g',
             object: '_DJ.uG4P.yWE.eO.p.e4.kD.d8R3.e.g-content.html#_DJ.u.t8P.yWE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: 'iXS User',
             id: '_DJ.w.jIP.yWE.eO.p.e4.kD.d8R3.e.g',
             object: '_DJ.uG4P.yWE.eO.p.e4.kD.d8R3.e.g-content.html#_DJ.w.jIP.yWE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: '',
             id: '_H3H.qIP.yWE.eO.p.e4.kD.d8R3.e.g',
             object: '_H3H.qIP.yWE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon-1660611489',
+            icon: 'icon-1090176878',
             children: [
                 {_reference: '_H3IRMP.yWE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_H3J.fUP.yWE.eO.p.e4.kD.d8R3.e.g' }
@@ -3278,21 +3407,21 @@
             title: 'vIS: 3D Line',
             id: '_H3IRMP.yWE.eO.p.e4.kD.d8R3.e.g',
             object: '_H3H.qIP.yWE.eO.p.e4.kD.d8R3.e.g-content.html#_H3IRMP.yWE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: 'iXS User',
             id: '_H3J.fUP.yWE.eO.p.e4.kD.d8R3.e.g',
             object: '_H3H.qIP.yWE.eO.p.e4.kD.d8R3.e.g-content.html#_H3J.fUP.yWE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: '',
             id: '_IW5WYP.yWE.eO.p.e4.kD.d8R3.e.g',
             object: '_IW5WYP.yWE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon-1660611489',
+            icon: 'icon-1090176878',
             children: [
                 {_reference: '_IW6.k.gP.yWE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_IW7.y.oP.yWE.eO.p.e4.kD.d8R3.e.g' }
@@ -3303,21 +3432,21 @@
             title: 'vIS: Contour',
             id: '_IW6.k.gP.yWE.eO.p.e4.kD.d8R3.e.g',
             object: '_IW5WYP.yWE.eO.p.e4.kD.d8R3.e.g-content.html#_IW6.k.gP.yWE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: 'iXS User',
             id: '_IW7.y.oP.yWE.eO.p.e4.kD.d8R3.e.g',
             object: '_IW5WYP.yWE.eO.p.e4.kD.d8R3.e.g-content.html#_IW7.y.oP.yWE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: '',
             id: '_O14W.kP.yXE.eO.p.e4.kD.d8R3.e.g',
             object: '_O14W.kP.yXE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon-1660611489',
+            icon: 'icon-1090176878',
             children: [
                 {_reference: '_O15.k.sP.yXE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_O16.y0P.yXE.eO.p.e4.kD.d8R3.e.g' }
@@ -3328,21 +3457,21 @@
             title: 'vIS: 1D Stack',
             id: '_O15.k.sP.yXE.eO.p.e4.kD.d8R3.e.g',
             object: '_O14W.kP.yXE.eO.p.e4.kD.d8R3.e.g-content.html#_O15.k.sP.yXE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: 'coherent Scattering User',
             id: '_O16.y0P.yXE.eO.p.e4.kD.d8R3.e.g',
             object: '_O14W.kP.yXE.eO.p.e4.kD.d8R3.e.g-content.html#_O16.y0P.yXE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: '',
             id: '_.hOB.y.kP.yXE.eO.p.e4.kD.d8R3.e.g',
             object: '_.hOB.y.kP.yXE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon-1660611489',
+            icon: 'icon-1090176878',
             children: [
                 {_reference: '_.hODA.sP.yXE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_.hOE14P.yXE.eO.p.e4.kD.d8R3.e.g' }
@@ -3353,21 +3482,21 @@
             title: 'cALC: Masking',
             id: '_.hODA.sP.yXE.eO.p.e4.kD.d8R3.e.g',
             object: '_.hOB.y.kP.yXE.eO.p.e4.kD.d8R3.e.g-content.html#_.hODA.sP.yXE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: 'coherent Scattering User',
             id: '_.hOE14P.yXE.eO.p.e4.kD.d8R3.e.g',
             object: '_.hOB.y.kP.yXE.eO.p.e4.kD.d8R3.e.g-content.html#_.hOE14P.yXE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: '',
             id: '_.h.pCT.kP.yXE.eO.p.e4.kD.d8R3.e.g',
             object: '_.h.pCT.kP.yXE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon-1660611489',
+            icon: 'icon-1090176878',
             children: [
                 {_reference: '_.h.pD.h.sP.yXE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_.h.pFW4P.yXE.eO.p.e4.kD.d8R3.e.g' }
@@ -3378,21 +3507,21 @@
             title: 'cALC: 1D Fitting',
             id: '_.h.pD.h.sP.yXE.eO.p.e4.kD.d8R3.e.g',
             object: '_.h.pCT.kP.yXE.eO.p.e4.kD.d8R3.e.g-content.html#_.h.pD.h.sP.yXE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: 'coherent Scattering User',
             id: '_.h.pFW4P.yXE.eO.p.e4.kD.d8R3.e.g',
             object: '_.h.pCT.kP.yXE.eO.p.e4.kD.d8R3.e.g-content.html#_.h.pFW4P.yXE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: '',
             id: '_.i.v.uO0P.yXE.eO.p.e4.kD.d8R3.e.g',
             object: '_.i.v.uO0P.yXE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon-1660611489',
+            icon: 'icon-1090176878',
             children: [
                 {_reference: '_.i.v.v.c8P.yXE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_.i.v.w.rEP.yXE.eO.p.e4.kD.d8R3.e.g' }
@@ -3403,21 +3532,21 @@
             title: 'cALC: Image Algebra',
             id: '_.i.v.v.c8P.yXE.eO.p.e4.kD.d8R3.e.g',
             object: '_.i.v.uO0P.yXE.eO.p.e4.kD.d8R3.e.g-content.html#_.i.v.v.c8P.yXE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: 'coherent Scattering User',
             id: '_.i.v.w.rEP.yXE.eO.p.e4.kD.d8R3.e.g',
             object: '_.i.v.uO0P.yXE.eO.p.e4.kD.d8R3.e.g-content.html#_.i.v.w.rEP.yXE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: '',
             id: '_.k.j.p.q.kP.yXE.eO.p.e4.kD.d8R3.e.g',
             object: '_.k.j.p.q.kP.yXE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon-1660611489',
+            icon: 'icon-1090176878',
             children: [
                 {_reference: '_.k.j.q4.sP.yXE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_.k.j.s.t4P.yXE.eO.p.e4.kD.d8R3.e.g' }
@@ -3428,21 +3557,21 @@
             title: 'cALC: Image Corrections',
             id: '_.k.j.q4.sP.yXE.eO.p.e4.kD.d8R3.e.g',
             object: '_.k.j.p.q.kP.yXE.eO.p.e4.kD.d8R3.e.g-content.html#_.k.j.q4.sP.yXE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: 'coherent Scattering User',
             id: '_.k.j.s.t4P.yXE.eO.p.e4.kD.d8R3.e.g',
             object: '_.k.j.p.q.kP.yXE.eO.p.e4.kD.d8R3.e.g-content.html#_.k.j.s.t4P.yXE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: '',
             id: '_.lO.n6MP.yXE.eO.p.e4.kD.d8R3.e.g',
             object: '_.lO.n6MP.yXE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon-1660611489',
+            icon: 'icon-1090176878',
             children: [
                 {_reference: '_.lO.pIUP.yXE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_.lO.q9.gP.yXE.eO.p.e4.kD.d8R3.e.g' }
@@ -3453,21 +3582,21 @@
             title: 'cALC: Automated Masking',
             id: '_.lO.pIUP.yXE.eO.p.e4.kD.d8R3.e.g',
             object: '_.lO.n6MP.yXE.eO.p.e4.kD.d8R3.e.g-content.html#_.lO.pIUP.yXE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: 'coherent Scattering User',
             id: '_.lO.q9.gP.yXE.eO.p.e4.kD.d8R3.e.g',
             object: '_.lO.n6MP.yXE.eO.p.e4.kD.d8R3.e.g-content.html#_.lO.q9.gP.yXE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: '',
             id: '_PQ.b.vIP.yYE.eO.p.e4.kD.d8R3.e.g',
             object: '_PQ.b.vIP.yYE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon-1660611489',
+            icon: 'icon-1090176878',
             children: [
                 {_reference: '_PQ.c9QP.yYE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_PQ.eLYP.yYE.eO.p.e4.kD.d8R3.e.g' }
@@ -3478,21 +3607,21 @@
             title: 'cALC: XRF Microscopy Analysis',
             id: '_PQ.c9QP.yYE.eO.p.e4.kD.d8R3.e.g',
             object: '_PQ.b.vIP.yYE.eO.p.e4.kD.d8R3.e.g-content.html#_PQ.c9QP.yYE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: 'hXN User',
             id: '_PQ.eLYP.yYE.eO.p.e4.kD.d8R3.e.g',
             object: '_PQ.b.vIP.yYE.eO.p.e4.kD.d8R3.e.g-content.html#_PQ.eLYP.yYE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: '',
             id: '_.b.a.h.t.cP.yYE.eO.p.e4.kD.d8R3.e.g',
             object: '_.b.a.h.t.cP.yYE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon-1660611489',
+            icon: 'icon-1090176878',
             children: [
                 {_reference: '_.b.a.iU.gP.yYE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_.b.a.kJ.sP.yYE.eO.p.e4.kD.d8R3.e.g' }
@@ -3503,21 +3632,21 @@
             title: 'cALC: Tomography with self-absorption correction',
             id: '_.b.a.iU.gP.yYE.eO.p.e4.kD.d8R3.e.g',
             object: '_.b.a.h.t.cP.yYE.eO.p.e4.kD.d8R3.e.g-content.html#_.b.a.iU.gP.yYE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: 'hXN User',
             id: '_.b.a.kJ.sP.yYE.eO.p.e4.kD.d8R3.e.g',
             object: '_.b.a.h.t.cP.yYE.eO.p.e4.kD.d8R3.e.g-content.html#_.b.a.kJ.sP.yYE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: '',
             id: '_.h.l.c-.oP.yYE.eO.p.e4.kD.d8R3.e.g',
             object: '_.h.l.c-.oP.yYE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon-1660611489',
+            icon: 'icon-1090176878',
             children: [
                 {_reference: '_.h.l.d.l.sP.yYE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_.h.l.f.a4P.yYE.eO.p.e4.kD.d8R3.e.g' }
@@ -3528,21 +3657,21 @@
             title: 'cALC: 2D XANES',
             id: '_.h.l.d.l.sP.yYE.eO.p.e4.kD.d8R3.e.g',
             object: '_.h.l.c-.oP.yYE.eO.p.e4.kD.d8R3.e.g-content.html#_.h.l.d.l.sP.yYE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: 'hXN User',
             id: '_.h.l.f.a4P.yYE.eO.p.e4.kD.d8R3.e.g',
             object: '_.h.l.c-.oP.yYE.eO.p.e4.kD.d8R3.e.g-content.html#_.h.l.f.a4P.yYE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: '',
             id: '_G.s5.yYP.yZE.eO.p.e4.kD.d8R3.e.g',
             object: '_G.s5.yYP.yZE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon-1660611489',
+            icon: 'icon-1090176878',
             children: [
                 {_reference: '_G.s6Z.cP.yZE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_G.s8O.oP.yZE.eO.p.e4.kD.d8R3.e.g' }
@@ -3553,21 +3682,21 @@
             title: 'cALC: Ptychography',
             id: '_G.s6Z.cP.yZE.eO.p.e4.kD.d8R3.e.g',
             object: '_G.s5.yYP.yZE.eO.p.e4.kD.d8R3.e.g-content.html#_G.s6Z.cP.yZE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: 'hXN User',
             id: '_G.s8O.oP.yZE.eO.p.e4.kD.d8R3.e.g',
             object: '_G.s5.yYP.yZE.eO.p.e4.kD.d8R3.e.g-content.html#_G.s8O.oP.yZE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: '',
             id: '_.q.s.y.hIP.yZE.eO.p.e4.kD.d8R3.e.g',
             object: '_.q.s.y.hIP.yZE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon-1660611489',
+            icon: 'icon-1090176878',
             children: [
                 {_reference: '_.q.s.z.vQP.yZE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_.q.s1.k.cP.yZE.eO.p.e4.kD.d8R3.e.g' }
@@ -3578,21 +3707,21 @@
             title: 'cALC: Convert to reciprocal space',
             id: '_.q.s.z.vQP.yZE.eO.p.e4.kD.d8R3.e.g',
             object: '_.q.s.y.hIP.yZE.eO.p.e4.kD.d8R3.e.g-content.html#_.q.s.z.vQP.yZE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: 'hXN User',
             id: '_.q.s1.k.cP.yZE.eO.p.e4.kD.d8R3.e.g',
             object: '_.q.s.y.hIP.yZE.eO.p.e4.kD.d8R3.e.g-content.html#_.q.s1.k.cP.yZE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: '',
             id: '_4_IB.gP.y.dE.eO.p.e4.kD.d8R3.e.g',
             object: '_4_IB.gP.y.dE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon-1660611489',
+            icon: 'icon-1090176878',
             children: [
                 {_reference: '_4_I.o.kP.y.dE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_4_J2.sP.y.dE.eO.p.e4.kD.d8R3.e.g' }
@@ -3603,21 +3732,21 @@
             title: 'cALC: Automatic sample alignment',
             id: '_4_I.o.kP.y.dE.eO.p.e4.kD.d8R3.e.g',
             object: '_4_IB.gP.y.dE.eO.p.e4.kD.d8R3.e.g-content.html#_4_I.o.kP.y.dE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: 'hXN User',
             id: '_4_J2.sP.y.dE.eO.p.e4.kD.d8R3.e.g',
             object: '_4_IB.gP.y.dE.eO.p.e4.kD.d8R3.e.g-content.html#_4_J2.sP.y.dE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: '',
             id: '_.gC.m.n.oP.y.fE.eO.p.e4.kD.d8R3.e.g',
             object: '_.gC.m.n.oP.y.fE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon-1660611489',
+            icon: 'icon-1090176878',
             children: [
                 {_reference: '_.gC.n1.wP.y.fE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_.gC.pD4P.y.fE.eO.p.e4.kD.d8R3.e.g' }
@@ -3628,21 +3757,21 @@
             title: 'vIS: 3D Overlay',
             id: '_.gC.n1.wP.y.fE.eO.p.e4.kD.d8R3.e.g',
             object: '_.gC.m.n.oP.y.fE.eO.p.e4.kD.d8R3.e.g-content.html#_.gC.n1.wP.y.fE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: 'hXN User',
             id: '_.gC.pD4P.y.fE.eO.p.e4.kD.d8R3.e.g',
             object: '_.gC.m.n.oP.y.fE.eO.p.e4.kD.d8R3.e.g-content.html#_.gC.pD4P.y.fE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: '',
             id: '_.rL.i.q8P.y.fE.eO.p.e4.kD.d8R3.e.g',
             object: '_.rL.i.q8P.y.fE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon-1660611489',
+            icon: 'icon-1090176878',
             children: [
                 {_reference: '_.rL.jSAP.y.fE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_.rL.lHMP.y.fE.eO.p.e4.kD.d8R3.e.g' }
@@ -3653,21 +3782,21 @@
             title: 'cTRL: Convert from reciprocal space to lab space',
             id: '_.rL.jSAP.y.fE.eO.p.e4.kD.d8R3.e.g',
             object: '_.rL.i.q8P.y.fE.eO.p.e4.kD.d8R3.e.g-content.html#_.rL.jSAP.y.fE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: 'hXN User',
             id: '_.rL.lHMP.y.fE.eO.p.e4.kD.d8R3.e.g',
             object: '_.rL.i.q8P.y.fE.eO.p.e4.kD.d8R3.e.g-content.html#_.rL.lHMP.y.fE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: 'hooks',
             id: '_.gIO.c.kP.y.hE.eO.p.e4.kD.d8R3.e.g',
             object: '_.gIO.c.kP.y.hE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon-1778051182',
+            icon: 'icon470100944',
             children: [
                 {_reference: '_.h9Q.r.kP.y.hE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_.m.o.y.xIP.y.iE.eO.p.e4.kD.d8R3.e.g' },
@@ -3684,63 +3813,63 @@
             title: 'HOOK: Inelastic Modeling Software',
             id: '_.h9Q.r.kP.y.hE.eO.p.e4.kD.d8R3.e.g',
             object: '_.h9Q.r.kP.y.hE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon1845831814'
+            icon: 'icon-234542445'
         }
 		,
         {
             title: 'HOOK: CSD',
             id: '_.m.o.y.xIP.y.iE.eO.p.e4.kD.d8R3.e.g',
             object: '_.m.o.y.xIP.y.iE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon1845831814'
+            icon: 'icon-234542445'
         }
 		,
         {
             title: 'HOOK: ICSD',
             id: '_.n.hAL.gP.y.iE.eO.p.e4.kD.d8R3.e.g',
             object: '_.n.hAL.gP.y.iE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon1845831814'
+            icon: 'icon-234542445'
         }
 		,
         {
             title: 'HOOK: GSAS',
             id: '_.r-V5.gP.y.iE.eO.p.e4.kD.d8R3.e.g',
             object: '_.r-V5.gP.y.iE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon1845831814'
+            icon: 'icon-234542445'
         }
 		,
         {
             title: 'HOOK: PowderCell',
             id: '_.s5ZM.gP.y.iE.eO.p.e4.kD.d8R3.e.g',
             object: '_.s5ZM.gP.y.iE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon1845831814'
+            icon: 'icon-234542445'
         }
 		,
         {
             title: 'HOOK: Atoms',
             id: '_.t3PU0P.y.iE.eO.p.e4.kD.d8R3.e.g',
             object: '_.t3PU0P.y.iE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon1845831814'
+            icon: 'icon-234542445'
         }
 		,
         {
             title: 'HOOK: AtomEye',
             id: '_.u.m-I.oP.y.iE.eO.p.e4.kD.d8R3.e.g',
             object: '_.u.m-I.oP.y.iE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon1845831814'
+            icon: 'icon-234542445'
         }
 		,
         {
             title: 'HOOK: Complex Modeling (Billinge)',
             id: '_.v.b17IP.y.iE.eO.p.e4.kD.d8R3.e.g',
             object: '_.v.b17IP.y.iE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon1845831814'
+            icon: 'icon-234542445'
         }
 		,
         {
             title: '',
             id: '_.m-7O.oP.y.hE.eO.p.e4.kD.d8R3.e.g',
             object: '_.m-7O.oP.y.hE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon-1660611489',
+            icon: 'icon-1090176878',
             children: [
                 {_reference: '_.m-8.c.wP.y.hE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_.m--R8P.y.hE.eO.p.e4.kD.d8R3.e.g' }
@@ -3751,21 +3880,21 @@
             title: 'hOOK: Inelastic Modeling Software',
             id: '_.m-8.c.wP.y.hE.eO.p.e4.kD.d8R3.e.g',
             object: '_.m-7O.oP.y.hE.eO.p.e4.kD.d8R3.e.g-content.html#_.m-8.c.wP.y.hE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: 'iXS User',
             id: '_.m--R8P.y.hE.eO.p.e4.kD.d8R3.e.g',
             object: '_.m-7O.oP.y.hE.eO.p.e4.kD.d8R3.e.g-content.html#_.m--R8P.y.hE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: '',
             id: '_S.kP.g4P.y.mE.eO.p.e4.kD.d8R3.e.g',
             object: '_S.kP.g4P.y.mE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon-1660611489',
+            icon: 'icon-1090176878',
             children: [
                 {_reference: '_S.kQ.vAP.y.mE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_S.kR9IP.y.mE.eO.p.e4.kD.d8R3.e.g' }
@@ -3776,21 +3905,21 @@
             title: 'cALC: Image Registration',
             id: '_S.kQ.vAP.y.mE.eO.p.e4.kD.d8R3.e.g',
             object: '_S.kP.g4P.y.mE.eO.p.e4.kD.d8R3.e.g-content.html#_S.kQ.vAP.y.mE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: 'hXN User',
             id: '_S.kR9IP.y.mE.eO.p.e4.kD.d8R3.e.g',
             object: '_S.kP.g4P.y.mE.eO.p.e4.kD.d8R3.e.g-content.html#_S.kR9IP.y.mE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: '',
             id: '_S8V30P.y.mE.eO.p.e4.kD.d8R3.e.g',
             object: '_S8V30P.y.mE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon-1660611489',
+            icon: 'icon-1090176878',
             children: [
                 {_reference: '_S8W.e4P.y.mE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_S8XF8P.y.mE.eO.p.e4.kD.d8R3.e.g' }
@@ -3801,21 +3930,21 @@
             title: 'cALC: Image Correlation',
             id: '_S8W.e4P.y.mE.eO.p.e4.kD.d8R3.e.g',
             object: '_S8V30P.y.mE.eO.p.e4.kD.d8R3.e.g-content.html#_S8W.e4P.y.mE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: 'hXN User',
             id: '_S8XF8P.y.mE.eO.p.e4.kD.d8R3.e.g',
             object: '_S8V30P.y.mE.eO.p.e4.kD.d8R3.e.g-content.html#_S8XF8P.y.mE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: 'kitchen_sink',
             id: '_.y.h.xYAP.y.nE.eO.p.e4.kD.d8R3.e.g',
             object: '_.y.h.xYAP.y.nE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon-1778051182',
+            icon: 'icon470100944',
             children: [
                 {_reference: '_.s.j-.h.sP.yYE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_.eXG10PGAE.eO7V.b.dN.g.f.fXRQ' },
@@ -3830,49 +3959,49 @@
             title: 'HXN_DEV: Ptychography',
             id: '_.s.j-.h.sP.yYE.eO.p.e4.kD.d8R3.e.g',
             object: '_.s.j-.h.sP.yYE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon1845831814'
+            icon: 'icon-234542445'
         }
 		,
         {
             title: 'HXN_DEV: Differential Phase Contrast',
             id: '_.eXG10PGAE.eO7V.b.dN.g.f.fXRQ',
             object: '_.eXG10PGAE.eO7V.b.dN.g.f.fXRQ-content.html',
-            icon: 'icon1845831814'
+            icon: 'icon-234542445'
         }
 		,
         {
             title: 'HXN_DEV: Tomography with self-absorption correction',
             id: '_Z.yM.d.sP.yYE.eO.p.e4.kD.d8R3.e.g',
             object: '_Z.yM.d.sP.yYE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon1845831814'
+            icon: 'icon-234542445'
         }
 		,
         {
             title: 'HXN_DEV: XRF Microscopy',
             id: '_-2PN.kP.yXE.eO.p.e4.kD.d8R3.e.g',
             object: '_-2PN.kP.yXE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon1845831814'
+            icon: 'icon-234542445'
         }
 		,
         {
             title: 'CHX_DEV: 1-time correlation',
             id: '_2.jX.lMP.y.nE.eO.p.e4.kD.d8R3.e.g',
             object: '_2.jX.lMP.y.nE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon1845831814'
+            icon: 'icon-234542445'
         }
 		,
         {
             title: 'CHX_DEV: 2-time correlation',
             id: '_3.o.x.uEP.y.nE.eO.p.e4.kD.d8R3.e.g',
             object: '_3.o.x.uEP.y.nE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon1845831814'
+            icon: 'icon-234542445'
         }
 		,
         {
             title: '',
             id: '_MEDN.gP.y.qE.eO.p.e4.kD.d8R3.e.g',
             object: '_MEDN.gP.y.qE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon-1660611489',
+            icon: 'icon-1090176878',
             children: [
                 {_reference: '_MEE.b.oP.y.qE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_MEF.p.wP.y.qE.eO.p.e4.kD.d8R3.e.g' }
@@ -3883,21 +4012,21 @@
             title: 'cHX_DEV: 1-time correlation',
             id: '_MEE.b.oP.y.qE.eO.p.e4.kD.d8R3.e.g',
             object: '_MEDN.gP.y.qE.eO.p.e4.kD.d8R3.e.g-content.html#_MEE.b.oP.y.qE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: 'coherent Scattering User',
             id: '_MEF.p.wP.y.qE.eO.p.e4.kD.d8R3.e.g',
             object: '_MEDN.gP.y.qE.eO.p.e4.kD.d8R3.e.g-content.html#_MEF.p.wP.y.qE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: '',
             id: '_M.h.s.y0P.y.qE.eO.p.e4.kD.d8R3.e.g',
             object: '_M.h.s.y0P.y.qE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon-1660611489',
+            icon: 'icon-1090176878',
             children: [
                 {_reference: '_M.h.tZ4P.y.qE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_M.h.u.oAP.y.qE.eO.p.e4.kD.d8R3.e.g' }
@@ -3908,21 +4037,21 @@
             title: 'cHX_DEV: 2-time correlation',
             id: '_M.h.tZ4P.y.qE.eO.p.e4.kD.d8R3.e.g',
             object: '_M.h.s.y0P.y.qE.eO.p.e4.kD.d8R3.e.g-content.html#_M.h.tZ4P.y.qE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: 'coherent Scattering User',
             id: '_M.h.u.oAP.y.qE.eO.p.e4.kD.d8R3.e.g',
             object: '_M.h.s.y0P.y.qE.eO.p.e4.kD.d8R3.e.g-content.html#_M.h.u.oAP.y.qE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: '',
             id: '_RX9.h.sP.y.rE.eO.p.e4.kD.d8R3.e.g',
             object: '_RX9.h.sP.y.rE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon-1660611489',
+            icon: 'icon-1090176878',
             children: [
                 {_reference: '_RX-.v0P.y.rE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_RX_98P.y.rE.eO.p.e4.kD.d8R3.e.g' }
@@ -3933,21 +4062,21 @@
             title: 'dB: Utilize metadata',
             id: '_RX-.v0P.y.rE.eO.p.e4.kD.d8R3.e.g',
             object: '_RX9.h.sP.y.rE.eO.p.e4.kD.d8R3.e.g-content.html#_RX-.v0P.y.rE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: 'hXN User',
             id: '_RX_98P.y.rE.eO.p.e4.kD.d8R3.e.g',
             object: '_RX9.h.sP.y.rE.eO.p.e4.kD.d8R3.e.g-content.html#_RX_98P.y.rE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: '',
             id: '_VP.d-.wP.y.rE.eO.p.e4.kD.d8R3.e.g',
             object: '_VP.d-.wP.y.rE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon-1660611489',
+            icon: 'icon-1090176878',
             children: [
                 {_reference: '_VP.fM4P.y.rE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_VP.hCEP.y.rE.eO.p.e4.kD.d8R3.e.g' }
@@ -3958,21 +4087,21 @@
             title: 'cALC: 3D reconstruction (binning)',
             id: '_VP.fM4P.y.rE.eO.p.e4.kD.d8R3.e.g',
             object: '_VP.d-.wP.y.rE.eO.p.e4.kD.d8R3.e.g-content.html#_VP.fM4P.y.rE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: 'hXN User',
             id: '_VP.hCEP.y.rE.eO.p.e4.kD.d8R3.e.g',
             object: '_VP.d-.wP.y.rE.eO.p.e4.kD.d8R3.e.g-content.html#_VP.hCEP.y.rE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: '',
             id: '_V4.nM8P.y.sE.eO.p.e4.kD.d8R3.e.g',
             object: '_V4.nM8P.y.sE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon-1660611489',
+            icon: 'icon-1090176878',
             children: [
                 {_reference: '_V4.n0AP.y.sE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_V4.pCIP.y.sE.eO.p.e4.kD.d8R3.e.g' }
@@ -3983,21 +4112,21 @@
             title: 'cALC: Array Algebra',
             id: '_V4.n0AP.y.sE.eO.p.e4.kD.d8R3.e.g',
             object: '_V4.nM8P.y.sE.eO.p.e4.kD.d8R3.e.g-content.html#_V4.n0AP.y.sE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: 'iXS User',
             id: '_V4.pCIP.y.sE.eO.p.e4.kD.d8R3.e.g',
             object: '_V4.nM8P.y.sE.eO.p.e4.kD.d8R3.e.g-content.html#_V4.pCIP.y.sE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: '',
             id: '_.rF.j.r0P.y.sE.eO.p.e4.kD.d8R3.e.g',
             object: '_.rF.j.r0P.y.sE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon-1660611489',
+            icon: 'icon-1090176878',
             children: [
                 {_reference: '_.rF.k58P.y.sE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_.rF.mIEP.y.sE.eO.p.e4.kD.d8R3.e.g' }
@@ -4008,21 +4137,21 @@
             title: 'cTRL: Live 2D image',
             id: '_.rF.k58P.y.sE.eO.p.e4.kD.d8R3.e.g',
             object: '_.rF.j.r0P.y.sE.eO.p.e4.kD.d8R3.e.g-content.html#_.rF.k58P.y.sE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: 'iXS User',
             id: '_.rF.mIEP.y.sE.eO.p.e4.kD.d8R3.e.g',
             object: '_.rF.j.r0P.y.sE.eO.p.e4.kD.d8R3.e.g-content.html#_.rF.mIEP.y.sE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: '',
             id: '_1.oL.g.kP.y.tE.eO.p.e4.kD.d8R3.e.g',
             object: '_1.oL.g.kP.y.tE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon-1660611489',
+            icon: 'icon-1090176878',
             children: [
                 {_reference: '_1.oM.u.sP.y.tE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_1.oN80P.y.tE.eO.p.e4.kD.d8R3.e.g' }
@@ -4033,21 +4162,21 @@
             title: 'vIS: 1D Stack',
             id: '_1.oM.u.sP.y.tE.eO.p.e4.kD.d8R3.e.g',
             object: '_1.oL.g.kP.y.tE.eO.p.e4.kD.d8R3.e.g-content.html#_1.oM.u.sP.y.tE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: 'sRX User',
             id: '_1.oN80P.y.tE.eO.p.e4.kD.d8R3.e.g',
             object: '_1.oL.g.kP.y.tE.eO.p.e4.kD.d8R3.e.g-content.html#_1.oN80P.y.tE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: '',
             id: '__81.nQP.y.tE.eO.p.e4.kD.d8R3.e.g',
             object: '__81.nQP.y.tE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon-1660611489',
+            icon: 'icon-1090176878',
             children: [
                 {_reference: '__82OUP.y.tE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '__821YP.y.tE.eO.p.e4.kD.d8R3.e.g' }
@@ -4058,21 +4187,21 @@
             title: 'vIS: 1D',
             id: '__82OUP.y.tE.eO.p.e4.kD.d8R3.e.g',
             object: '__81.nQP.y.tE.eO.p.e4.kD.d8R3.e.g-content.html#__82OUP.y.tE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: 'sRX User',
             id: '__821YP.y.tE.eO.p.e4.kD.d8R3.e.g',
             object: '__81.nQP.y.tE.eO.p.e4.kD.d8R3.e.g-content.html#__821YP.y.tE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: '',
             id: '_P.kDM.sP.y.uE.eO.p.e4.kD.d8R3.e.g',
             object: '_P.kDM.sP.y.uE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon-1660611489',
+            icon: 'icon-1090176878',
             children: [
                 {_reference: '_P.kD.z.wP.y.uE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_P.kE.a0.f.y.uE.eO.p.e4.kD.d8R3.e.g' }
@@ -4083,21 +4212,21 @@
             title: 'cALC: Apply ROI to data stack',
             id: '_P.kD.z.wP.y.uE.eO.p.e4.kD.d8R3.e.g',
             object: '_P.kDM.sP.y.uE.eO.p.e4.kD.d8R3.e.g-content.html#_P.kD.z.wP.y.uE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: 'sRX User',
             id: '_P.kE.a0.f.y.uE.eO.p.e4.kD.d8R3.e.g',
             object: '_P.kDM.sP.y.uE.eO.p.e4.kD.d8R3.e.g-content.html#_P.kE.a0.f.y.uE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: '',
             id: '_.f2IUEP.y.uE.eO.p.e4.kD.d8R3.e.g',
             object: '_.f2IUEP.y.uE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon-1660611489',
+            icon: 'icon-1090176878',
             children: [
                 {_reference: '_.f2I7IP.y.uE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_.f2KJQP.y.uE.eO.p.e4.kD.d8R3.e.g' }
@@ -4108,21 +4237,21 @@
             title: 'cALC: Image Registration',
             id: '_.f2I7IP.y.uE.eO.p.e4.kD.d8R3.e.g',
             object: '_.f2IUEP.y.uE.eO.p.e4.kD.d8R3.e.g-content.html#_.f2I7IP.y.uE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: 'sRX User',
             id: '_.f2KJQP.y.uE.eO.p.e4.kD.d8R3.e.g',
             object: '_.f2IUEP.y.uE.eO.p.e4.kD.d8R3.e.g-content.html#_.f2KJQP.y.uE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: '',
             id: '_.s.x.p.vUP.y.uE.eO.p.e4.kD.d8R3.e.g',
             object: '_.s.x.p.vUP.y.uE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon-1660611489',
+            icon: 'icon-1090176878',
             children: [
                 {_reference: '_.s.x.q9.cP.y.uE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_.s.x.s.y.oP.y.uE.eO.p.e4.kD.d8R3.e.g' }
@@ -4133,21 +4262,21 @@
             title: 'cALIB: Element to energy range',
             id: '_.s.x.q9.cP.y.uE.eO.p.e4.kD.d8R3.e.g',
             object: '_.s.x.p.vUP.y.uE.eO.p.e4.kD.d8R3.e.g-content.html#_.s.x.q9.cP.y.uE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: 'sRX User',
             id: '_.s.x.s.y.oP.y.uE.eO.p.e4.kD.d8R3.e.g',
             object: '_.s.x.p.vUP.y.uE.eO.p.e4.kD.d8R3.e.g-content.html#_.s.x.s.y.oP.y.uE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: '',
             id: '_SH.e9UP.y.vE.eO.p.e4.kD.d8R3.e.g',
             object: '_SH.e9UP.y.vE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon-1660611489',
+            icon: 'icon-1090176878',
             children: [
                 {_reference: '_SH.gL.cP.y.vE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_SH.iA.oP.y.vE.eO.p.e4.kD.d8R3.e.g' }
@@ -4158,21 +4287,21 @@
             title: 'vIS: 2D Stack',
             id: '_SH.gL.cP.y.vE.eO.p.e4.kD.d8R3.e.g',
             object: '_SH.e9UP.y.vE.eO.p.e4.kD.d8R3.e.g-content.html#_SH.gL.cP.y.vE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: 'sRX User',
             id: '_SH.iA.oP.y.vE.eO.p.e4.kD.d8R3.e.g',
             object: '_SH.e9UP.y.vE.eO.p.e4.kD.d8R3.e.g-content.html#_SH.iA.oP.y.vE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: '',
             id: '_S.i.dCEP.y.vE.eO.p.e4.kD.d8R3.e.g',
             object: '_S.i.dCEP.y.vE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon-1660611489',
+            icon: 'icon-1090176878',
             children: [
                 {_reference: '_S.i.eQMP.y.vE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_S.i.f.eUP.y.vE.eO.p.e4.kD.d8R3.e.g' }
@@ -4183,21 +4312,21 @@
             title: 'vIS: ROI 1D',
             id: '_S.i.eQMP.y.vE.eO.p.e4.kD.d8R3.e.g',
             object: '_S.i.dCEP.y.vE.eO.p.e4.kD.d8R3.e.g-content.html#_S.i.eQMP.y.vE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: 'sRX User',
             id: '_S.i.f.eUP.y.vE.eO.p.e4.kD.d8R3.e.g',
             object: '_S.i.dCEP.y.vE.eO.p.e4.kD.d8R3.e.g-content.html#_S.i.f.eUP.y.vE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: '',
             id: '_.aGZ.fMP.y.wE.eO.p.e4.kD.d8R3.e.g',
             object: '_.aGZ.fMP.y.wE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon-1660611489',
+            icon: 'icon-1090176878',
             children: [
                 {_reference: '_.aG.aGQP.y.wE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_.aG.b7.cP.y.wE.eO.p.e4.kD.d8R3.e.g' }
@@ -4208,21 +4337,21 @@
             title: 'vIS: 2D Stack',
             id: '_.aG.aGQP.y.wE.eO.p.e4.kD.d8R3.e.g',
             object: '_.aGZ.fMP.y.wE.eO.p.e4.kD.d8R3.e.g-content.html#_.aG.aGQP.y.wE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: 'coherent Scattering User',
             id: '_.aG.b7.cP.y.wE.eO.p.e4.kD.d8R3.e.g',
             object: '_.aGZ.fMP.y.wE.eO.p.e4.kD.d8R3.e.g-content.html#_.aG.b7.cP.y.wE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: '',
             id: '_A57.aQP.y.xE.eO.p.e4.kD.d8R3.e.g',
             object: '_A57.aQP.y.xE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon-1660611489',
+            icon: 'icon-1090176878',
             children: [
                 {_reference: '_A58.oYP.y.xE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_A592.gP.y.xE.eO.p.e4.kD.d8R3.e.g' }
@@ -4233,21 +4362,21 @@
             title: 'cALC: Array Algebra',
             id: '_A58.oYP.y.xE.eO.p.e4.kD.d8R3.e.g',
             object: '_A57.aQP.y.xE.eO.p.e4.kD.d8R3.e.g-content.html#_A58.oYP.y.xE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: 'xPD User',
             id: '_A592.gP.y.xE.eO.p.e4.kD.d8R3.e.g',
             object: '_A57.aQP.y.xE.eO.p.e4.kD.d8R3.e.g-content.html#_A592.gP.y.xE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: '',
             id: '_F.y.rR4P.y.xE.eO.p.e4.kD.d8R3.e.g',
             object: '_F.y.rR4P.y.xE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon-1660611489',
+            icon: 'icon-1090176878',
             children: [
                 {_reference: '_F.y.r48P.y.xE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_F.y.t.uIP.y.xE.eO.p.e4.kD.d8R3.e.g' }
@@ -4258,21 +4387,21 @@
             title: 'cALC: Azimuthal Integration',
             id: '_F.y.r48P.y.xE.eO.p.e4.kD.d8R3.e.g',
             object: '_F.y.rR4P.y.xE.eO.p.e4.kD.d8R3.e.g-content.html#_F.y.r48P.y.xE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: 'xPD User',
             id: '_F.y.t.uIP.y.xE.eO.p.e4.kD.d8R3.e.g',
             object: '_F.y.rR4P.y.xE.eO.p.e4.kD.d8R3.e.g-content.html#_F.y.t.uIP.y.xE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: '',
             id: '_OC.t1.cP.y.xE.eO.p.e4.kD.d8R3.e.g',
             object: '_OC.t1.cP.y.xE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon-1660611489',
+            icon: 'icon-1090176878',
             children: [
                 {_reference: '_OC.u.c.gP.y.xE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_OC.v.q.oP.y.xE.eO.p.e4.kD.d8R3.e.g' }
@@ -4283,21 +4412,21 @@
             title: 'cALC: Reduce dataset to single datum',
             id: '_OC.u.c.gP.y.xE.eO.p.e4.kD.d8R3.e.g',
             object: '_OC.t1.cP.y.xE.eO.p.e4.kD.d8R3.e.g-content.html#_OC.u.c.gP.y.xE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: 'xPD User',
             id: '_OC.v.q.oP.y.xE.eO.p.e4.kD.d8R3.e.g',
             object: '_OC.t1.cP.y.xE.eO.p.e4.kD.d8R3.e.g-content.html#_OC.v.q.oP.y.xE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: '',
             id: '_RK5HUP.y.xE.eO.p.e4.kD.d8R3.e.g',
             object: '_RK5HUP.y.xE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon-1660611489',
+            icon: 'icon-1090176878',
             children: [
                 {_reference: '_RK6V.cP.y.xE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_RK7.j.kP.y.xE.eO.p.e4.kD.d8R3.e.g' }
@@ -4308,21 +4437,21 @@
             title: 'cALC: Slice dataset',
             id: '_RK6V.cP.y.xE.eO.p.e4.kD.d8R3.e.g',
             object: '_RK5HUP.y.xE.eO.p.e4.kD.d8R3.e.g-content.html#_RK6V.cP.y.xE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: 'xPD User',
             id: '_RK7.j.kP.y.xE.eO.p.e4.kD.d8R3.e.g',
             object: '_RK5HUP.y.xE.eO.p.e4.kD.d8R3.e.g-content.html#_RK7.j.kP.y.xE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: '',
             id: '_UNL.z.oP.y.xE.eO.p.e4.kD.d8R3.e.g',
             object: '_UNL.z.oP.y.xE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon-1660611489',
+            icon: 'icon-1090176878',
             children: [
                 {_reference: '_UNNB.wP.y.xE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_UNOP4P.y.xE.eO.p.e4.kD.d8R3.e.g' }
@@ -4333,21 +4462,21 @@
             title: 'dB: Export',
             id: '_UNNB.wP.y.xE.eO.p.e4.kD.d8R3.e.g',
             object: '_UNL.z.oP.y.xE.eO.p.e4.kD.d8R3.e.g-content.html#_UNNB.wP.y.xE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: 'xPD User',
             id: '_UNOP4P.y.xE.eO.p.e4.kD.d8R3.e.g',
             object: '_UNL.z.oP.y.xE.eO.p.e4.kD.d8R3.e.g-content.html#_UNOP4P.y.xE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: '',
             id: '_X.kL.k.oP.y.xE.eO.p.e4.kD.d8R3.e.g',
             object: '_X.kL.k.oP.y.xE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon-1660611489',
+            icon: 'icon-1090176878',
             children: [
                 {_reference: '_X.kML.sP.y.xE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_X.kNZ0P.y.xE.eO.p.e4.kD.d8R3.e.g' }
@@ -4358,21 +4487,21 @@
             title: 'iN: tiff',
             id: '_X.kML.sP.y.xE.eO.p.e4.kD.d8R3.e.g',
             object: '_X.kL.k.oP.y.xE.eO.p.e4.kD.d8R3.e.g-content.html#_X.kML.sP.y.xE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: 'xPD User',
             id: '_X.kNZ0P.y.xE.eO.p.e4.kD.d8R3.e.g',
             object: '_X.kL.k.oP.y.xE.eO.p.e4.kD.d8R3.e.g-content.html#_X.kNZ0P.y.xE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: '',
             id: '_.aNV_QP.y.xE.eO.p.e4.kD.d8R3.e.g',
             object: '_.aNV_QP.y.xE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon-1660611489',
+            icon: 'icon-1090176878',
             children: [
                 {_reference: '_.aNXNYP.y.xE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_.aNY.b.gP.y.xE.eO.p.e4.kD.d8R3.e.g' }
@@ -4383,21 +4512,21 @@
             title: 'iN: tiff metadata',
             id: '_.aNXNYP.y.xE.eO.p.e4.kD.d8R3.e.g',
             object: '_.aNV_QP.y.xE.eO.p.e4.kD.d8R3.e.g-content.html#_.aNXNYP.y.xE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: 'xPD User',
             id: '_.aNY.b.gP.y.xE.eO.p.e4.kD.d8R3.e.g',
             object: '_.aNV_QP.y.xE.eO.p.e4.kD.d8R3.e.g-content.html#_.aNY.b.gP.y.xE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: '',
             id: '_.d.m.qE.cP.y.xE.eO.p.e4.kD.d8R3.e.g',
             object: '_.d.m.qE.cP.y.xE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon-1660611489',
+            icon: 'icon-1090176878',
             children: [
                 {_reference: '_.d.m.q.r.gP.y.xE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_.d.m.s.g.sP.y.xE.eO.p.e4.kD.d8R3.e.g' }
@@ -4408,21 +4537,21 @@
             title: 'oUT: CHI',
             id: '_.d.m.q.r.gP.y.xE.eO.p.e4.kD.d8R3.e.g',
             object: '_.d.m.qE.cP.y.xE.eO.p.e4.kD.d8R3.e.g-content.html#_.d.m.q.r.gP.y.xE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: 'xPD User',
             id: '_.d.m.s.g.sP.y.xE.eO.p.e4.kD.d8R3.e.g',
             object: '_.d.m.qE.cP.y.xE.eO.p.e4.kD.d8R3.e.g-content.html#_.d.m.s.g.sP.y.xE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: '',
             id: '_.h.j.wMIP.y.xE.eO.p.e4.kD.d8R3.e.g',
             object: '_.h.j.wMIP.y.xE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon-1660611489',
+            icon: 'icon-1090176878',
             children: [
                 {_reference: '_.h.j.w.zMP.y.xE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_.h.j.x.aQP.y.xE.eO.p.e4.kD.d8R3.e.g' }
@@ -4433,21 +4562,21 @@
             title: 'oUT: DAT',
             id: '_.h.j.w.zMP.y.xE.eO.p.e4.kD.d8R3.e.g',
             object: '_.h.j.wMIP.y.xE.eO.p.e4.kD.d8R3.e.g-content.html#_.h.j.w.zMP.y.xE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: 'xPD User',
             id: '_.h.j.x.aQP.y.xE.eO.p.e4.kD.d8R3.e.g',
             object: '_.h.j.wMIP.y.xE.eO.p.e4.kD.d8R3.e.g-content.html#_.h.j.x.aQP.y.xE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: '',
             id: '_.lA.g.m4P.y.xE.eO.p.e4.kD.d8R3.e.g',
             object: '_.lA.g.m4P.y.xE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon-1660611489',
+            icon: 'icon-1090176878',
             children: [
                 {_reference: '_.lA.h1AP.y.xE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_.lA.j.qMP.y.xE.eO.p.e4.kD.d8R3.e.g' }
@@ -4458,21 +4587,21 @@
             title: 'oUT: GSAS',
             id: '_.lA.h1AP.y.xE.eO.p.e4.kD.d8R3.e.g',
             object: '_.lA.g.m4P.y.xE.eO.p.e4.kD.d8R3.e.g-content.html#_.lA.h1AP.y.xE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: 'xPD User',
             id: '_.lA.j.qMP.y.xE.eO.p.e4.kD.d8R3.e.g',
             object: '_.lA.g.m4P.y.xE.eO.p.e4.kD.d8R3.e.g-content.html#_.lA.j.qMP.y.xE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: '',
             id: '_.m.yYNIP.y.xE.eO.p.e4.kD.d8R3.e.g',
             object: '_.m.yYNIP.y.xE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon-1660611489',
+            icon: 'icon-1090176878',
             children: [
                 {_reference: '_.m.yZ.bQP.y.xE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_.m.y.aCUP.y.xE.eO.p.e4.kD.d8R3.e.g' }
@@ -4483,21 +4612,21 @@
             title: 'oUT: XYE',
             id: '_.m.yZ.bQP.y.xE.eO.p.e4.kD.d8R3.e.g',
             object: '_.m.yYNIP.y.xE.eO.p.e4.kD.d8R3.e.g-content.html#_.m.yZ.bQP.y.xE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: 'xPD User',
             id: '_.m.y.aCUP.y.xE.eO.p.e4.kD.d8R3.e.g',
             object: '_.m.yYNIP.y.xE.eO.p.e4.kD.d8R3.e.g-content.html#_.m.y.aCUP.y.xE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: '',
             id: '_.o.dR.o.sP.y.xE.eO.p.e4.kD.d8R3.e.g',
             object: '_.o.dR.o.sP.y.xE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon-1660611489',
+            icon: 'icon-1090176878',
             children: [
                 {_reference: '_.o.dS20P.y.xE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_.o.dUE8P.y.xE.eO.p.e4.kD.d8R3.e.g' }
@@ -4508,21 +4637,21 @@
             title: 'vIS: 1D Stack',
             id: '_.o.dS20P.y.xE.eO.p.e4.kD.d8R3.e.g',
             object: '_.o.dR.o.sP.y.xE.eO.p.e4.kD.d8R3.e.g-content.html#_.o.dS20P.y.xE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: 'xPD User',
             id: '_.o.dUE8P.y.xE.eO.p.e4.kD.d8R3.e.g',
             object: '_.o.dR.o.sP.y.xE.eO.p.e4.kD.d8R3.e.g-content.html#_.o.dUE8P.y.xE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: '',
             id: '_.s.f.o.q4P.y.xE.eO.p.e4.kD.d8R3.e.g',
             object: '_.s.f.o.q4P.y.xE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon-1660611489',
+            icon: 'icon-1090176878',
             children: [
                 {_reference: '_.s.f.p5AP.y.xE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_.s.f.rHIP.y.xE.eO.p.e4.kD.d8R3.e.g' }
@@ -4533,21 +4662,21 @@
             title: 'vIS: 2D Stack',
             id: '_.s.f.p5AP.y.xE.eO.p.e4.kD.d8R3.e.g',
             object: '_.s.f.o.q4P.y.xE.eO.p.e4.kD.d8R3.e.g-content.html#_.s.f.p5AP.y.xE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: 'xPD User',
             id: '_.s.f.rHIP.y.xE.eO.p.e4.kD.d8R3.e.g',
             object: '_.s.f.o.q4P.y.xE.eO.p.e4.kD.d8R3.e.g-content.html#_.s.f.rHIP.y.xE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: '',
             id: '_.vP5.zEP.y.xE.eO.p.e4.kD.d8R3.e.g',
             object: '_.vP5.zEP.y.xE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon-1660611489',
+            icon: 'icon-1090176878',
             children: [
                 {_reference: '_.vP7BMP.y.xE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_.vP8PUP.y.xE.eO.p.e4.kD.d8R3.e.g' }
@@ -4558,21 +4687,21 @@
             title: 'vIS: 3D Line',
             id: '_.vP7BMP.y.xE.eO.p.e4.kD.d8R3.e.g',
             object: '_.vP5.zEP.y.xE.eO.p.e4.kD.d8R3.e.g-content.html#_.vP7BMP.y.xE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: 'xPD User',
             id: '_.vP8PUP.y.xE.eO.p.e4.kD.d8R3.e.g',
             object: '_.vP5.zEP.y.xE.eO.p.e4.kD.d8R3.e.g-content.html#_.vP8PUP.y.xE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: '',
             id: '_.y.x.t.s8P.y.xE.eO.p.e4.kD.d8R3.e.g',
             object: '_.y.x.t.s8P.y.xE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon-1660611489',
+            icon: 'icon-1090176878',
             children: [
                 {_reference: '_.y.x.u7EP.y.xE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_.y.x.v.iIP.y.xE.eO.p.e4.kD.d8R3.e.g' }
@@ -4583,21 +4712,21 @@
             title: 'vIS: Contour',
             id: '_.y.x.u7EP.y.xE.eO.p.e4.kD.d8R3.e.g',
             object: '_.y.x.t.s8P.y.xE.eO.p.e4.kD.d8R3.e.g-content.html#_.y.x.u7EP.y.xE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: 'xPD User',
             id: '_.y.x.v.iIP.y.xE.eO.p.e4.kD.d8R3.e.g',
             object: '_.y.x.t.s8P.y.xE.eO.p.e4.kD.d8R3.e.g-content.html#_.y.x.v.iIP.y.xE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: '',
             id: '_40M.z0P.y.xE.eO.p.e4.kD.d8R3.e.g',
             object: '_40M.z0P.y.xE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon-1660611489',
+            icon: 'icon-1090176878',
             children: [
                 {_reference: '_40N.a4P.y.xE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_40O.pAP.y.xE.eO.p.e4.kD.d8R3.e.g' }
@@ -4608,21 +4737,21 @@
             title: 'vIS: Remove elements from dataset',
             id: '_40N.a4P.y.xE.eO.p.e4.kD.d8R3.e.g',
             object: '_40M.z0P.y.xE.eO.p.e4.kD.d8R3.e.g-content.html#_40N.a4P.y.xE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: 'xPD User',
             id: '_40O.pAP.y.xE.eO.p.e4.kD.d8R3.e.g',
             object: '_40M.z0P.y.xE.eO.p.e4.kD.d8R3.e.g-content.html#_40O.pAP.y.xE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: '',
             id: '_79PBUP.y.xE.eO.p.e4.kD.d8R3.e.g',
             object: '_79PBUP.y.xE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon-1660611489',
+            icon: 'icon-1090176878',
             children: [
                 {_reference: '_79QP.cP.y.xE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_79R.d.kP.y.xE.eO.p.e4.kD.d8R3.e.g' }
@@ -4633,21 +4762,21 @@
             title: 'vIS: ROI 2D',
             id: '_79QP.cP.y.xE.eO.p.e4.kD.d8R3.e.g',
             object: '_79PBUP.y.xE.eO.p.e4.kD.d8R3.e.g-content.html#_79QP.cP.y.xE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: 'xPD User',
             id: '_79R.d.kP.y.xE.eO.p.e4.kD.d8R3.e.g',
             object: '_79PBUP.y.xE.eO.p.e4.kD.d8R3.e.g-content.html#_79R.d.kP.y.xE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: '',
             id: '_A.mMJ.cP.y.yE.eO.p.e4.kD.d8R3.e.g',
             object: '_A.mMJ.cP.y.yE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon-1660611489',
+            icon: 'icon-1090176878',
             children: [
                 {_reference: '_A.mM.w.gP.y.yE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_A.mN-.oP.y.yE.eO.p.e4.kD.d8R3.e.g' }
@@ -4658,21 +4787,21 @@
             title: 'vIS: ROI Cake',
             id: '_A.mM.w.gP.y.yE.eO.p.e4.kD.d8R3.e.g',
             object: '_A.mMJ.cP.y.yE.eO.p.e4.kD.d8R3.e.g-content.html#_A.mM.w.gP.y.yE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: 'xPD User',
             id: '_A.mN-.oP.y.yE.eO.p.e4.kD.d8R3.e.g',
             object: '_A.mMJ.cP.y.yE.eO.p.e4.kD.d8R3.e.g-content.html#_A.mN-.oP.y.yE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: '',
             id: '_WQ6.w.gP.y.yE.eO.p.e4.kD.d8R3.e.g',
             object: '_WQ6.w.gP.y.yE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon-1660611489',
+            icon: 'icon-1090176878',
             children: [
                 {_reference: '_WQ7-.oP.y.yE.eO.p.e4.kD.d8R3.e.g' },
                 {_reference: '_WQ9.z0P.y.yE.eO.p.e4.kD.d8R3.e.g' }
@@ -4683,93 +4812,14 @@
             title: 'vIS: 1D Stack',
             id: '_WQ7-.oP.y.yE.eO.p.e4.kD.d8R3.e.g',
             object: '_WQ6.w.gP.y.yE.eO.p.e4.kD.d8R3.e.g-content.html#_WQ7-.oP.y.yE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		,
         {
             title: 'iXS User',
             id: '_WQ9.z0P.y.yE.eO.p.e4.kD.d8R3.e.g',
             object: '_WQ6.w.gP.y.yE.eO.p.e4.kD.d8R3.e.g-content.html#_WQ9.z0P.y.yE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
-        }
-		,
-        {
-            title: 'ROI1D',
-            id: '_ZU.d.o.gP1LE.eO.p.e4.kD.d8R3.e.g',
-            object: '_ZU.d.o.gP1LE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon151331783'
-        }
-		,
-        {
-            title: '',
-            id: '_.bUSLMP1LE.eO.p.e4.kD.d8R3.e.g',
-            object: '_.bUSLMP1LE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon33898957'
-        }
-		,
-        {
-            title: 'ROI2DShape',
-            id: '_.dX5.o.wP1LE.eO.p.e4.kD.d8R3.e.g',
-            object: '_.dX5.o.wP1LE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon151331783'
-        }
-		,
-        {
-            title: '',
-            id: '_.h.c.aAAP1LE.eO.p.e4.kD.d8R3.e.g',
-            object: '_.h.c.aAAP1LE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon33898957'
-        }
-		,
-        {
-            title: 'Class1',
-            id: '_.h74KQP1LE.eO.p.e4.kD.d8R3.e.g',
-            object: '_.h74KQP1LE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon151331783'
-        }
-		,
-        {
-            title: 'AbstractMessengerROI',
-            id: '_.w.d.i.c4P1LE.eO.p.e4.kD.d8R3.e.g',
-            object: '_.w.d.i.c4P1LE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon151331783',
-            children: [
-            ]
-        }
-		,
-        {
-            title: 'ROI2DShapeMessenger',
-            id: '__.k.iRMP1LE.eO.p.e4.kD.d8R3.e.g',
-            object: '__.k.iRMP1LE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon151331783',
-            children: [
-            ]
-        }
-		,
-        {
-            title: 'ROI1DShapeMessenger',
-            id: '__.wRAEP1LE.eO.p.e4.kD.d8R3.e.g',
-            object: '__.wRAEP1LE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon151331783',
-            children: [
-            ]
-        }
-		,
-        {
-            title: 'ControlWidgetBucket',
-            id: '_F.t.v1.sP1NE.eO.p.e4.kD.d8R3.e.g',
-            object: '_F.t.v1.sP1NE.eO.p.e4.kD.d8R3.e.g-content.html',
-            icon: 'icon151331783',
-            children: [
-                {_reference: '_.gI7UAP1NE.eO.p.e4.kD.d8R3.e.g' }
-            ]
-        }
-		,
-        {
-            title: '_ctrl_boxes',
-            id: '_.gI7UAP1NE.eO.p.e4.kD.d8R3.e.g',
-            object: '_F.t.v1.sP1NE.eO.p.e4.kD.d8R3.e.g-content.html#_.gI7UAP1NE.eO.p.e4.kD.d8R3.e.g',
-            icon: 'icon470099028'
+            icon: 'icon2063936092'
         }
 		
     ]
